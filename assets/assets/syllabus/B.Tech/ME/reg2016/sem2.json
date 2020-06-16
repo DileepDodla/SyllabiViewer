@@ -1,0 +1,108 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MAT 02",
+            "title": "Engineering Mathematics - II",
+            "credits": "4",
+            "unit1": "Matrices: Rank of a matrix - Solution of system of linear equations - Eigen values, vectors - Cayley-hamilton theorem - Quadratic forms - Diagonalization.",
+            "unit2": "Vector Calculus: Gradient, Divergence, Curl of a vector and related properties - line, surface, volume integrals - Green’s, Stokes’s and Gauss Divergence theorems and its applications.",
+            "unit3": "Fourier Series: Fourier series - even and odd functions, periodic functions - half range sine and cosine series - harmonic analysis.",
+            "unit4": "Special Functions I: Gamma and Beta functions - series solutions of differential equations - ordinary points.",
+            "unit5": "Special Functions II: Bessel function - recurrence formulae - generating function for J\u207F(X) - Lengender polynomials - recurrence formulae - generating function for P\u207F(X) - Rodrigue’s formula - orthogonality of Lengender polynomials.",
+            "textbooks": "1. B S Grewal, Higher Engineering Mathematics, 40th Edition, Khanna Publications, 2007.\n2. M K Venkataraman, Engineering Mathematics, National Publishing Company, Chennai.\n3. B V Ramana, Higher Engineering Mathematics, 6th Reprint, Tata McGraw-Hill, 2008.\n4. Bali and Iyengar, Engineering Mathematics, 6th Edition, Laxmi Publications, 2006.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 02",
+            "title": "Data Structures",
+            "credits": "4",
+            "unit1": "Definitions of Data structures, Storage Structures and File Structures. Primitive and Non-primitive Data Structures, Linear and Nonlinear Data Structures.\nPerformance Analysis, Asymptotic Notation and Performance Measurement.\nLinear Lists: ADT, Array Representation, Linked Representation and applications.",
+            "unit2": "Stacks: Definition, The Abstract Data Type, Array Representation, Linked Representation.\n\nQueues: Definition, The Abstract Data Type, Array Representation, Linked Representation, Circular Queues, Applications.\n\nLinked Lists: Single Linked Lists – Insertion and Deletion, Double Linked Lists – Insertion and Deletion.\n\nSkip List and Hashing: Dictionaries, the ADT of Skip List, Linear List Representation, Hash Table Representation.",
+            "unit3": "Binary Trees: Definition and Properties, ADT, Array Representation, Linked Representation, and Applications.\n\nHeap: Definition and Applications.\n\nBinary Search Trees: Definition, ADT, Implementation and Applications.\n\nIntroduction to Balanced Search Trees: AVL Trees, Red-Black Trees, and Splay Trees.",
+            "unit4": "Graphs: Definition and Properties, Modeling Problems as Graphs, ADT, Representations, Breadth First Search and Depth First Search.\n\nPriority Queues: Definition and Applications, Single and Double Ended Priority Queues, Linear Lists, Heaps, Leftist Trees, Binomial Heaps, Fibonacci Heaps, Pairing Heaps.\n\nIntroduction to Algorithms for Solving Problems: Minimum Spanning Tree, Single Source Shortest Paths, All-Pairs Shortest Paths, and Maximum Flow.",
+            "unit5": "Efficient Binary Search Trees: Optimal Binary Search Trees, AVL Trees, Red–Black Trees, Splay Trees.\n\nMultiway Search Trees: m–way Search Trees, B Trees, B+ Trees.\n\nExternal Searching: Concepts of Simple Indexing, Multilevel Indexing, B Trees, B+ Trees, Static Hashing, Collision Resolution Techniques, Packing Density, Bucket Size and Extendible Hashing.",
+            "textbooks": "1. Sahni S, Data Structures, Algorithms and Applications in C++, 2nd Edition, Universities Press, 2005.\n2. Malik D S, Data Structures using C++, Cengage Learning, 2003.\n3. Fundamentals of Data Structures in C++ by Ellis Horowitz, SartajSahni, Dinesh Mehta, Universities Press, Second Edition.",
+            "refbooks": "1. Data Structures and Algorithms Using C++ by AnandaRaoAkepogu and RadhikaRajuPalagiri.\n2. Classic Data Structure by D. Samanta, Eastern Economy Edition.\n3. Data Structures and Algorithms Made Easy by NarasimhaKarumanchi, Second Edition, Written in C/C++, CareerMonk Publications, Hyderabad.\n4. ADTs, Data Structures and Problem Solving with C++, Larry Nyhoff, Pearson\n5. Data Structures using C++, D.S.Malik, 2nd Edition, Cengage Learning.\n6. Data Structures through C++, YashavantP.Kanetkar, BPB Publication.\n7. Data Structures using C and C++, YedidyahLangsam.MosheJ.Augenstein Aaron M.Tenenbaum, 2nd Edition,PHI.\n8. Data Structures using C & C++, Rajesh K.Shukla, Wiley-India.\n9. Tremblay J P and Sorenson P G, Introduction to Data Structures with Applications, 2nd Edition, McGraw-Hill, 1984.\n10. Cormen T H, Leiserson C E, Stein C, and Rivest R L, Introduction to Algorithms, 2nd Edition, Prentice Hall of India, 2007.\n11. Folk M J, Riccardi G, and Zoellick B, File Structures-An Object-Oriented Approach with C++, Pearson.\n12. T.H.Cormen, C.E.Leiserson, R.L.Rivest, C. Stein, Introduction to Algorithms, 2nd edition, Prentice-Hall India, 2001.\n13. J. Kleinberg and E. Tardos, Algorithm Design, Pearson International Edition, 2005.\n14. Data Structures Using C and C++ YddishLangsam, Moshe J. Augenstein and Aaron M. Tanenbaum, Prentice Hall Of India (2nd Edition) (Chapters 1 to 8)."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "EET 01",
+            "title": "Basic Electrical Engineering",
+            "credits": "3",
+            "unit1": "Basic Circuit Concepts: Basic circuit elements R, L & C — Classification of circuit elements, voltage and current sources — Kirchoff’s laws — Star-delta and Delta-Star transformations, Network reduction techniques, Simple problems.",
+            "unit2": "DC Circuits: DC Circuit analysis by mesh current method and Nodal voltage method, Superposition theorem, Thevenin’s theorem and maximum power transfer theorem – Application to simple DC circuits.",
+            "unit3": "AC Circuits: Average value — RMS value — form factor, crest factor - j-notation, Phasor diagrams, reactance, impedance and admittance, active power, reactive power, apparent power, power triangle — Expression for real power in ac circuit — Analysis of simple - series and parallel circuits.",
+            "unit4": "DC Machines: Principle of operation of dc generator, emf equation, types of generators, principle of operation of dc motor, Back EMF, torque equation of dc motor, Illustrative examples, applications dc motors.",
+            "unit5": "Transformers: Single phase transformer – principle of operation — types of transformers — emf equation, transformer on load.\n\nInduction Motors: principle of operation of 3-phase induction motor, types of 3-phase induction motors - Principle of single phase induction motor, types, applications of 3-phase and single phase induction motors.\n\nIlluminations: Introduction, Laws of Illumination, Lighting calculations, Design of lighting schemes.",
+            "textbooks": "1. Network analysis by A Sudhakar, ShyamMohan ( Tata McGrawHill).\n2. Basic Electrical Engineering by DP Kothari, IH Nagrath (Tata McGrawHill).",
+            "refbooks": "1. Electrical Technology – E. Hughes (University Press).\n2. Electrical Circuits – Joseph Edminister (TMH Series)."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECT 01",
+            "title": "Basic Electronics Engineering",
+            "credits": "3",
+            "unit1": "Electronics Devices: Introduction to electronics, review of p-n junction operation, diode applications, Zener diode as regulator, Transister – Biasing, characteristics, FET-Operation, Types of FETs, Photo Electronic Devices.",
+            "unit2": "Amplifiers and applications: Transistor Amplifier, Amplifier characteristics, Simple RC coupled amplifier and frequency response. Cascaded amplifiers, FET Amplifier, Oscillator principle, LC and RC oscillators.",
+            "unit3": "Digital Circuits: Number systems, Conversion of number systems, Logic gates, Boolean theorems, Demorgan theorems, combination logic circuits, Flip-Flops, Counters and Shift Registers, Data converters, ADC and DAC convertors.",
+            "unit4": "Instrumentation: Measurements, Errors in measurements, Cathode Ray oscilloscope, Measurements using CRO – Voltage, Current, Frequency, Time and Phase angle, Transducers, Strain gauges, LVDT, Temperature measurements.",
+            "unit5": "Principles of Communication: Basic Communication system, Need for Modulation, Types of Modulation, AM Modulation and Demodulation, FM Modulation and Demodulation, Sampling Theorem, Pulse Modulation, Digital Modulation Techniques.",
+            "textbooks": "1. Salivahanan, N Suresh Kumar Electronic Devices and circuits, 3 rd Edition, McGraw Hill publications.\n2. A. Ananda Kumar, Switching theory and logic design, Prentice Hall of India Ltd.\n3. Helfrick and cooper, Modern Electronic Instrumention and Measurement techniques, Pearson Education.\n4. Anokh Singh, Principles of Communication Engineering, S.Chand& Co. New Delhi.\n5. P. Ramakrishna, Analog Communication, Mcgraw Hill Co.",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CET 41",
+            "title": "Engineering Mechanics",
+            "credits": "4",
+            "unit1": "Statics: Basic concepts – System of force, Concurrent and non – concurrent Coplanar and non – coplanar forces – Resultant – Moment of force and its applications – Couples and resultant of force systems – Equilibrium of systems of forces – free body diagrams (FBDs), Equations of equilibrium of coplanar systems and spatial systems.",
+            "unit2": "Center of gravity and moment of inertia – Theory of Pappus – Centroids of composite figures – Areas of gravity of bodies – Moment of inertia – Parallel and perpendicular axis theorems – Moments of inertia of composite of areas (rolled and built – up sections) – Radius of gyration of areas.",
+            "unit3": "Simple Stress and Strains – Elasticity and Plasticity – Types of stresses and strains – Hooke’s law – Stress – Strain diagram for mild steel – Working stress – Factor of safety.\n\nLateral Strain and Poisson’s ratio – Volumetric strain – Elastic module and relationship between elastic constants – Bars of varying section – Composite bars – Temperature stresses. Strain energy - principles of virtual work.",
+            "unit4": "Kinematics: Rectilinear and Curvilinear motion – Velocity and Acceleration – Motion of A Rigid Body – Types and their Analysis in Planar Motion.\n\nKinetics: Analysis as a particle and Analysis as a Rigid Body in Translation – Central Forces of motion – Equations of Plane Motion – Fixed Axis Rotation – Rolling Bodies – Work Energy Method – Equation for Translation – Work Energy application to Particle Motion, Connection System – Fixed axis Rotation and Plane Motion.",
+            "unit5": "Analysis of Perfect Frames: Types of frames – cantilever frames and simply supported frames – Analysis of frames using method of joints and method of sections.\n\nMechanical Vibrations: Definitions, Concepts-Simple Harmonic motion-Free vibrations - Simple Compound and Torsional pendulum- Numerical problems.",
+            "textbooks": "1. Ghose, D.N., Applied Mechanics and Strength of Materials.\n2. Timoshenko and Young, Engineering Mechanics.\n3. Junarkar, S.B. Mechanics of Structures, Vol. 1.\n4. Junarkar, S.B., Elements of Applied Mechanics.",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "ENT 01",
+            "title": "English",
+            "credits": "3",
+            "unit1": "Effective Communication: Role and Importance of Communication, Features of Human Communication, Process of Communication, Interpersonal Communication, Barriers, Types - Verbal, Non-Verbal.",
+            "unit2": "Grammar: Articles, prepositions, tenses, reported speech, idioms and phrases.",
+            "unit3": "Listening Skills: Process of Listening, Tips for Effective Listening.\nSpeaking Skills: Basics of Spoken English, English Sounds, Rhythm and Intonation, Telephonic Skills, Group Communication.\nReading Skills: Developing Reading Skills, Reading Strategies, Reading Comprehension.\nWriting Skills: Paragraph Writing, Essay Writing, E-writing, Job applications, Reports, Resume and Letter Writing.",
+            "unit4": "Soft Skills: Tem Work Skills, Interview Skills, Problem-Solving Skills, Adoptability Skills, Presentation Skills and Group Discussions.",
+            "unit5": "Stories from Delight and Wisdom (An Anthology of Short Stories):\n1. The Gift of Magi By O. Henry.\n2. The Diamond Necklace by Guy De Maupassant.\n3. My Brother, My Brother by Norah Burke.\n4. The Open Window by Saki.\n5. The Child by Premchand",
+            "textbooks": "1. Oxford guide to Effective writing and Speaking by John Seely, Oxford University Press, 2013, ISBN- 978-0-19-871393-7.\n2. Delight and Wisdom published by Orient Blackswan, 2009, ISBN: 978-81-250-3716-3.",
+            "refbooks": "1. David Green, Structure and Composition in English, Macmillan Publishers India Limted.\n2. Communicative English by E. Suresh Kumar, P. Sreehari, Orient BalckSwan, 2009, ISBN: 13:9788125032502.\n3. English and Soft Skills by S P Dhanavelpublished byOrient Blackswan, 2013, ISBN 9788125039808.\n4. Personality Development and Soft Skills by Barun K. Mitrapublished byOxford University Press, 2012, ISBN : 13:97280198066217."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSP 02",
+            "title": "Data Structures Lab",
+            "credits": "2",
+            "todo": "1. Write a C++ Program to create a sequential file with at least 5 records, each record having the structure shown below:\n• USN: Non-zero\n   Name: 25\n   Marks1: Positive\n   Marks2: Positive\n   Marks3: Positive\n• USN: Positive integer\n   Name: Characters\n   Marks1: Integer\n   Marks2: Integer\n   Marks3: Integer\nWrite necessary functions\n a. To display all the records in the file.\n b. To search for a specific record based on the USN. In case the record is not found, suitable message should be displayed. Both the options in this case must be demonstrated.\n\n2. Write and demonstrate the following C++ functions:\n a. newStrCpy that does the same job as strcpy.\n b. newStrCat that does the same job as strcat without using any library functions.\n\n3. Write a C++ Program, which accepts the Internet Protocol (IP) address in decimal dot format(ex. 153.18.8.105) and converts it into 32-bit long integer (ex. 2568095849) using strtok library function and unions.\n\n4. Write a C++ Program to construct a stack of integers and to perform the following operations on it:\n a. Push\n b. Pop\n c. Display\nThe program should print appropriate messages for stack overflow, stack underflow, and stack empty.\n\n5. Write a C++ Program to convert and print a given valid parenthesized infix arithmetic expression to postfix expression. The expression consists of single character operands and the binary operators+ (plus), - (minus), * (multiply) and / (divide).\n\n6. Write a C++ Program to evaluate a valid suffix/postfix expression using stack. Assume that thesuffix/postfix expression is read as a single line consisting of non-negative single digit operands and binary arithmetic operators. The arithmetic operators are + (add), - (subtract), * (multiply) and / (divide).\n\n7. Write a C++ Program to simulate the working of a queue of integers using an array. Provide the following operations:\n a. Insert\n b. Delete\n c. Display\n\n8. Write a C++ Program to simulate the working of a circular queue of integers using an array.\nProvide the following operations:\n a. Insert\n b. Delete\n c. Display\n\n9. Write a C++ Program using dynamic variables and pointers, to construct a singly linked list consisting of the following information in each node: student id (integer), student name (character string) and semester (integer).\nThe operations to be supported are:\n a. The insertion operation\n  i. At the front of a list\n  ii. At the back of the list\n  iii. At any position in the list\n b. Deleting a node based on student id. If the specified node is not present in the list an error Message should be displayed. Both the options should be demonstrated.\n c. Searching a node based on student id and updates the information content. If the specified Node is not present in the list an error message should be displayed. Both situations shouldbe displayed.\n d. Displaying all the nodes in the list.\n(Note: Only one set of operations among a, b and c with d may be asked in the examination)\n\n10. Write a C++ Program using dynamic variables and pointers to construct a stack of integers using singly linked list and to perform the following operations:\n a. Push\n b. Pop\n c. Display\nThe program should print appropriate messages for stack overflow and stack empty.\n\n11. Write a C++ Program using dynamic variables and pointers to construct a queue of integers using singly linked list and to perform the following operations:\n a. Insert\n b. Delete\n c. Display\nThe program should print appropriate messages for queue full and queue empty.\n\n12. Write a C++ Program to support the following operations on a doubly linked list where each node consists of integers:\n a. Create a doubly linked list by adding each node at the front.\n b. Insert a new node to the left of the node whose key value is read as an input.\n c. Delete the node of a given data, if it is found, otherwise display appropriate message.\n d. Display the contents of the list.\n(Note: Only either (a, b and d) or (a, c and d) may be asked in the examination)\n\n13. Write a C++ Program\n a. To construct a binary search tree of integers.\n b. To traverse the tree using all the methods i.e., inorder, preorder and postorder.\n c. To display the elements in the tree.\n\n14. Write recursive C++ Programs for\n a. Searching an element on a given list of integers using the Binary Search method.\n b. Solving the Towers of Hanoi problem.\n\n15. Implement programs for structures and graphs with pointers and without pointers by taking examples.",
+            "refbooks": "1. Data structures and Algorithms using C++, AnandaRaoAkepogu and RadhikaRajuPalagiri, Pearson Education.\n2. C++ Solutions for Mathematical Problems, Ghosh, Arun, New Age International Publishers.\n3. Data Structures A Pseudocode Approach with C++, IndiaEdition, R.F.GilbergandB.A.Forouzan,Cengage Learning.\n4. Programming Principles and Practice using C++,B.Stroustrup,Addison-Wesley(Pearson education).\n5. Data Structures and STL, W.J.Collins,McGrawHill,International edition.\n6. Data structures and Algorithms with OODesign patterns inC++,B.R.Priess,John Wiley& sons.\n7. The Art,Philosophy, and Science of OOP with C++,RickMiller,SPD.\n8. C++ for Programmers,P.J.Deitel and H.M.Deitel,PHI/Pearson."
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ENP 01",
+            "title": "English Communication Lab",
+            "credits": "2",
+            "todo": "At least twenty exercises covering the topics: Stress, Introduction, Accent, Intonation, English vs Hinglish and Important Skills using Computer-Aided Packages.",
+            "refbooks": "1. Barry Tomalin and Suhashini Thomas, International English for Call Centres, McMillan Publishers, India Limited, 2009."
+        }
+    ]
+}

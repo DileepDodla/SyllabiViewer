@@ -1,0 +1,122 @@
+{
+    "sub1": [
+        {
+            "code": "CSPET 711",
+            "title": "Cryptography and Network Security",
+            "credits": "3",
+            "unit1": "Introduction to Cryptography and Data Security: Concept of cryptology, Symmetric cryptography, Substitution cipher, Cryptanalysis, Modular arithmetic, Shift cipher, Affine cipher, Concept of stream cipher, Random number generators, One-time pad, Practical stream ciphers.",
+            "unit2": "The Advanced Encryption Standard (AES): Concept of iterative ciphers, DES and its limitations, AES algorithm, Introduction to Galois fields, Internal structure of AES, Decryption.\nBlock Ciphers: Electronic Codebook Mode (ECB), Cipher Block Chaining Mode (CBC), Ouput Feedback Mode (OFB), Cipher Feedback Mode (CFB), Counter Mode (CTR), Galois Counter Mode(GCM).",
+            "unit3": "Public-Key Cryptography: Symmetric vs. Asymmetric cryptography, Authenticity of public keys, Public-key algorithms, Key lengths and security levels, Euclidean algorithm, Extended Euclidean algorithm, Euler’s Phi function, Fermat’s Little theorem, Euler’s theorem.\nThe RSA Cryptosystem: Encryption and Decryption, Key generation and proof of correctness.\nPublic-Key Cryptosystems Based on the Discrete Logarithm Problem: Diffie-Hellman key exchange, The discrete logarithm problem, Security of the Diffie-Hellman key exchange.",
+            "unit4": "Digital Signatures: The basic principle, The RSA signature scheme, Computational aspects.\nHash Functions: Integrity of messages, Concept of a hash function, Security requirements of hash Functions, MD4-Family of hash functions, Hash functions from block ciphers, The Secure Hash Algorithm (SHA).",
+            "unit5": "Message Authentication Codes (MACs): The basic principle, HMAC, CBC-MAC, GMAC.\nKey Establishment: Introduction, Key freshness and key derivation, The n2 key distribution problem, Key establishment with a key distribution center, Kerberos, Man-in-the-Middle Attack, Certificates, Public-Key Infrastructures (PKI) and CAs.",
+            "textbooks": "1. Paar C, Pelzl J, Understanding Cryptography, Springer, 2010.\n2. Bruce Schneier, Applied Cryptography: Protocols, Algorithms and Source Code in C, WILEY, 2015.",
+            "refbooks": "1. Mao W, Modern Cryptography – Theory & Practice, Pearson Education, 2004.\n2. Stinson D R, Cryptography: Theory and Practice, 3rd edition, Chapman and Hall CRC, 2006.\n3. Schneier B, Applied Cryptography, 2nd edition, Wiley, 2006."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CSPET 721",
+            "title": "Cloud Computing",
+            "credits": "3",
+            "unit1": "Introduction: Definition, Historical developments, Computing platforms and technologies.\nPrinciples of Parallel and Distributed Computing: Parallel versus distributed computing, Elements of parallel computing, Elements of distributed computing, Technologies for distributed computing.",
+            "unit2": "Virtualization: Characteristics, Virtualization techniques, Virtualization and cloud computing, Pros and cons of virtualization, Technology examples.\nCloud Computing Architecture: Cloud reference model, Types of clouds, Economics of clouds, Open challenges.\nAneka: Cloud Application Platform: Framework overview, Anatomy of the Aneka container, Building Aneka clouds, Cloud programming and management.",
+            "unit3": "Concurrent Computing - Thread Programming: Programming applications with threads, Multithreading with Aneka, Programming applications with Aneka threads.\nHigh Throughput Computing- Task Programming: Task computing, Task-based application models, Aneka task-based programming.",
+            "unit4": "Data Intensive Computing – Map-Reduce Programming: Introduction, Technologies for dataintensive computing, Aneka MapReduce programming.\nCloud Platforms in Industry: Amazon web services, Google AppEngine, Microsoft Azure.",
+            "unit5": "Cloud Applications: Scientific applications in – Healthcare, Biology, Geo-science; Business applications in – CRM and ERP, Productivity, Social networking, Media applications, Multiplayer online gaming.\nAdvanced Topics in Cloud Computing: Energy efficiency in clouds, Market based management of clouds, Federated clouds / InterCloud, Third party cloud services.",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSPET712",
+            "title": "Mobile Computing",
+            "credits": "3",
+            "unit1": "Introduction: Introduction to Mobile Computing, Introduction to Android Development Environment, Factors in Developing Mobile Applications, Mobile Software Engineering, Frameworks and Tools, Generic UI Development, Android User",
+            "unit2": "More on UIs: VUIs and Mobile Apps, Text-to-Speech Techniques, Designing the Right UI, Multichannel and Multimodal UIs, Storing and Retrieving Data, Synchronization and Replication of Mobile Data, Getting the Model Right, Android Storing and Retrieving Data, Working with a Content Provider",
+            "unit3": "Communications via Network and the Web: State Machine, Correct Communications Model, Android Networking and Web, Telephony, Deciding Scope of an App, Wireless Connectivity and Mobile Apps, Android Telephony.\nNotifications and Alarms: Performance, Performance and Memory Management, Android Notifications and Alarms, Graphics, Performance and Multithreading, Graphics and UI Performance, Android Graphics",
+            "unit4": "Putting It All Together: Packaging and Deploying, Performance Best Practices, Android Field Service App, Location Mobility and Location Based Services.\nAndroid Multimedia: Mobile Agents and Peer-to-Peer Architecture, Android Multimedia",
+            "unit5": "Platforms and Additional Issues: Development Process, Architecture, Design, Technology Selection, Mobile App Development Hurdles, Testing, Security and Hacking , Active Transactions, More on Security, Hacking Android Recent trends in Communication protocols for IOT nodes, Mobile computing techniques in IOT, Agents based communications in IOT",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CSPET 722",
+            "title": "System Programming",
+            "credits": "3",
+            "unit1": "Background : Introduction, System software and machine structure, SIC, CISC, RISC Architectures.\nAssemblers: Basic Assembler Functions, Machine-Dependent Assembler Features, Machine independent Assembler Features, Assembler Design Options, and Implementation Examples.",
+            "unit2": "Loaders and Linkers: Basic loader Functions,Dependent Loader Features Machine Independent Loader Features,Loader Design Options, Implementation Examples.",
+            "unit3": "Macro Processors: Basic Macro Processor Functions, Machine -Independent, Macro processor Features, Macro processor design Options, implementation Examples.\nOther System Software: Text Editors, Interactive Debugging Systems",
+            "unit4": "Device Drivers: Grand design, details, types of device drivers, Gross anatomy of a device driver, General Programming consideration.\nCharacter Driver I: A test data generator - design issues, driver, recapitulation.\nCharacter Driver II: An A/D converter-design issues, driver.\nCharacter Driver III: Aline Printer-design issues, driver.",
+            "unit5": "Block Drivers III: A SCSI Disk Driver-design issues, driver.\nBlock Drivers II: A RAM Disk drive-design issues.\nDriver Block Drivers II: A RAM Disk drive-design issues, driver.",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSOET 713",
+            "title": "Cyber Law and Ethics",
+            "credits": "3",
+            "unit1": "An Overview of Ethics: Introduction, Morals, Ethics, Laws, Ethics in the business world, Ethics in information technology.\nEthics for IT Workers and IT Users: Nature of IT profession, Professional relationships, Concept of professional code of ethics, Certification, IT professional malpractice, Common ethical issues for IT users, Supporting the ethical practices.",
+            "unit2": "Computer and Internet Crime: IT security incidents, Laws for prosecuting computer attacks, Implementing trustworthy computing.\nPrivacy: Information privacy, Privacy laws, Key privacy and anonymity issues – Identity theft, Consumer profiling, Workplace monitoring, Advanced surveillance technology.",
+            "unit3": "Freedom of Expression: Free speech issues and laws, Controlling access to information on the Internet, Anonymity on the internet, Defamation and hate speech, Corporate blogging, Pornography.\nIntellectual Property: Concept of intellectual property, Copyright, Software copyright protection, International and National agreements and laws, Patents, Trade secrets, Plagiarism, Reverse engineering, Open source code, Competitive intelligence, Trademark infringement, Cyber squatting.",
+            "unit4": "Software Development: The importance of software quality, Software product liability, Development of safety-critical systems, Quality management standards.\nThe Impact of IT on Productivity and Quality of Life: IT investment and productivity, The digital divide, The impact of IT on healthcare costs.",
+            "unit5": "Social Networking: Introduction, Business applications of online social networking, Ethical issues in social networking, Online virtual worlds.\nEthics of IT Organizations: Key ethical issues for organizations, Outsourcing, Whistleblowing, Green computing.\nCodes of Ethics: ACM/IEEE Software engineering code of ethics, IE(India) code of ethics, CSI code of ethics.\nGovernment Regulation: Indian IT act 2000, IT(Amendment act) 2008.",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "CSOET 723",
+            "title": "Internet of Things",
+            "credits": "3",
+            "unit1": "Introduction to Internet of Things: Definition & Characteristics of IoT, Physical Design of IoT – Components. Protocols: Logical Design of IoT - Functional Blocks, Communication Models, Communication APIs. IoT Enabling Technologies - Wireless Sensor Networks, Cloud Computing, Big Data Analytics, Communication Protocols, Embedded Systems; IoT Levels & Deployment Templates. Domain Specific IoTs: Applications related to Home Automation, Cities, Environment, Energy, Retail, Logistics, Agriculture, Industry, Health & Lifestyle. IoT and M2M: M2M, Difference between IoT and M2M, SDN and NFV for IoT - Software Defined Networking, Network Function Virtualization.",
+            "unit2": "IoT System Management with NETCONF-YANG: Need for IoT Systems Management, Simple Network Management Protocol (SNMP), Network Operator Requirements, NETCONF, YANG, IoT Systems Management with NETCONF-YANG, NETOPEER.\nIoT Platforms Design Methodology: Purpose & Requirements Specification, Process Specification, Domain Model Specification, Information Model Specification, Service Specifications, IoT Level Specification, Functional View Specification, Operational View Specification, Device & Component Integration, Application Development; Case Study on IoT System for Weather Monitoring. IoT Systems - Logical Design using Python: Python Data Types & Data Structures – Numbers, Strings, Lists, Tuples, Dictionaries, Type Conversions; Control Flow –if, for, while, range, break/continue, pass; Functions, Modules, Packages, File Handling, Date/Time Operations, Classes; Python Packages of Interest for IoT –JSON, XML, HTTPLib & URLLib, SMTPLib.",
+            "unit3": "IoT Physical Devices & Endpoints: Basic building blocks of an IoT Device; Raspberry Pi architecture, Linux on Raspberry Pi, Raspberry Pi Interfaces; Programming Raspberry Pi with Python –Controlling and interfacing devices; Other IoT Devices –pcDuino, BeagleBone Black, Cubieboard. IoT Physical Servers & Cloud Offerings: Introduction to Cloud Storage Models & Communication APIs; WAMP - AutoBahn for IoT; Xively Cloud for IoT; Python Web Application Framework –Django, Architecture and Development with Django; Designing a RESTful Web API; Amazon Web Services for IoT - Amazon EC2, Amazon AutoScaling, Amazon S3, Amazon RDS, Amazon DynamoDB, Amazon Kinesis, Amazon SQS, Amazon EMR; SkyNet IoT Messaging Platform.",
+            "unit4": "Case Studies Illustrating IoT Design: Home Automation - Smart Lighting, Intrusion Detection; Cities - Smart Parking; Environment - Weather Monitoring, Weather Reporting Bot, Air Pollution Monitoring, Forest Fire Detection; Agriculture - Smart Irrigation; Productivity Applications - IoT Printer.",
+            "unit5": "Data Analytics for IoT: Apache Hadoop - MapReduce Programming Model, Hadoop MapReduce Job Execution, MapReduce Job Execution Workflow, Hadoop Cluster Setup; Using Hadoop MapReduce for Batch Data Analysis, Hadoop YARN; Apache Oozie - Workflows for IoT Data Analysis, Apache Spark, Apache Storm, Using Apache Storm for Real-time Data Analysis. Tools for IoT: Chef - Multi-tier Application Deployment, Hadoop Cluster, Storm Cluster; Using NETCONF-YANG for IoT device Management, Managing Smart Irrigation IoT System, Managing Home Intrusion Detection IoT System; IoT Code Generator.",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub7": [
+        {
+            "code": "GEBST 704",
+            "title": "Artificial Neural Networks",
+            "credits": "3",
+            "unit1": "Introduction - Trends in computing, Pattern and data, Pattern recognition methods. Basics of Artificial Neural Networks - Characteristics of neural networks, Historical development, Terminology, Models of neuron, Topology, Basic learning laws. Activation and Synaptic Dynamics - Activation dynamics models, Synaptic dynamics models, Learning methods, Stability and Convergence, Recall in neural networks.",
+            "unit2": "Functional Units of ANNs for Pattern Recognition Tasks - Pattern recognition problem, Basic types of ANNs, Various pattern recognition tasks performed by ANNs. Feed-forward Neural Networks - Analysis of - Pattern associative networks, Pattern classification networks, Pattern mapping networks.",
+            "unit3": "Feed-back Neural Networks - Linear auto associative FF networks, Pattern storage networks, Stochastic networks, and Simulated annealing; Boltzmann machine",
+            "unit4": "Competitive Learning Neural Networks - Components of a competitive learning neural network, Analysis of feedback layer for different output functions, Analysis of pattern clustering networks, Analysis of feature mapping networks. Architecture for Complex Pattern Recognition Tasks - Associative memory, Pattern mapping, Stability-Plasticity dilemma, Adaptive resonance theory, Temporal patterns, Pattern variability – Neocognitron.",
+            "unit5": "Applications of ANNs - Pattern classification – character recognition, Associative memories – content addressable memory, Information retrieval; Optimization – Linear programming problem, Traveling salesman problem, Smoothing images with discontinuities; Vector quantization, Control applications, Applications in speech, image processing and decision making. ",
+            "textbooks": "",
+            "refbooks": ""            
+        }
+    ],
+    "sub8": [
+        {
+            "code": "CSPET 705",
+            "title": "Distributed Operating Systems",
+            "credits": "2",
+            "unit1": "Distributed systems – Introduction, Hardware concepts, Software concepts and Design issues. Layered protocols, Asynchronous transfer mode networks, Client server model, Remote procedure call, Group communication.",
+            "unit2": "Clock synchronization, Mutual exclusion, Election algorithms, Atomic transactions, Deadlocks in distributed systems. Threads, System models, Processor allocation, Scheduling in distributed systems.",
+            "unit3": "Fault tolerance, Real-time distributed systems, Distributed file systems – Design, Implementation and Trends. Distributed shared memory – Introduction and shared memory concept.",
+            "unit4": "DSM Consistency models, Page-based distributed shared memory. Case study Amoeba – Introduction, Objects and capabilities, Process management, Memory management, Communication and Servers.",
+            "unit5": "Multimedia operating systems – Introduction, Multimedia files, Video compression, Audio compression, Multimedia process scheduling, Multimedia file system paradigms, File placement, Caching, Disk scheduling for multimedia.",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSPWX 706",
+            "title": "Project Work - I",
+            "credits": "6"
+        }
+    ]
+}
+    

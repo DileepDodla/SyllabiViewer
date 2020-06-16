@@ -1,0 +1,108 @@
+{
+    "totalcredits": 26,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MAT 02",
+            "title": "Engineering Mathematics - II",
+            "credits": "4",
+            "unit1": "Matrices: Rank of a matrix - Solution of system of linear equations - Eigen values, vectors - Cayley-hamilton theorem - Quadratic forms - Diagonalization.",
+            "unit2": "Vector Calculus: Gradient, Divergence, Curl of a vector and related properties - line, surface, volume integrals - Green’s, Stokes’s and Gauss Divergence theorems and its applications.",
+            "unit3": "Fourier Series: Fourier series - even and odd functions, periodic functions - half range sine and cosine series - harmonic analysis.",
+            "unit4": "Special Functions I: Gamma and Beta functions - series solutions of differential equations - ordinary points.",
+            "unit5": "Special Functions II: Bessel function - recurrence formulae - generating function for J\u207F(X) - Lengender polynomials - recurrence formulae - generating function for P\u207F(X) - Rodrigue’s formula - orthogonality of Lengender polynomials.",
+            "textbooks": "1. B S Grewal, Higher Engineering Mathematics, 40th Edition, Khanna Publications, 2007.\n2. M K Venkataraman, Engineering Mathematics, National Publishing Company, Chennai.\n3. B V Ramana, Higher Engineering Mathematics, 6th Reprint, Tata McGraw-Hill, 2008.\n4. Bali and Iyengar, Engineering Mathematics, 6th Edition, Laxmi Publications, 2006.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 02",
+            "title": "Data Structures",
+            "credits": "4",
+            "unit1": "Definitions of Data structures, Storage Structures and File Structures. Primitive and Non-primitive Data Structures, Linear and Nonlinear Data Structures.\nPerformance Analysis, Asymptotic Notation and Performance Measurement.\nLinear Lists: ADT, Array Representation, Linked Representation and applications.",
+            "unit2": "Stacks: Definition, The Abstract Data Type, Array Representation, Linked Representation.\n\nQueues: Definition, The Abstract Data Type, Array Representation, Linked Representation, Circular Queues, Applications.\n\nLinked Lists: Single Linked Lists – Insertion and Deletion, Double Linked Lists – Insertion and Deletion.\n\nSkip List and Hashing: Dictionaries, the ADT of Skip List, Linear List Representation, Hash Table Representation.",
+            "unit3": "Binary Trees: Definition and Properties, ADT, Array Representation, Linked Representation, and Applications.\n\nHeap: Definition and Applications.\n\nBinary Search Trees: Definition, ADT, Implementation and Applications.\n\nIntroduction to Balanced Search Trees: AVL Trees, Red-Black Trees, and Splay Trees.",
+            "unit4": "Graphs: Definition and Properties, Modeling Problems as Graphs, ADT, Representations, Breadth First Search and Depth First Search.\n\nPriority Queues: Definition and Applications, Single and Double Ended Priority Queues, Linear Lists, Heaps, Leftist Trees, Binomial Heaps, Fibonacci Heaps, Pairing Heaps.\n\nIntroduction to Algorithms for Solving Problems: Minimum Spanning Tree, Single Source Shortest Paths, All-Pairs Shortest Paths, and Maximum Flow.",
+            "unit5": "Efficient Binary Search Trees: Optimal Binary Search Trees, AVL Trees, Red–Black Trees, Splay Trees.\n\nMultiway Search Trees: m–way Search Trees, B Trees, B+ Trees.\n\nExternal Searching: Concepts of Simple Indexing, Multilevel Indexing, B Trees, B+ Trees, Static Hashing, Collision Resolution Techniques, Packing Density, Bucket Size and Extendible Hashing.",
+            "textbooks": "1. Sahni S, Data Structures, Algorithms and Applications in C++, 2nd Edition, Universities Press, 2005.\n2. Malik D S, Data Structures using C++, Cengage Learning, 2003.\n3. Fundamentals of Data Structures in C++ by Ellis Horowitz, SartajSahni, Dinesh Mehta, Universities Press, Second Edition.",
+            "refbooks": "1. Data Structures and Algorithms Using C++ by AnandaRaoAkepogu and RadhikaRajuPalagiri.\n2. Classic Data Structure by D. Samanta, Eastern Economy Edition.\n3. Data Structures and Algorithms Made Easy by NarasimhaKarumanchi, Second Edition, Written in C/C++, CareerMonk Publications, Hyderabad.\n4. ADTs, Data Structures and Problem Solving with C++, Larry Nyhoff, Pearson\n5. Data Structures using C++, D.S.Malik, 2nd Edition, Cengage Learning.\n6. Data Structures through C++, YashavantP.Kanetkar, BPB Publication.\n7. Data Structures using C and C++, YedidyahLangsam.MosheJ.Augenstein Aaron M.Tenenbaum, 2nd Edition,PHI.\n8. Data Structures using C & C++, Rajesh K.Shukla, Wiley-India.\n9. Tremblay J P and Sorenson P G, Introduction to Data Structures with Applications, 2nd Edition, McGraw-Hill, 1984.\n10. Cormen T H, Leiserson C E, Stein C, and Rivest R L, Introduction to Algorithms, 2nd Edition, Prentice Hall of India, 2007.\n11. Folk M J, Riccardi G, and Zoellick B, File Structures-An Object-Oriented Approach with C++, Pearson.\n12. T.H.Cormen, C.E.Leiserson, R.L.Rivest, C. Stein, Introduction to Algorithms, 2nd edition, Prentice-Hall India, 2001.\n13. J. Kleinberg and E. Tardos, Algorithm Design, Pearson International Edition, 2005.\n14. Data Structures Using C and C++ YddishLangsam, Moshe J. Augenstein and Aaron M. Tanenbaum, Prentice Hall Of India (2nd Edition) (Chapters 1 to 8)."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "PHT 01",
+            "title": "Engineering Physics",
+            "credits": "3",
+            "unit1": "Crystallography: Unit Cell – Bravais Lattice – Crystal systems – Crystal packing – Close Packed Structures – NaCl, ZnS and Diamond – Miller Indices – Bragg`s Law – Bragg`s Spectrometer and Crystal Structure determination – Defects in crystal Structure – Point Defects and Line Defects.",
+            "unit2": "Quantum Mechanics: Wave – Particle duality – de Broglie Concept of Matter Waves – Properties of Matter Waves – Davison and Germer Experiment – G.P.Thomson Experiment – Heisenberg’s Uncertainty Principle – Schrödinger’s Time Independent and Time Dependent Wave equation – Significance of Wave Function – Electron in an Infinite Square Potential Well – Probability Densities and Energy Levels.",
+            "unit3": "Band Theory of Solids: Classical Free Electron Theory of Metals – Success and Failures – Quantum Free Electron Theory – Fermi Factor – Electron in Periodic Potential – Bloch Theorem – Kronig – Penney Model – Distinction between Metals, Insulators and Semiconductors – Intrinsic and Extrinsic Semiconductors – Hall Effect.",
+            "unit4": "Lasers: Introduction – Spontaneous and Stimulated emissions – Population Inversion – Types of Lasers – Ruby Laser – He-Ne Laser – Semiconductor Laser – Applications of Lasers.\n\nUltrasonics : Introduction – Production of Ultrasonic Waves by Magnetostriction and Piezoelectric methods – Detection and Applications of Ultrasonic Waves.",
+            "unit5": "NanoPhysics and Nanotechnology: Introduction to Nanomaterials – Properties: Optical Properties – Quantum Confinement – Electrical properties.\n\nSynthesis of Nanomaterials: Ball milling, Arc deposition method – Chemical Vapour Deposition - Pulsed laser deposition.\n\nCharacteristics of C60 (Zero dimensional), Carbon Nanotubes (One Dimensional) and Graphene (Two Dimensional). Applications of Nanomaterials.",
+            "textbooks": "1. R.K.Gaur and S.L.Gupta, Engineering Physics, Sultan and Chand Pub., New Delhi.\n2. S.P.BasavaRaju, A Detailed Text Book of Engineering Physics, Sole Distributers, Subhash Stores Book Corner, Bangalore.\n3. HitendraK.Malik and A.K.Singh, Engineering Physics, Tata MCGraw Hill Education Pvt.Ltd., New Delhi.\n4. G.Senthil Kumar, Engineering Physics, VRH Publishers Pvt. Ltd, Hyderabad.\n5. M.S.RamachandraRao and Shubra Singh, Nanoscience and Nanotechnology, Wiley IndiaPvt.Ltd, New Delhi.",
+            "refbooks": "6. John Allison, Electronic Engineering Materials and Devices, Tata McGraw Hill Publications.\n7. B.L Theraja, “Modern physics”, S.Chand& Company.\n8. V. Raghavan “Material Science”, Tata McGraw Hill Publications."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CYT 01",
+            "title": "Engineering Chemistry",
+            "credits": "3",
+            "unit1": "WATER TREATMENT: Introduction – Effect of water on rocks and minerals – hardness of water – disadvantages of hard water – boiler feed water – scale and sludge formation in boilers – caustic embrittlement – boiler corrosion – priming and foaming – softening methods - lime soda, zeolite and ion exchange process - Specification of potable water and purification of Drinking water – chemical analysis of water - Hardness, acidity, alkalinity, chloride and dissolved oxygen.",
+            "unit2": "ELECTRO CHEMISTRY AND CORROSION: Electrode potential – reference electrodes – hydrogen, calomel and glass electrode – PH and its determination – batteries – fuel cells – aluminum air battery – solar battery – lead acid storage cell.\nCorrosion: Types of corrosion – factors influencing corrosion – theories of corrosion – prevention of corrosion – cathodic protection – metallic coatings – hot dipping, spraying, cementation, cladding and electro plating.",
+            "unit3": "FUELS AND COMBUSTION: Introduction – classification of fuels – calorific value and its determination – bomb calorimeter – Boy’s gas calorimeter – theoretical calculation of calorific value of fuel – coal – analysis of coal – metallurgical coke – petroleum – refining of petroleum - synthetic petrol – octane and cetane number – combustion – mass analysis from volume analysis and vice versa – analysis of flue gas by Orsat’s apparatus.",
+            "unit4": "HIGH POLYMERS: Nomenclature of polymers – types of polymerization.\nPlastics – classification of plastics – moulding constituents of plastics – preparation, properties and applications of polythene, nylon, Teflon, and bakelite – Rubbers – vulcanization of rubber – compounding of rubber - synthetic rubbers - buna-N, thiocol and silicon rubbers.\nLubricants - classification - mechanism - properties of lubricating oils - selection of lubricants for engineering applications.",
+            "unit5": "BUILDING MATERIALS: Manufacture - dry and wet processes - setting and hardening of cementanalysis of cement.\nRefractories - classification - properties and engineering applications.\nCeramics - classification - properties and engineering applications.",
+            "textbooks": "1. Engineering Chemistry: PC Jain & M Jain - Dhanpatrai publishing company, New Delhi.\n2. Engineering Chemistry: BK Sharma.\n3. Engineering Chemistry: SS Dhara.\n4. Physical Chemistry: Puri & Sharma - Vishal Pulishing Company (VPC), Jalandhar.\n5. Physical Chemistry: Bahl & Tuli.\n6 Polymer Science: Gowarikar.\n7. Physical Chemistry by: Glasstone.",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "EET 02",
+            "title": "Circuit Theory",
+            "credits": "4",
+            "unit1": "Basic Circuit Concepts: Active and passive elements – Ideal and practical sources – Source transformation – V-I characteristics of R, L, and C elements – Kirchhoff's laws – Star-delta transformation – Network reduction techniques - Mesh and Nodal Analysis – Concept of mutual inductance – Concept of coupling and dot convention.",
+            "unit2": "Network Topology: Graph, tree, incidence matrix, and tie set and cut set matrices – Formulation of equilibrium equations based on graph theory. Duality and dual circuits.\n\nA.C. Fundamentals: Periodic waveforms – Average and effective values of different waveforms – Form factor and crest factor.",
+            "unit3": "A.C. Circuits: Phase and phase difference – Phasor notation – Concept of reactance, impedance, susceptance, and admittance – Active and reactive power – Power factor – Power triangle - Response of R, L, and C elements for sinusoidal excitation – Steady state analysis of RL, RC, and RLC circuits for sinusoidal excitation – Phasor diagrams. Steady state analysis of ac circuits using mesh and nodal analysis.",
+            "unit4": "Resonance: Series and parallel resonance – Half power frequencies, bandwidth, Q factor and relations between them.\n\nLocus diagrams: Current and Impedance locus diagrams of RL and RC series circuits and two branch parallel circuit.",
+            "unit5": "Network theorems: Superposition – Thevenin's and Norton's theorems – Millman's theorem – Reciprocity theorem – Tellegen's theorem – Compensation theorem and application of the theorems for dc circuits and sinusoidal steady state circuits – Maximum power transfer theorems for dc and accircuits",
+            "textbooks": "1. Hayt, Kemmerly and Durbin, Engineering Circuit Analysis, 6th edition, Tata McGraw-Hill.\n2. Sudhakar and Shyammohan, Network analysis and synthesis, Tata McGraw-Hill.",
+            "refbooks": "1. Ravish R. Singh, Electrical Networks, and Tata Mc. Graw Hill.\n2. Edminster, Electric Circuits – (McGraw Hill Schuam series 1st edition)."
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MET 01",
+            "title": "Engineering Graphics",
+            "credits": "4",
+            "unit1": "Scales: Plane scale, Diagonal scale Practices.\n\nConics: Construction of Ellipse, Parabola and Hyperbola by eccentricity method.\n\nEllipse: Concentric circles and Oblong methods, Rectangular hyperbola",
+            "unit2": "Construction of cycloidal curves: epi cycloid and hypocycloid.\n\nInvolutes: Circle, Polygon.",
+            "unit3": "Projection of points: Principles of Projections, First and Third angle projections, Projections of points.\n\nProjection of Lines: Projection of straight Lines, lines inclined to one plane and parallel to the other, Lines inclined to both planes, True length and true inclinations, Location of traces.",
+            "unit4": "Projection of Plane surfaces and solids: Projection of Polygonal surfaces and circular lamina inclined to both planes.\n\nProjection of right regular solids: Projection of simple solids such as Prisms, Pyramids, Cylinders and Cones with their axes perpendicular to anyone of the Principal planes and inclined to the other.",
+            "unit5": "Section of Solids: Sections of above solids in simple vertical position resting on their base, by cutting planes inclined to one reference plane and perpendicular to the other - True shape of the sections.\n\nOrthographic Projections: Conversion of Pictorial views into orthographic views of simple objects.",
+            "textbooks": "1. Bhatt N.D. and V.M. Panchal, Engineering Drawing Revised Edition, Charotar Publications, 2001.\n2. Dhananjaya A Jolhe, Engineering Drawing with an introduction to Auto CAD, Tata MeGrawhill -2009.\n3. K.L.Narayana and P. Kannaih, A text Book of Engineering Drawing, Scitech Publications – 1999.\n4. Venugopal,K., Engineering Drawing and Graphics, New Age International Publishers.",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSP 02",
+            "title": "Data Structures Lab",
+            "credits": "2",
+            "todo": "1. Write a C++ Program to create a sequential file with at least 5 records, each record having the structure shown below:\n• USN: Non-zero\n   Name: 25\n   Marks1: Positive\n   Marks2: Positive\n   Marks3: Positive\n• USN: Positive integer\n   Name: Characters\n   Marks1: Integer\n   Marks2: Integer\n   Marks3: Integer\nWrite necessary functions\na. To display all the records in the file.\nb. To search for a specific record based on the USN. In case the record is not found, suitable message should be displayed. Both the options in this case must be demonstrated.\n\n2. Write and demonstrate the following C++ functions:\n a. newStrCpy that does the same job as strcpy.\n b. newStrCat that does the same job as strcat without using any library functions.\n\n3. Write a C++ Program, which accepts the Internet Protocol (IP) address in decimal dot format(ex. 153.18.8.105) and converts it into 32-bit long integer (ex. 2568095849) using strtok library function and unions.\n\n4. Write a C++ Program to construct a stack of integers and to perform the following operations on it:\n a. Push\n b. Pop\n c. Display\nThe program should print appropriate messages for stack overflow, stack underflow, and stack empty.\n\n5. Write a C++ Program to convert and print a given valid parenthesized infix arithmetic expression to postfix expression. The expression consists of single character operands and the binary operators+ (plus), - (minus), * (multiply) and / (divide).\n\n6. Write a C++ Program to evaluate a valid suffix/postfix expression using stack. Assume that thesuffix/postfix expression is read as a single line consisting of non-negative single digit operands and binary arithmetic operators. The arithmetic operators are + (add), - (subtract), * (multiply) and / (divide).\n\n7. Write a C++ Program to simulate the working of a queue of integers using an array. Provide the following operations:\n a. Insert\n b. Delete\n c. Display\n\n8. Write a C++ Program to simulate the working of a circular queue of integers using an array.\nProvide the following operations:\n a. Insert\n b. Delete\n c. Display\n\n9. Write a C++ Program using dynamic variables and pointers, to construct a singly linked list consisting of the following information in each node: student id (integer), student name (character string) and semester (integer).\nThe operations to be supported are:\n a. The insertion operation\n  i. At the front of a list\n  ii. At the back of the list\n  iii. At any position in the list\n b. Deleting a node based on student id. If the specified node is not present in the list an error Message should be displayed. Both the options should be demonstrated.\n c. Searching a node based on student id and updates the information content. If the specified Node is not present in the list an error message should be displayed. Both situations shouldbe displayed.\n d. Displaying all the nodes in the list.\n(Note: Only one set of operations among a, b and c with d may be asked in the examination)\n\n10. Write a C++ Program using dynamic variables and pointers to construct a stack of integers using singly linked list and to perform the following operations:\n a. Push\n b. Pop\n c. Display\nThe program should print appropriate messages for stack overflow and stack empty.\n\n11. Write a C++ Program using dynamic variables and pointers to construct a queue of integers using singly linked list and to perform the following operations:\n a. Insert\n b. Delete\n c. Display\nThe program should print appropriate messages for queue full and queue empty.\n\n12. Write a C++ Program to support the following operations on a doubly linked list where each node consists of integers:\n a. Create a doubly linked list by adding each node at the front.\n b. Insert a new node to the left of the node whose key value is read as an input.\n c. Delete the node of a given data, if it is found, otherwise display appropriate message.\n d. Display the contents of the list.\n(Note: Only either (a, b and d) or (a, c and d) may be asked in the examination)\n\n13. Write a C++ Program\n a. To construct a binary search tree of integers.\n b. To traverse the tree using all the methods i.e., inorder, preorder and postorder.\n c. To display the elements in the tree.\n\n14. Write recursive C++ Programs for\n a. Searching an element on a given list of integers using the Binary Search method.\n b. Solving the Towers of Hanoi problem.\n\n15. Implement programs for structures and graphs with pointers and without pointers by taking examples.",
+            "refbooks": "1. Data structures and Algorithms using C++, AnandaRaoAkepogu and RadhikaRajuPalagiri, Pearson Education.\n2. C++ Solutions for Mathematical Problems, Ghosh, Arun, New Age International Publishers.\n3. Data Structures A Pseudocode Approach with C++, IndiaEdition, R.F.GilbergandB.A.Forouzan,Cengage Learning.\n4. Programming Principles and Practice using C++,B.Stroustrup,Addison-Wesley(Pearson education).\n5. Data Structures and STL, W.J.Collins,McGrawHill,International edition.\n6. Data structures and Algorithms with OODesign patterns inC++,B.R.Priess,John Wiley& sons.\n7. The Art,Philosophy, and Science of OOP with C++,RickMiller,SPD.\n8. C++ for Programmers,P.J.Deitel and H.M.Deitel,PHI/Pearson."
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "MEP 01",
+            "title": "Workshop Practice",
+            "credits": "2",
+            "todo": "Carpentry:\nWood sizing exercise in planning, marking, sawing, chiseling and grooving to prepare\n1. Half – lap joint\n2. Dove – tail joint\n3. Tenon joint\n\nFitting:\nMarkings, cutting and filing to prepare\n1. Straight fitting\n2. V – fitting\n3. Square fitting\n\nTin smithy:\nMarkings, bending and cutting to prepare\n1. Round tin\n2. Square tin\n\nFoundry:\nRamming and placing of riser and runner to prepare the moulds for the following\n1. Two – stepped pulley\n2. Three – stepped pulley\n3. Dumbell\n\nWelding:\nPreparation of\n1. Lap joint\n2. Butt joint\n3. T – joint",
+            "refbooks": ""
+        }
+    ]
+}

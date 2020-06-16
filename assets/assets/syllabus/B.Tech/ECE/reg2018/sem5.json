@@ -1,0 +1,120 @@
+{
+    "totalcredits": 24,
+    "subcount": 7,
+    "labcount": 3, 
+    "sub1": [
+        {
+            "code": "EEPCT 501",
+            "title": "Control Systems",
+            "credits": "3",
+            "unit1": "Introduction to control problem: Industrial Control examples, System Representation, Classification of systems, Feedback Control, Benefits of Feedback- Open-Loop and Closed-loop systems, Advantages and Disadvantages of control systems, Industrial Control examples.\n\nMathematical models of physical systems: Electrical, Mechanical and Electro-Mechanical, Transfer function models of linear time-invariant systems: Potentiometers, Synchros, LVDT, dc and ac servomotors, Tacho-generators, electro hydraulic valves, hydraulic servomotors, electro pneumatic valves, pneumatic actuators. Closed-loop systems, Block diagram algebra, Reduction techniques and Signal flow graph.",
+            "unit2": "Time Response Analysis: Standard test signals, Time response of first and second order systems for standard test inputs. Application of initial and final value theorem. Stability, steady-state accuracy, transient accuracy, disturbance rejection, insensitivity and robustness. Design specifications for secondorder systems based on the time-response, Steady state errors and error constants, Performance specifications in time-domain error, Static and Generalized error constants, Concept of stability, Routh-Hurwitz Criteria, Relative Stability analysis, Root-Locus technique, Construction of Root-loci.",
+            "unit3": "Frequency-response analysis: Introduction to Frequency domain specifications -Relationship between time and frequency response, Polar plots, Bode plot, stability in frequency domain, Nyquist plots. Nyquist stability criterion. Relative stability using Nyquist criterion – gain and phase margin. Performance specifications in frequency-domain, Frequency domain methods of design.",
+            "unit4": "Introduction to Controller Design: Compensation & their realization in time & frequency domain, Introduction to controllers (PI, PD, PID), Application of Proportional, Integral and Derivative Controllers, Need for Lead and Lag compensators, Applications of compensators, Comparison of controllers and compensators, Problems.",
+            "unit5": "State variable Analysis: Concepts of state, state variables, State space model for linear continuous time functions, Diagonalization of State Matrix. Solution of state equations. Eigen values and Stability Analysis. Concept of controllability and observability.",
+            "textbooks": "1. M. Gopal, “Control Systems: Principles and Design”, McGraw Hill Education, 1997.\n2. B. C. Kuo, “Automatic Control System”, Prentice Hall, Seventh edition, 1995.\n3. K. Ogata, “Modern Control Engineering”, Prentice Hall, second edition, 1991.\n4. I. J. Nagrath and M. Gopal, “Control Systems Engineering”, New Age International, 2009.",
+            "refbooks": ""
+        }
+    ],
+    "sub2":[
+        {
+            "code": "ECPCT 502",
+            "title": "IC Applications",
+            "credits": "3",
+            "unit1": "Op-Amp Applications: Scale changer/inverter, Summing amplifier, Instrumentation amplifier, Instrumentation amplifier IC-AD620, DC and AC amplifiers, V to I and I to V converters, Precision rectifiers, Log and Antilog amplifiers, multiplier and divider, Analog multiplier IC-AD633, Differentiator, Integrator, Analog computation.",
+            "unit2": "Comparators and waveform generators: Comparator, Regenerative comparator (Schmitt Trigger), Astable and mono-stable multi-vibrators using op-amp, Triangular wave generator, Sine wave generators using op-amp. IC waveform generator (8038).",
+            "unit3": "Voltage regulators: Series op-amp regulator, IC voltage regulators, 723 General purpose regulator, Switching regulators.\n\nActive filters: Low pass, high pass, band pass, band reject and all pass filters, transformation, State variable filter, Switched capacitor filters, Switched capacitor filter ICs.",
+            "unit4": "555 Timer: Description of functional diagram, Monostable operation. Applications in monostable mode, Astable operation, Applications in astable mode, Schmitt trigger.\n\nPhase Locked Loops: PLL- introduction, block schematic, principles and description individual blocks, IC PLL (565), Voltage controlled oscillator (566), PLL applications- Frequency multiplication, Frequency translation, FM & FSK demodulation.",
+            "unit5": "D-A and A-D Converters: Basic DAC Techniques, Weighted resistor DAC, R-2R ladder DAC, Inverted R-2R ladder, Monolithic DAC IC-1409, A-D converters, direct type ADCs, the parallel comparator(flash) A/D converter, The counter type A/D converter, Servo tracking A/D converter, Successive approximation converter, Integrating type of ADCs, Charge balancing ADC, Dual-slope ADC, DAC/ADC specifications.",
+            "textbooks": "1. D.Roy Choudary, Shail Bala Jain, “Linear Integrated circuits”, New Age International publishers, 2018.\n2. Ramakant A.Gayakward, “Op-amps and linear Integrated circuits”, LPE, 4th edition, Pearson Education.\n3. S.Salivahanan, V.S.Kanchana Bhaaskaran “Linear Integrated circuits”, TMH, 2008.\n4. David A. Bell, “Operational amplifiers and Linear ICs”, PHI, EEE, 1997.\n5. J.V. Wait, L.P. Huelsman and GA Korn, Introduction to Operational Amplifier theory and applications, McGraw Hill, 1992.",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ECPCT 503",
+            "title": "Microcontrollers",
+            "credits": "3",
+            "unit1": "Overview of microcomputer systems and their building blocks, Introduction to 8-bit microprocessor (8085) Architecture, Addressing modes, Instruction set, Machine cycles, instruction cycle and timing states, instruction timing diagrams, simple programs in 8085.",
+            "unit2": "Semiconductor memories: RAM, ROM, SRAM, and DRAM. Memory interfacing, concepts of interrupts and Direct Memory Access.\n\nI/O Interfacing with peripherals: Timer, serial I/O, parallel I/O, A/D and D/A converters, Arithmetic Coprocessors, System level interfacing design.",
+            "unit3": "8051 Microcontroller: Architecture, Register set, Addressing modes, Instruction set, Interrupt structure, timer and serial port operations, Memory and I/O interfacing, External memory interfacing with 8051. Assembly language programming of 8051, Parallel I/O Ports, Interrupts, Timer and Counter, Serial Communication Programming.",
+            "unit4": "Synchronous and Asynchronous Communication, RS232, SPI, I2C. Introduction and interfacing to protocols like Blue-tooth and Zig-bee. Interfacing of 8051 microcontroller with LED, LCD, keyboard, Stepper motor, DC Motor, and sensors etc., C language programs, Assemblers and compilers, Programming and debugging tools.",
+            "unit5": "Introduction to RISC processors, ARM7 Processor: Architecture, Features, ARM microcontrollers interface designs.\n\nConcepts of virtual memory, Cache memory, Advanced coprocessor Architectures- 8086, 286, 386, 486, Pentium.",
+            "textbooks": "1. R. S. Gaonkar, Microprocessor Architecture: Programming and Applications with the 8085/8080A, Penram International Publishing, 1996.\n2. D A Patterson and J H Hennessy, “Computer Organization and Design The hardware and software interface”, Morgan Kaufman Publishers.\n3. Douglas V. Hall, “Microprocessors and interfacing: Programming and hardware”, 2nd Edition. Tata McGraw Hill, 1991.\n4. Kenneth J. Ayala, “The 8051 Microcontroller Architecture, Programming and Applications”, Penram International Publishing/ Thomson Publishers, 2nd Edition, 2005.\n5. Barry B.Brey, The Intel Microprocessors 8086/8088, 80, 86, 80286, 80386 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, Architecture, Programming and interfacing, Prentice Hall of India Private Limited, New Delhi, 2003/ Pearson Education , 2004. (UNIT V).",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECPCT 504",
+            "title": "Digital Signal Processing",
+            "credits": "3",
+            "unit1": "Discrete Fourier series: Review of Discrete-time Fourier Transform, Z-Transform. Properties of discrete Fourier series, DFS representation of periodic sequences, Discrete Fourier transform - Properties, linear convolution of sequences using DFT, computation of DFT. Relation between Z-Transform and DFS.\n\nFast Fourier Transforms: Fast Fourier transforms (FFT)-Radix2 decimation in time and decimation in frequency FFT algorithms, inverse FFT and FFT for composite N.",
+            "unit2": "Realization of Digital Filters: Structures for the realization of discrete-time systems, Structures for FIR systems - Direct form, Cascade form, Frequency sampling, and Lattice structures, Structures for IIR systems – Direct form, Signal flow graphs & Transposed, Cascade form, Parallel form and Lattice structures, Conversion from Lattice structure to direct form, lattice – Ladder structure.",
+            "unit3": "IIR Digital Filters: Analog filter approximations-Butterworth and chebyshev, design of IIR digital filters from analog filters, design examples: analog-digital transformations.\n\nFIR Digital Filters: Characteristics of FIR digital filters, frequency response. Design of FIR digital filters using window techniques, frequency sampling technique, comparison of IIR and FIR filters.",
+            "unit4": "Multirate Digital Signal Processing Fundamentals: Basic sample rate alteration devices, Multirate Structures for sampling rate Converters, Multistage design of decimator and Interpolator, Polyphase Decomposition, Nyquist filters.",
+            "unit5": "DSP PROCESSORS: TMS 320X/ ADSP 21XX Architecture and Applications.",
+            "textbooks": "1. John G. Proakis, Dimitris G.Manolakis, “Digital Signal Processing: Principles, Algorithms and Applications”, Pearson Education/PHI, 4th ed., 2007.\n2. Sanjit K Mitra, “Digital Signal Processing: A computer based approach”, Tata Mcgraw Hill, 3rd edition, 2009.\n3. A.V. Oppenheim and R.W. Schaffer, “Discrete Time Signal Processing”, Prentice Hall of India.\n4. B. Venkataramani, M.Bhaskar, Digital Signal Processors: Architecture, Programming and Applications, Tata McGraw Hill, 2002.\n5. Handouts on DSP Processors.",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "ECPET 505",
+            "title": "Electronic Measurements",
+            "credits": "3",
+            "unit1": "Measurement and Error: Definitions, accuracy and precision, types of errors. DC Ammeters, DC Voltmeters, Series type ohmmeter, Shunt type ohmmeter. AC Voltmeter using rectifiers, True RMS responding voltmeter.",
+            "unit2": "Cathode Ray Oscilloscopes : Motion of electron in electric field and in magnetic field – Block diagram of CRO, CRT, Electrostatic deflection sensitivity – Vertical and Horizontal deflection systems – Principle of operation of dual beam, dual trace, sampling and storage CROs – Measurements with CRO (voltage, current, time, frequency, phase angle, lissajous figures).",
+            "unit3": "Analog Instruments – Transistor voltmeter, micro voltmeter (chopper type) - DC differential voltmeter - AC voltmeters - Multimeter - Q meter and measurement methods.\n\nBridges: Wheatstone, Maxwell, Hay and Schering bridges.\n\nWave analyzers (AF & RF) - Harmonic distortion analyzers – Spectrum analyzer.",
+            "unit4": "Digital instruments – Digital voltmeters(Ramp, Dual slope, stair case, successive approximation types) Digital multimeter, universal counter, Digital tachometer, Digital phase meter IEEE 488 Bus.",
+            "unit5": "Transducers – Classification and selection of transducers – strain gauges – Temperature measurement (resistance thermometer, thermo couples and thermisters) LVDT – Peizo electric transducer.",
+            "textbooks": "1. H.S.Kalsi, “Electronic Instrumentation” TMH, 1995.\n2. Helfricand Cooper, “Modern Electronic Instrumentation and measurement techniques”, PHI, 1995.\n3. A.K.Sawhney , “Electrical and electronic measurements and instrumentation”, DanapatRai& Co.,18th edition., 2007.",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "ECOET 506",
+            "title": "Open Elective - I",
+            "credits": "3",
+            "todo": "Select your Open Elective - I subject from the button above.",
+            "refbooks": ""       
+        }
+    ],
+    "sub7": [
+        {
+            "code": "ECOET 507",
+            "title": "Open Elective - II (MOOCs)",
+            "credits": "3",
+            "todo": "Any one Swayam/NPTEL Course.",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCP 508",
+            "title": "IC Applications Lab",
+            "credits": "1",
+            "todo": "List of Experiments:\n\n1. Study and Operation of IC testers, pulse generator and digital trainer.\n2. Frequency response of inverting and non-inverting amplifier.\n3. Measurement of Op-amp parameters:\n (i) Offset voltage\n (ii) Offset current\n (iii) CMRR\n (iv) Slew rate.\n4. Op-amp monostable and astable multivibrators.\n5. Op-amp Active filters.\n6. Schmitt trigger using Op-amp.\n7. Voltage regulator using IC 723.\n8. 555 timer: Monostable and astable multivibrators.\n9. IC PLL (565) applications- Frequency multiplication, Frequency translation, FM & FSK demodulation.\n10. Voltage Controlled Oscillator (566).\n11. UJT Relaxation oscillator.\n12. Digital–to–Analog Converter.\n13. Analog–to– Digital Converter (Direct type).\n14. Analog–to– Digital Converter (Successive approximation).",
+            "refbooks": ""
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECPCP 509",
+            "title": "Microcontrollers Lab",
+            "credits": "1",
+            "todo": "List of Experiments:\n\n(8085 Microprocessor Assembly Language Programming)\n\n1. Write a simple program for arithmetic operations – addition, subtraction, multiplication and division of 16 – bit number.\n2. Write a simple program for string operations like string concatenation, swapping.\n3. Write a program to find no. of logical 1’s in a given number.\n4. Write a program for interfacing LCD / LED with 8085 and display a message.\n\n(8051 Microcontroller Assembly Language Programming)\n\n5. Write a program for performing simple arithmetic operations.\n6. Write a simple program for flashing LEDs using software delays, timers and interrupts.\n7. Write a program for interfacing Seven Segment Display and LCD with 8051 and display messages.\n8. Write a program for interfacing Keypad with 8051 and display keypad input on LCD.\n9. Write a program for square waveform generation, with different frequencies and duty cycles.\n10. Write a program for serial communication through UART using polling and interrupt methods.\n11. Write a program for interfacing ADC with 8051.\n12. Write a program for Pulse Width Modulation using on-chip PWM and analog I/O modules.\n13. Write a program for interfacing Seven Segment Display and LCD to ARM processor.\n14. Write a program to generate various waveforms.\n15. Write a program for flashing LEDs using timers and interrupts.",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "ECPCP 510",
+            "title": "Digital Signal Processing Lab",
+            "credits": "1",
+            "todo": "The lab was mostly related to implementing various filtering techniques like: FIR Filter implementation using linear and circular buffering, IIR filter and its implementation, FFT and spectrum analysis, fixed-point and floating point implementation, and similar.\n\nThere was also a bonus experiments on AM and DM of signals.",
+            "refbooks": ""
+        }
+    ]
+}

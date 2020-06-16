@@ -1,1 +1,3 @@
-# syllabi_viewer
+# Syllabi Viewer
+
+Viewing syllabus made easy.

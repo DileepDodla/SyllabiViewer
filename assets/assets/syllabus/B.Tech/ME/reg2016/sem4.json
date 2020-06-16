@@ -1,0 +1,116 @@
+{
+    "totalcredits": 27,
+    "subcount": 6,
+    "labcount": 3,
+    "sub1": [
+        {
+            "code": "EOT 01",
+            "title": "Managerial Economics",
+            "credits": "2",
+            "unit1": "Introduction – Nature and Scope of Managerial Economics, Economic Theory and Managerial Economics.",
+            "unit2": "Demand Analysis and Forecasting – Demand Determinants, Demand Distinctions, Demand Forecasting: Methods of Demand Forecasting. Minimum average method and exponential method.",
+            "unit3": "Cost Analysis – Cost Concepts, Classifications and Determinants; Cost-output Relationship, Economies and Diseconomies of scale, Cost Control and Cost Reduction.",
+            "unit4": "Price and output Decisions Under Different Markets Structures – Perfect Competition, Monopoly and Monopsony; price Discrimination, Monopolistic Competition, Oligopoly and Oligopsony.",
+            "unit5": "Pricing Policies and Practices – Pricing Policies, Pricing Methods, Specific Pricing Policies, Price Discounts and Differentials; Product-line Coverage and Pricing; Price Forecasting.",
+            "textbooks": "1. Varshney R L and Maheswari K L: Managerial Economics, 19th Edition, Sultan Chand and Sons, 2009.",
+            "refbooks": "1. Froeb L M and McCann B T: Managerial Economics A Problem Solving Approach, Second Edition, Cengage Learning, 2008."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "MET 05",
+            "title": "Kinematics of Machinery",
+            "credits": "4",
+            "unit1": "MECHANISMS: Elements or Links – Classification – Rigid Link, flexible and fluid link – Types of kinematic pairs – sliding, turning, rolling, screw and spherical pairs – lower and higher pairs – closed and open pairs – constrained motion – completely, partially or successfully constrained and incompletely constrained.\n\nMACHINES: Mechanism and machines – classification of machines – kinematic chain – inversion of mechanism – inversions of quadric cycle chain – single and double slider crank chains.",
+            "unit2": "STRAIGHT LINE MOTION MECHANISMS: Exact and approximate, copied and generated types – Peaucellier - Hart - Scott Russel – Grasshopper – Watt-Tchebicheff - Robert Mechanisms and Pantograph.\n\nSTEERING MECHANISMS: Conditions for correct steering – Davis Steering gear, Ackermans steering gear – velocity ratio.",
+            "unit3": "KINEMATICS OF MECHANISMS AND LINKAGES: Determination of velocities in mechanisms. Relative velocity method, Relative velocities of particles in common links. Velocity diagrams of various mechanisms. Instantaneous centers of rotation – Kennedy’s theorem and its applications to planar mechanism.\n\nResultant acceleration of particles in common links and mechanisms. Resultant acceleration of particles on links having angular and linear motion. Coriolis component of acceleration.",
+            "unit4": "GEARS: Higher pairs, friction wheels and toothed gears – types – law of gearing, condition for constant velocity ratio for transmission of motion, Forms of tooth- cycloidal and involute profiles. Velocity of sliding – phenomena of interference – Methods to avoid interference. Condition for minimum number of teeth to avoid interference, expressions for arc of contact and path of contact.\n\nGEAR TRAINS: Introduction – Types of gears – Simple, compound, reverted and Epicyclic gear trains. Train value – Methods of finding train value or velocity ratio – Tabular column method for Epicyclic gear trains. Torque in epicyclic gear trains. Differential gear of an automobile.",
+            "unit5": "CAMS: Types of cams and followers – displacement, velocity and acceleration curves – Cams with radial follower – oscillatory follower – Cam profiles for specified motions – disk cam with radial flat faced follower – roller follower – Oscillatory follower cams of specified contours – Analysis of straight sided and convex sides cam.",
+            "textbooks": "1. Theory of Machines: S.S.Rathan / TMH.\n2. Theory of Machines: R.S. Khurmi. / S. Chand.\n3. Mechanisms and Machine theory: J.S. Rao and R.V. Dukkipati. / New Age.\n4. Theory of Machines & Mechanisms: PL. Ballaney / Khanna Publishers.",
+            "refbooks": "1. The theory of Machines: Shigley J.E / Oxford University Press.\n2. Mechanisms and Dynamics of Machinery: Hamilton Mabie H. and F.W.Ocvirk / Oxford University Press."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "MET 06",
+            "title": "Thermal Engineering",
+            "credits": "4",
+            "unit1": "Steam properties and stream generators: Properties of steam – use of steam tables – PV, TS, HS diagrams – steam processes – constant volume – constant pressure – Isothermal – Adiabatic and Hyperbolic processes – Throttling expansion.\n\nSteam Generators: Classification of fire tube and water tube boilers – introduction to high pressure boilers – boiler mountings and accessories – boiler performance – boiler draught.",
+            "unit2": "Vapour Power Cycles: Basic steam power cycles – Carnot cycle and ranking cycle – Modified ranking cycle, Binary Vapour Cycle.",
+            "unit3": "Steam Engines: Principles of operation of steam engine condensing – non-condensing – single & double acting – valve events – hypothetical and actual indicator diagrams – diagram factor determination of cylinder dimensions – performance of steam engine – governing of steam engines.",
+            "unit4": "Steam Nozzles: Type, isentropic flow of steam through nozzles, velocity & enthalpy drop, variation of velocity – area – specific volume – critical pressure ratio for maximum discharge effect of friction, super saturated flow.\n\nSteam Condensers: Functions of a condenser – classification – jet condenser – parallel flow and counter flow – surface condenser – vacuum efficiency – loss of vacuum & air leakage – air removal.",
+            "unit5": "Steam Turbines: Principles of operation - classification - impulse and reaction turbines - velocity diagrams - work done - diagram efficiency - effect of blade friction - stage efficiency turbine reheat factor - height of turbine blade - axial thrust - losses in steam turbine - governing of turbines - reheat and regenerative cycles.",
+            "textbooks": "1. Heat Engineering : Vasandani V.P and Kumar D.S.\n2. Heat Engines : Ballaney P.L.\n3. A course in Thermal Engineering : Domukundwar&Kothandaraman.\n4. Thermal Engineering : R.K. Rajput.\n5. Thermal Engineering : R. Rudramoorthy.\n6. Thermal Engineering : K.K. Ramalingam.",
+            "refbooks": "1. Applied Thermodynamics : Eastop and Mckankey.\n2. Thermal Engineering : B.K. Sarkar."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MET 07",
+            "title": "Machine Tools and Metal Cutting",
+            "credits": "4",
+            "unit1": "Cutting tools: Classification - Nomenclature of Single Point Cutting Tool - Difference between orthogonal and oblique cutting - Mechanism of metal cutting - Types of Chips - Chip Breakers - Forces acting on a tool - merchant Circle Diagram - Velocity Relations - Specific Energy in cutting - Tool life - Tool life equation.",
+            "unit2": "Lathes: Types - operations done on Lathe. Work holding devices. Boring machines - types and constructional details - jig boring machine, shaper, planer and slotting machines - constructional details - Quick return mechanisms - Estimation of machining time in lathe, shaper and planer.",
+            "unit3": "Drilling Machines: Types - constructional details - operations performed on them. Twist drill - elements. Milling machines - classification - constructional details of various types. Operations performed on milling machines. Milling methods - up cut and down cut milling. Estimation of machining time in milling. Indexing head and types of indexing methods - simple, compound, differential and angle indexing.",
+            "unit4": "Milling and Finishing operations: Gear cutting by Milling: Spur and Helical Gears. Gear generating methods - gear shaping and gear hobbing. Finishing of gear by gear shaving, gear grinding and gear lapping. Broaching - types of broaches - broaching operations - types of broaching machines - vertical, horizontal, continuous and rotary broaching machines. Grinding - Grinding wheels - manufacturing, specification - wheel selection. Wheel dressing and truing. Different types of grinding machines. Use of magnetic chucks, precision grinding processes lapping, honing and super finishing.",
+            "unit5": "Non-Conventional Machining: Brief introduction to capstan and Turret lathes. Non-conventional machining processes - CM, ECM, ECG, EDM, LBM, EBM, USM, WJM, AJM – process capabilities of each process.",
+            "textbooks": "1. Serope Kalpakjian: Manufacturing Engineering and Technology, 5th Edition, Pearson Prentice Hall. 2. Hazra choudary and Bose S.K: Work shop technology vol.II, Tenth Edition, Media, Promoters & Publlishers Pvt. Ltd, 2000.\n3. Raghuvamshi: Work shop technology vol.II.\n4. Sharma P.C: Production Engineering, Tenth Edition, S. Chand & Co., 2008.\n5. Haslehurst M.: Manufacturing Technology, Third Edition, Viva Books Pvt. Ltd., 1998.\n6. Gupta S.C. and Jain.R.K: Production Technology, Ninth Edition, Khanna Publishers, 2002.",
+            "refbooks": "1. HMT: Production Technology, McGraw-Hill Education (India) Pvt Ltd, 28th reprint, 2008."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CET 43",
+            "title": "Fluid Mechanics and Hydraulic Machinery",
+            "credits": "4",
+            "unit1": "FLUID PROPERTIES: Definition of a fluid – Density, Specific weight, Specific volume, Specific gravity – Viscosity – Bulk modulus of elasticity – Surface tension and capillarity - Vapour pressure.\n\nFLUID STATICS: Pressure at a point – Pascal’s law – Absolute and gauge pressure – Pressure measurement – Piezometer and Manometers.\n\nFLUID DYNAMICS: Types of fluid flow – Continuity equation – Euler’s equation - Bernoulli’s equation - Moment of momentum equation.",
+            "unit2": "LAMINAR AND TURBULENT FLOWS: Relation Between Shear and Pressure Gradients – Laminar flow through Circular Pipes – Hagen – Poiseuille Law - Loss of Head due to Friction in Pipes - Darcy – Weisbach Equation - Minor Losses in Pipes.\n\nBOUNDARY LAYER CONCEPT, DRAG AND LIFT: Thickness of Boundary Layer – Boundary Layer Along a Long Thin flat Plate - Turbulent Boundary Layer – Drag and Lift - Types of Drag – Drag on a Sphere – Drag on a Cylinder – Development of Lift on Airfoils.",
+            "unit3": "IMPACT OF JETS: Impact of Water Jets on Stationary and Moving Flat, Inclined Plates and Curved Vanes – Jet Striking Centrally and at Tip – Velocity Triangle at Inlet and Outlet – Work done and Efficiency.",
+            "unit4": "HYDRAULIC TURBINES: Classification of Hydraulic Turbines - Pelton Wheel, Francis Turbine and Kaplan Turbine - Working Principle - Work Done and Efficiencies ofPelton Wheel, Francis Turbine and Kaplan Turbine – Draft Tube theory - Unit Quantities – Specific Speed – Performance Characteristic Curves – Model Testing.",
+            "unit5": "CENTRIFUGAL PUMPS: Classification of Pumps - Components – Working of a Centrifugal Pump – Work done by the Impeller on Liquid – Heads and Efficiencies – Specific Speed – Multi Stage Centrifugal Pumps – Performance Characteristic Curves.",
+            "textbooks": "1. Hydraulics and Fluid Mechanics by P.N. Modi and S.M. Seth.\n2. Fluid Mechanics and Hydraulic Machines by R.K.Rajput.\n3. Fluid Mechanics and Hydraulic Machines by R.K.Bansal.",
+            "refbooks": "1. Fluid Mechanics by V.L. Streeter and E.Benzamine, Wylie.\n2. Fluid Mechanics and Turbo machines by Madan Mohan Das.– PHI Learning Pvt.Ltd., New Delhi."
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MET 08",
+            "title": "Machine Drawing",
+            "credits": "3",
+            "unit1": "Orthographic Views: Conversion of Pictorial views into Orthographic views with sectioning.",
+            "unit2": "Machine Elements: Drawing views of the following machine elements: Thread profiles, Bolted joint, machine and cap screws, types of nuts, locking devices for nuts, Foundation Bolts.\n\nKeys: Sunk Keys, Feather Keys, Spline Shaft, Wood – Ruff Key and round Key.",
+            "unit3": "Shaft Couplings: Muff Coupling, Split muff Coupling, Flanged Coupling, protective type flanged coupling.\n\nRiveted Joints: Different types of rivet heads, Different types of lap joints and butt joint.",
+            "unit4": "Assembly Drawing: Preparation of assembly drawing of Plumber Block, Foot Step Bearing, Swivel Bearing, Screw jack, Stuffing Box, Pipe Vice, Lathe tail Stock, Clapper box, Drill Jig, Cross head, Air cock.",
+            "unit5": "Part Drawing: Preparation of part drawing of IC engine connecting rod, Revolving Centre, Square tool post, Eccentric, V- Belt drive, Drill jig, Cross head.",
+            "textbooks": "1. Narayana K.L, Kannaiah P. and Venkata Reddy K.: Production Drawing, First Edition, New Age International, 2005.\n2. Narayana K.L, Kannaiah P. and Venkata Reddy K.: Machine Drawing, Third Edition, New Age International, 2006.",
+            "refbooks": "1. Bhatt N.D.: Machine Drawing, Charotor Publishers, 2008.\n2. Dhawan R.K.: Machine Drawing, Second Edition, S. Chand & Company Limited, 1998."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CEP 42",
+            "title": "Fluid Mechanics and Hydraulic Machinery Lab",
+            "credits": "2",
+            "todo": "1. Discharge Measurements:\n(a) Small Orifice\n(b) Venturi Meter\n(c) Orifice Meter\n(d) Triangular Notch\n\n2. Losses in Pipes:\n(a) Pipe Friction\n(b) Sudden Contraction\n(c) Gate Value\n\n3. Determination of Efficiency in Pumps and Turbines:\n(a) 0.4 K.W Centrifugal Pump\n(b) 0.8 K.W Centrifugal Pump\n(c) 5.5 K.W Centrifugal Pump",
+            "refbooks": ""     
+        }
+    ],
+    "lab2": [
+        {
+            "code": "EEP 43",
+            "title": "Electricals Engineering Lab",
+            "credits": "2",
+            "todo": "(Any EIGHT of the following experiments will be given)\n\nELECTRICAL\n\n1. Verification of KVL and KCL.\n2. Load test on D.C Shunt Motor.\n3. Load test on 3 Phase Induction Motor.\n4. SwinBurn`s test.\n5. OC and SC Test on Single Phase Transformer.\n6. Operating Characteristics of DC Generator.\n7. Load test on single phase transformer.\n8. Load test on DC motor.\n9. Speed control of DC Motor.\n10. Single phase power measurement.",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "ECP 42",
+            "title": "Electronics Engineering Lab",
+            "credits": "2",
+            "todo": "List of experiments:\n\n1. (a) PN Junction diode\n    (b) Zener Diode\n\n2. Half wave rectifier (with and without filter).\n\n3. Full wave rectifier (with and with out filter).\n\n4. BJT – CB configuration input and output characteristics.\n\n5. BJT – CE configuration input and output characteristics.\n\n6. JFET – Characteristics (Calculation of μ, rd and gm).\n\n7. CRO – Measurement of amplitude, frequency of given waveform - Measurement of Phase difference between two waveforms.\n\n8. RC Phase shift oscillator.\n\n9. Microprocessor: Introduction to programming. Programs on:\n• Addition\n• Subtraction\n• Division\n• Multiplication\n• Largest and smallest of given numbers",
+            "refbooks": "" 
+        }
+    ]
+}

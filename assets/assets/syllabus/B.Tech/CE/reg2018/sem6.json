@@ -1,0 +1,114 @@
+{
+    "sub1": [
+        {
+            "code": "CSPCT 601",
+            "title": "Compiler Construction",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CSPCT 602",
+            "title": "Computer Networks",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSPET 613",
+            "title": "Principles of Programming Language",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CSPET 623",
+            "title": "Object Oriented Programming",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSPET 614",
+            "title": "Advanced Computer Architecture",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "CSPET 624",
+            "title": "VLSI Design",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSOET 605",
+            "title": "MOOCs",
+            "credits": "3"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSPCP 606",
+            "title": "Compiler Construction Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSPCP 607",
+            "title": "Computer Networks Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab4": [
+        {
+            "code": "CSPW 1708",
+            "title": "Internship / Mini Project",
+            "credits": "3"
+        }
+    ]
+}

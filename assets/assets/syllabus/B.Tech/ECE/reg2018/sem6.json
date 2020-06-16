@@ -1,0 +1,103 @@
+{
+    "totalcredits": 21,
+    "subcount": 5,
+    "labcount": 4, 
+    "sub1": [
+        {
+            "code": "ECPCT 601",
+            "title": "Computer Networks",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "ECPET 602",
+            "title": "Program Elective - I",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ECPET 603",
+            "title": "Program Elective - II (MOOCs / e-Learning)",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECOET 604",
+            "title": "Open Elective - III",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "ECOET 605",
+            "title": "Open Elective - IV",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCP 606",
+            "title": "Computer Networks Lab",
+            "credits": "2"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECPCP 607",
+            "title": "Electromagnetic Waves and Microwaves Lab",
+            "credits": "1"
+        }
+    ],
+    "lab3": [
+        {
+            "code": "ECPCP 608",
+            "title": "Electronic Measurements Lab",
+            "credits": "1"
+        }
+    ],
+    "lab4": [
+        {
+            "code": "ECPXP 609",
+            "title": "Electronic Design Workshop / Mini Projecct",
+            "credits": "2"
+        }
+    ]
+}

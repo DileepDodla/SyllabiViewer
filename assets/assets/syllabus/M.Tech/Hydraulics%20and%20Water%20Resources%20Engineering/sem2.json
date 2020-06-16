@@ -1,0 +1,28 @@
+{
+    "totalcredits": 0,
+    "subcount": 1, 
+    "labcount": 1,
+    "sub1": [
+        {
+            "code": "sub-code",
+            "title": "Subject Name here.",
+            "credits": "0",
+            "unit1": "Unit 1 Syllabus here.",
+            "unit2": "Unit 2 Syllabus here.",
+            "unit3": "Unit 3 Syllabus here.",
+            "unit4": "Unit 4 Syllabus here.",
+            "unit5": "Unit 5 Syllabus here.",
+            "textbooks": "Textbooks list here.",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "",
+            "title": "Lab Name here",
+            "credits": "0",
+            "todo": "Lab experiments list here.",
+            "refbooks": ""         
+        }
+    ]
+}

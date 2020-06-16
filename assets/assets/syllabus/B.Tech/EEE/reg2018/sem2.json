@@ -1,0 +1,79 @@
+{
+    "sub1": [
+        {
+            "code": "MABST 201",
+            "title": "Mathematics - II",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CYBST 202",
+            "title": "Engineering Chemistry",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ENHST 203",
+            "title": "English",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "EEBST 204",
+            "title": "Basic Electrical Engineering",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MEEST 205",
+            "title": "Engineering Graphics",
+            "credits": "3.5",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ENHSP 206",
+            "title": "English Communication Lab",
+            "credits": "1.5"
+        }
+    ]
+}

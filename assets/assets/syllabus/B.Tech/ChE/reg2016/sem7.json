@@ -1,0 +1,108 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MET 18",
+            "title": "Analysis and Control of Production Systems",
+            "credits": "3",
+            "unit1": "The Production Paradigm – Production as a System – Types of Production Systems – Job type, Batch type, flow type and Project type – Group technology – Lean and Agile manufacturing.",
+            "unit2": "Facility Location and Layout – Multi plant location – Locational dynamics – use of REL charts and Travel charts – Computer based layout technique viz. CRAFT, CORELAP etc.",
+            "unit3": "Planning – Manufacturing and Service Strategies – Aggregate Planning – Graphical Analysis - Forecasting – Moving Average, Exponential Smoothing. Assembly Line Balancing – Heuristics for Line Balancing.",
+            "unit4": "Operations Scheduling – Job shops and flow shops: Sequencing n jobs – 2 machines, n jobs 3 machines, n jobs m machines – 2 jobs m machines. Priority Scheduling rules – Criteria and effectiveness – “Traveling salesman” Problem.",
+            "unit5": "Controlling – Project planning and Controlling with PERT / CPM – MRP, JIT, KANBAN systems – LOB technique – MRP-II.",
+            "textbooks": "1. Adam and Ebert : Production and Operations Management, 5th Edition, Prentice Hall, 1992.\n2. Buffa E S : Modern Production Management, 8th Edition, Wiley-India, 2010.",
+            "refbooks": "1. Groover M.P.: Automation, Production Systems and CIM, 3rd Edition, Prentice Hall, 2007.\n2. Joseph Monks: Operations Management, 3rd Edition, McGraw-Hill, 1987.\n3. Seetharama L. Narasimhan, Dennis W. McLeavey, Peter Billington: Production Planning and Inventory Control, 2nd Edition, Prentice Hall, 1995.\n4. Elsayed A. Elsayed, Thomas O. Boucher: Analysis and Control of Production Systems, 2nd Edition, Prentice Hall, 1994."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "MET 19",
+            "title": "Tool Design",
+            "credits": "4",
+            "unit1": "Cutting Tools Classification – Nomenclature of single point cutting tool – Differences between orthogonal and oblique cutting – Mechanism of metal cutting – Types of chips – chip breakers – Forces acting on a tool – Merchant circle diagram – Velocity relations – specific energy in cutting.",
+            "unit2": "Tool Wear – Tool life – Factors affecting tool life – Taylor’s Tool life Equation – Tool wear mechanisms – Types of tool wear – Heat distribution in metal cutting – Measurement of temperature in metal cutting – Lathe tool Dynamometer – Cutting fluids – Selection and applications.",
+            "unit3": "Cutting Tool Materials - Requirements of tool materials, advances in tool materials, HSS, Coated HSS, Carbides, Coated Carbides, Ceramics, Cold pressed, Hot Pressed, Ceramic composites, CBN, Diamond - properties, Advantages and limitations; Specifications for Inserts and tool holders. Design of single point cutting tool and form tool for NC Lathe work - Design of profile milling cutter and broach tools.",
+            "unit4": "Press Working and Economics of Machining: Press working operations - Press selection and Tonnage - Centre of Pressure - Cutting forces and clearances for Die Design – Compound and Progressive Die, Strip layout. Costs associated with machining operations - Optimum cutting speed for minimum cost and maximum production, cutting speed for minimum cost in Turning.",
+            "unit5": "Jigs & Fixtures - Uses - Locating devices, 3-2-1 principle of location – pin location - Radial location - ‘V’ location - Diamond locators. Types of clamping devices - principles of clamping. Design principles to Jigs & Fixtures – Drill Jigs, types- Drill Bushes, types- Fixtures for Turning, Milling and Welding.",
+            "textbooks": "1. Fundamental of Tool Design – ASTME, Prentice Hall, New Delhi, 1987.\n2. Donaldson, Lecain and Goold - \"Tool Design\", McGraw Hill, New York, 1976.",
+            "refbooks": "1. BL Juneja and GS Sekhan, “Fundamental of Metal Cutting and Machine Tools”, 2nd Edition, New Age International Publishers, New Delhi,2003.\n2. Milton C.Shaw, “Metal Cutting Principles”, 1st Edition,CBS Publishers & Distributors Pvt.Ltd,2002.\n3. Kempster, “In Introduction to Jig and Tool Design”, ELBS, 1974.\n4. Herman W. Pollack, “Tool Design”, Prentice Hall, New Delhi."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "MET 20",
+            "title": "Automobile Engineering",
+            "credits": "3",
+            "unit1": "Introduction:\nComponents of four wheeler automobile – chassis and body – power transmission – rear wheel drive, front wheel drive – types of engines, engine construction, turbo charging and super charging – engine lubrication, splash and pressure lubrication systems, Arrangement of cylinders, types valve arrangements, Liners- dry and Wet type, function and constructional details, combustion chambers for petrol and diesel engines.",
+            "unit2": "Fuel Supply System:\n\nS.I. Engine: Fuel supply systems, Mechanical and electrical fuel pump, carburetor: types,Air cleaners and types.\n\nC.I. Engines: Requirements of diesel injection systems, types of injection systems, fuel pump.\n\nEmission from Automobiles: Pollution standards, Pollution Control, Techniques, Multipoint fuel injection system, Common rail diesel injection system, Gasoline direct injection system.",
+            "unit3": "Cooling System: Cooling Requirements, Air Cooling, Liquid Cooling, Thermo, water and Forced Circulation System, Radiators: Types, Cooling Fan, water pump, thermostat, antifreeze solutions.\n\nIgnition System: Function of an ignition system, battery ignition system, constructional features of storage, battery, condenser and spark plug – Magneto coil ignition system, electronic ignition system using contact breaker.",
+            "unit4": "Transmission Systems:\n\nClutch: Function of clutch, single plate and multiple plate, and centrifugal clutches and clutch materials, fluid coupling, torque converter.\n\nGear box: Need, sliding type, constant and synchromesh type. Automatic transmission. Propeller shaft; need and constructional details.",
+            "unit5": "Suspension System: Objects of suspension systems – torsion bar, shock absorber.\n\nBraking System: Mechanical brake system, Hydraulic brake system, Pneumatic and Vacuum brakes.\n\nSteering System: Steering mechanism, Power Steering System, Ackerman steering mechanism, Davis steering mechanism.",
+            "textbooks": "1. Automobile Engineering : Narang G.B.S.\n2. Automobile Engineering Vol. I & II : Kirpal Singh.\n3. Automobile Engineering : R.K. Rajput.\n4. Automobile Engineering : Dr. G. Devaradjane.\n5. Internal Combustion Engines : V. Ganesan.\n6. Internal Combustion Engines : K.K. Ramalingam.",
+            "refbooks": "1. Automotive Mechanics : Heitner J.\n2. I.C.Engines : Mathur M.L. & Singh R.P.\n3. Fundamentals of Motor Vehicle Technology : Hillier &Pittuck.\n4. High Speed Combustion Engines : Heldt P.M.\n5. Automotive Mechanics Services : Course W.H.\n6. Motor Manuals Vol. I to VII : Judge A.W.\n7. Advanced Engine Technology : Heisler."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MET 21",
+            "title": "Finite Element Method",
+            "credits": "4",
+            "unit1": "Basic Concepts of the Finite Element Method – Introduction, How does the FEM work – Comparison of Finite Element and Exact Solutions and Comparison of Finite Element and Finite Difference Methods. A General Procedure for Finite Element Analysis – Pre-Procession, Solution and Post-Processing. Brief History of Finite Element Method, Examples of Finite Element Analysis.",
+            "unit2": "Approximate Methods of Analysis: Approximate Methods – Methods of Weighted Residuals , Method of point collocation, Method of Least Squares, Galerkin`s Method, Rayleigh Ritz Method – Relation between FEM and Rayleigh Ritz Method.\n\nDifferent Approaches in FEM: General Steps in FEM – Direct Approach - Variational Approach – Energy approach – Weighted Residual Approach.",
+            "unit3": "Finite Element and Interpolation Functions: Interpolation Functions – One Dimensional Elements – Line Element, Quadratic Element, Cubic Interpolation Function, Lagrangian Form of Interpolation Function – Two Dimensional Elements – Triangular Element, Triangular Element Quadratic function, Cubic interpolation function – Rectangular Element.",
+            "unit4": "One Dimensional Finite Element Analysis: Linear Spring Element, Truss Element, Space truss, one dimensional Torsion of a circular shaft, Steady state Heat conduction. Beam Element, Analysis of Plane Frames.",
+            "unit5": "Two Dimensional Finite Element Analysis : Two Dimensional Stress Analysis – Review of Theory of Elasticity, Application of three dimensional equation for Two dimensional analysis, CST Element for Plane stress and Strain Analysis.",
+            "textbooks": "1. Chnandrupatla T.R.& Belegundu A.D.: Introduction to Finite Elements in Engineering, 1st Edition, Universities Press, 2010.\n2. Desai YM, Eldho TI, AH Shah, Finite Element Method with application in Engineering, Pearson Publications-2011.",
+            "refbooks": "1. Klaus-Jurgen Bathe: Finite Element Procedures, 2nd Edition, Prentice Hall, 1996.\n2. Reddy J.N.: An Introduction to Finite Element Method, Springer Publication, 2010.\n3. David V. Hutton.: Fundamentals of Finite Element Analysis, Tata McGraw-Hill Education, 2009."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MET 22",
+            "title": "Heat Transfer",
+            "credits": "4",
+            "unit1": "General Modes of Heat Transfer: Fourier law of heat conduction, Newton’s law of Cooling Basic equations, Coefficient of thermal conductivity convective, Heat transfer coefficient, Stephan Boltzmann constant, Overall heat transfer coefficient.\n\nConduction in steady state: Theory of heat conduction, conduction through slabs, cylinders and spheres, Homogeneous and composite, Concept of thermal resistance, critical thickness insulation, logarithmic mean area, concept of shape factor, one dimensional steady state conduction with heat addition.",
+            "unit2": "Conduction in unsteady state periodic and a periodic temperature variance, infinite semi and infinite solids general equations for conduction in unsteady state, lumped capacitance method, transfer heat flow in semi-infinite solid, convection boundary conditions – use of Grober / Heisler charts.",
+            "unit3": "Radiation: Physical mechanism, radiation properties, concept of black body – gray body – Planck’s Law, Stephan Boltzmann law, Radiation shape factor relations, Heat exchange between black bodies, heat exchange between non-black bodies, introduction to radiation network analysis.",
+            "unit4": "Convection:\n\nHeat transfer due to free convection: Free convection heat transfer on a vertical flat plate, Empirical relations free convection from vertical planes and cylinders, horizontal planes and cylinders.\n\nHeat transfer due to forced convection: Principles of convection, Laminar boundary layer on a flat plate thermal boundary layer, empirical relations, laminar and turbulent flows, heat transfer in laminar flow over a flat plate, heat transfer in turbulent flows, relations between fluid friction and heat transfer, heat transfer in laminar tube flow, turbulent flow in pipes, flow across cylinders and spheres.",
+            "unit5": "Heat Exchangers: Introduction, overall heat transfer coefficient, fouling factors, types of heat exchangers, log mean temperature difference, effectiveness of heat exchangers, NTU method, Compact heat exchangers, different considerations.\n\nHeat transfer through extended surfaces: Theory of fins, fins of uniform cross sectional area, heat transfer calculations, fin efficiency, fin effectiveness.",
+            "textbooks": "1. Heat Transfer :Holman J P.\n2. Heat Transfer : Mahesh M. Rathore.\n3. Fundamentals of Engineering Heat and Mass Transfer :Sachdeva R C.\n4. Fundamentals of Heat and Mass Transfer : Kothandaraman.\n5. Heat Transfer : R.K. Rajput.\n6. Basic Heat and Mass Transfer : Mills. A.\n7. Heat Transfer : Y.A. Cengel.",
+            "refbooks": "1. Introduction to Heat Transfer :Frank P Tancropera David P Dewitt.\n2. Heat Transfer : Ozisik.\n3. Principles of Heat Transfer : Frank Kreith.\n4. Heat and Mass Transfer : Yadav R.\n5. Heat Transfer : Ballaney P L."        
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MEOE 04",
+            "title": "Quality Control and Reliability Engineering",
+            "credits": "3",
+            "unit1": "Introduction to Inspection and Quality Control, Objectives of Statistical Quality Control, Chance and Assignable Causes of variation, Control chart basic principles, Choice of control limits, Sample frequency and rational subgroups.\n\nControl charts for variables: X and R charts and σ charts, Interpretation of control charts.",
+            "unit2": "Process Capability Analysis: Specification limits and Control limits, Natural tolerance limits, Specifications and Process Capability, Process Capability indices, setting tolerances on assemblies and components.\n\nControl Charts for Attributes: P chart, C chart, U chart, Sensitivity analysis of P charts, Quality Rating System.",
+            "unit3": "Acceptance Sampling Plans for Attributes: Types of Sampling Plans, Advantages and disadvantages of Sampling Plans, Evaluation of Sampling Plans – OC, Curve, Characteristics of OC Curve, Producer risk and Consumer risk, AOQ, AQL, ATI, ASN. Multiple and Sequential sampling plans. Brief introduction to Acceptance Sampling plans for continuous production and Acceptance sampling plan for variables.",
+            "unit4": "Reliability: Concepts of reliability, Scope, Importance of reliability, Reliability data collectionFailure data analysis: MTTF, MTBF, Failure rate, Hazard rate, reliability, Failure rate curve, Types of failures – Hazard models (Exponential and Weibull).\n\nSystem Reliability: Series, Parallel and Mixed configurations.\n\nReliability Improvement: Active and Standby redundancies, Introduction to Fault Tree Analysis, Maintainability and Availability.",
+            "unit5": "Quality Costs: Prevention, Appraisal, Internal failure and External failure costs, Quality and Productivity, Total Quality Management, Quality function deployment, Tools for continuous quality improvement. Quality Circles: Concepts, Objectives and advantages. Introduction to Six Sigma Concept. Features of ISO 9000 quality system- Classification, Need, advantages and limitations.",
+            "textbooks": "1. Amitava Mitra, “Fundamentals of Quality Control and Improvement” Wiley publications, 3rd Edition, 2008.\n2. Gupta, R.C., “Statistical Quality control”, Khanna Publishers, 1997.",
+            "refbooks": "1. Besterfield D.H., “Quality Control– A Practical Approach”, Prentice Hall, 1993.\n2. Grant E.L. “Statistical Quality Control” McGraw-Hill Science/Engineering/Math; 7th - edition (1996).\n3. Srinath, L.S., “Reliability Engineering”, Affiliated East west press, 1991."        
+        }
+    ],
+    "lab1": [
+        {
+            "code": "MEP 07",
+            "title": "Heat Transfer and Dynamics Lab",
+            "credits": "2",
+            "todo": "List of Experiments:\n\n1. Test on Conduction in Composite Slab System.\n2. Test on Thermal Conductivity of Solids.\n3. Test on Thermal Conductivity of a Metal Rod.\n4. Test on Emmissivity Measurement Apparatus.\n5. Test on Lagged Pipe Apparatus.\n6. Test on Steffan-Boltzman Apparatus.\n7. Test on Concentric Tube Fin Type-Heat Exchanger.\n8. Test on Natural Convection Apparatus.\n9. Test on Forced Convection Apparatus.\n10. Test on Drop-wise Condensation Apparatus.\n11. Test on Vapour Compression Refrigeration System.\n12. Test on Air-Conditioning Test Rig.\n13. Test on Gyroscopic Unit.\n14. Test on Balancing of Reciprocating Masses.\n15. Test on Critical Speed Analyzer.\n16. Test on Vibration Test Rig.\n17. Test on Cam Apparatus.\n18. Study on Instrumentation:\n a. Strain Measurement Module.\n b. Torque Measurement Module.\n c. Load Cell.\n d. Pressure Measurement.\n19. Calibration of Pressure Gauge.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECP 43",
+            "title": "MATLAB",
+            "credits": "2",
+            "todo": "Basics of MATLAB: Basic features, script M-files, arrays and array operations, multidimensional arrays, and logical operators, control flow function, Matrix algebra and solutions to systems of linear equations, polynomials.\n\nMatlab graphics and Numerical techniques: Two dimensional graphics, three dimensional graphics, interpolation, curve fitting, Numerical integration, numerical differentiation.\n\nSymbolic Mathematics: Symbolic algebra, equation solving, differentiation and integration.",
+            "refbooks": "1. Venkateshmurthy M.G.: Introduction to UNIX and Shell Programming, Pearson Education India, 2009.\n2. Mohammad Azam: Unix In Easy Steps, New Age International, 2008.\n3. Hanselman and Littlefield: Mastering Matlab 7, 1st Edition, Prentice Hall, 1997.\n4. Etter, Kuncickly, Hull: Introduction to Matlab 6, 2nd Edition, Pearson Education, 2004."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "totalcredits": 27,
+    "subcount": 5,
+    "labcount": 4,
+    "sub1": [
+        {
+            "code": "CST 15",
+            "title": "Artificial Neural Networks",
+            "credits": "4",
+            "unit1": "Introduction - Trends in computing, Pattern and data, Pattern recognition methods.\n\nBasics of Artificial Neural Networks - Characteristics of neural networks, Historical development, Terminology, Models of neuron, Topology, Basic learning laws.\n\nActivation and Synaptic Dynamics - Activation dynamics models, Synaptic dynamics models, Learning methods, Stability and Convergence, Recall in neural networks.",
+            "unit2": "Functional Units of ANNs for Pattern Recognition Tasks - Pattern recognition problem, Basic types of ANNs, Various pattern recognition tasks performed by ANNs.\n\nFeed-forward Neural Networks - Analysis of - Pattern associative networks, Pattern classification networks, Pattern mapping networks.",
+            "unit3": "Feed-back Neural Networks - Linear auto associative FF networks, Pattern storage networks, Stochastic networks, and Simulated annealing; Boltzmann machine.",
+            "unit4": "Competitive Learning Neural Networks - Components of a competitive learning neural network, Analysis of feedback layer for different output functions, Analysis of pattern clustering networks, Analysis of feature mapping networks.\n\nArchitecture for Complex Pattern Recognition Tasks - Associative memory, Pattern mapping, Stability-Plasticity dilemma, Adaptive resonance theory, Temporal patterns, Pattern variability – Neocognitron.",
+            "unit5": "Applications of ANNs - Pattern classification – character recognition, Associative memories – content addressable memory, Information retrieval; Optimization – Linear programming problem, Traveling salesman problem, Smoothing images with discontinuities; Vector quantization, Control applications, Applications in speech, image processing and decision making.",
+            "textbooks": "1. Yegnanarayana B, Artificial Neural Networks, Prentice-Hall of India Pvt. Ltd., 2009.\n2. Satish Kumar, Neural Networks: A Class Room Approach, Tata McGraw-Hill Publishing Company Ltd., 2004.",
+            "refbooks": "1. Haykin S, Neural Networks: A Comprehensive Foundation, 2nd edition, Pearson Education Asia, 1999.\n2. Bishop C M, Neural Networks for Pattern Recognition, Oxford University Press, 1995."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 16",
+            "title": "Design and Analysis of Algorithms",
+            "credits": "4",
+            "unit1": "Introduction: Notion of algorithm, Fundamentals of algorithmic problem solving, Important problem types – sorting, searching, string processing, graph problems, combinatorial problems, geometric problems, numerical problems.\n\nFundamentals of the Analysis of Algorithm Efficiency: Analysis framework, Asymptotic notations and basic efficiency classes, Mathematical analysis of recursive and non-recursive algorithms, Example-fibonacci numbers, Empirical analysis of algorithms, Algorithms visualization.",
+            "unit2": "Brute Force Methods: Selection sort and bubble sort, Sequential search and brute-force string matching, Closest-pair and convex-hull problems by brute force, Exhaustive search.\n\nDivide-and-Conquer: Mergesort, Quicksort, Binary search, Binary tree traversals, Multiplication of large integers, Strassen’s matrix multiplication, Closest-pair and convex-hull problems by divide-and-conquer.\n\nDecrease-and-Conquer: Depth-first search and breadth-first search, Topological sorting, Algorithms for generating combinatorial objects, Decrease-by-a-constant-factor algorithms, Variable-size-decrease algorithms.",
+            "unit3": "Transform-and-Conquer: Presorting, Gaussian elimination, Balanced search trees, Heaps and heapsort, Horner’s rule, and binary exponentiation, Problem reduction.\n\nSpace and Time Tradeoffs: Sorting by counting, Input enhancement in string matching, Hashing, B-trees.\n\nDynamic Programming: Computing a binomial coefficient, Warshall’s and Floyd’s algorithms, Optimal binary search trees, Knapsack problem and memory functions.",
+            "unit4": "Greedy Technique: Prim’s Algorithm, Kruskal’s algorithm, Dijkstra’s algorithm, Huffman trees.\n\nLimitations of Algorithm Power: Lower bound arguments, Decision trees, P, NP, and NP-complete problems, Challenges of numerical algorithms.\n\nCoping with the Limitations of Algorithm Power: Backtracking, Branch-and-bound, Approximation algorithms for NP-hard problems, Algorithms for solving nonlinear equations.",
+            "unit5": "Introduction to Parallel Algorithms and Architectures: Design of parallel algorithms, Architecture constraints, Computing dot product on EREW PRAM versus the 2-dimensional mesh, Pseudocode conventions for PRAMs and interconnection network models, Performance measures of parallel algorithms.\n\nParallel Sorting: Sorting on CRCW and CREW PRAMS, Odd-even merge sort on EREW PRAM, Sorting on one and two dimensional meshes, Sorting networks.",
+            "textbooks": "1. Levitin A, Introduction to the Design and Analysis of Algorithms, Pearson Education, 2003. (for UNITS I to IV)\n2. Berman K A, and Paul J L, Fundamentals of Sequential and Parallel Algorithms, Thomson Brook/Cole, 1997. (Chapters 5 and 6, for UNIT V)",
+            "refbooks": "1. Cormen T H, Leiserson C E, Rivest R L, and Stein C, Introduction to Algorithms, 3rd edition, Prentice-Hall of India, 2009.\n2. Horowitz E, Sahni S, and Rajasekaran S, Fundamentals of Computer Algorithms, 2nd edition, Universities Press, 2007.\n3. Goodrich M T, Tamassia R, Algorithm Design, Wiley, 2006.\n4. Skiena S S, The Algorithm Design Manual, 2nd edition, Springer, 2008.\n5. Heineman G T, Pollice G, Selkow S, Algorithms in a Nutshell, O’Reilly (Shroff), 2009.\n6. Dave P H, and Dave H B, Design and Analysis of Algorithms, Pearson Education, 2008."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CST 17",
+            "title": "System Programming",
+            "credits": "3",
+            "unit1": "Background: Introduction, System software and machine architecture, SIC, CISC, RISC architectures.\n\nAssemblers: Basic assembler functions – A simple SIC assembler, Assembler algorithm and Data structures; Machine-dependent assembler features – Instruction formats and addressing modes, Program relocation; Machine independent assembler features – Literals, Symbol defining statements, Expressions, Program blocks, Control sections and program linking; Assembler design options – One-pass Assemblers, Multi-pass assemblers; Implementation examples – MASM assembler, SPARC assembler, GNU as assembler.",
+            "unit2": "Loaders and Linkers: Basic loader functions – Design of an absolute loader, Simple bootstrap loader; Machine dependent loader features – Relocation, Program linking, Algorithm and data structures for a linking loader; Machine independent loader features – Automatic library search, Loader options; Loader design options - Linkage editor, Dynamic linking, Bootstrap loaders; Implementation examples – MS-DOS linker, SunOS linkers, Cray MPP linker, GNU ld linker.",
+            "unit3": "Macro Processors: Basic macro processor functions – Macro definition and expansion, Macro processor algorithm and data structures; Machine independent macro processor features – Concatenation of macro parameters, Generation of unique labels, Conditional macro expansion, Keyword macro parameters; Macro processor design options – Recursive macro expansion, General purpose macro processors, Macro processing within language translators; Implementation examples – MASM macro processor, ANSI C macro language, GNU m4 macro processor.\n\nOther System Software: Text editors - Editing process, User interface, Editor structure; Interactive debugging systems – Debugging functions and capabilities, User interface criteria; Integrated development environments – Eclipse IDE Architecture, the core, Parser and lexer, Error recovery, User interface, Basic editor framework, Source viewer configuration, Syntax highlighting, Reconciler.",
+            "unit4": "Linux Kernel: Overview of kernel, Loadable modules, Timers, Concurrency, Memory allocation, kernel threads, Helper interfaces, Devices and drivers, Interrupt handling, Linux device model.\n\nCharacter Drivers: Char Driver Basics, Device Example - System CMOS, Sensing data availability, Talking to the parallel port, RTC subsystem, Pseudo char drivers.\n\nSerial Drivers: Layered architecture, UART Drivers, TTY Drivers.\n\nInput Drivers: Input event drivers, Input device drivers.",
+            "unit5": "Universal Serial Bus: USB architecture, Linux-USB subsystem, Driver data structures, Device example - Telemetry card.\n\nBlock Drivers: Storage technologies, Linux block I/O layer, I/O schedulers, Block driver data structures and methods, Device example - Simple storage controller.\n\nDrivers in User Space: Process scheduling and response times, Accessing I/O regions, Accessing memory regions, User mode SCSI, User mode USB.",
+            "textbooks": "1. Beck L L, System Software: An introduction to Systems Programming, 3rd Edition, Pearson Education, 1997.\n2. Venkateswaran S, Essential Linux Device Drivers, Pearson Education, 2008.",
+            "refbooks": "1. Dhamdhere D M, System Programming, Tata McGraw-Hill, 2011.\n2. Corbet J, Hartman G K, and Rubini A, Linux Device Drivers, 3rd Edition, O’Reilly, 2005.\n3. Kong J, Free BSD Device Drivers, No Starch Press, 2012.\n4. Orwick P, Smith G, Developing Drivers with the Windows Driver Foundation, Microsoft Press, 2007.\n5. Levin J R, Linkers and Loaders, Morgan Kaufmann, 1999.\n6. Rosenberg J B, How Debuggers Work: Algorithms, Data Structures and Architecture, Wiley, 1996."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CST 18",
+            "title": "Micro Processor and Interfacing",
+            "credits": "4",
+            "unit1": "Features of 8086 Processor: Brief history, Architecture, Pin diagram, Signal description, Timing diagrams.\n\nProgramming 8086: Programmer’s view of 8086, Instruction set, Instruction format, Addressing modes, Intel and AT&T assembly language conventions, Assembly directives.\n\nSpecial Architectural Features of 8086: Stack structure and operations, Interrupts and Interrupt handling, DMA and DMA handling, Parameter passing, Handling large programs, MACROS.",
+            "unit2": "Basic System Configuration: Minimum and Maximum modes, 8284 clock generator, 8288 Bus controller, Latches, Buffers, and Transceivers.\n\nPeripherals and Their Interfacing: Memory and I/O address space, Address decoding schemes, Static and Dynamic memory interfacing, Simple I/O interfacing, Interfacing A/D and D/A converters.",
+            "unit3": "Programmable Peripheral Devices and Their Interfacing: Interfacing Programmable Peripheral Interface (8255), Programmable Interval Timer (8253), USART (8251), Programmable Interrupt Controller (8259A), Programmable DMA Interface (8237), Keyboard and Display Controller (8279), CRT Controller (MC6845).",
+            "unit4": "8086 Microprocessor-Based Development System: Introduction, Basic operations, Block diagram of the hardware, Software monitor, Interfacing add-on boards.\n\nMulti-microprocessor Systems: Interconnection topologies, Software aspects, Numeric Processor (8087), I/O Processor (8089), Bus arbitration and control, Tightly coupled and loosely coupled systems.\n\nIntroduction to Advanced Processors: Features of Intel Pentium, and Core2 Processors.",
+            "unit5": "8051 Microcontroller: Architecture, Pin diagram, Signal description, Programmers view, Instruction set, Memory and I/O addressing, Microcontroller based system development.\n\n80196 Microcontroller: Architecture, Important features.",
+            "textbooks": "1. Ray A K, Bhurchandi K M, Advanced Microprocessors and Peripherals, 2nd Edition, Tata McGraw-Hill, 2006.\n2. Mazidi M A, Mazidi J G, McKinlay R, Das L B, Microprocessors and Microcontrollers, Pearson Education, 2012.",
+            "refbooks": "1. Manohar G T, Advanced Microprocessors, Pearson Education, 2010.\n2. Hall D V, Rao S S S P, Microprocessors and Interfacing, 3rd Edition, Tata McGraw-Hill, 2012.\n3. 80196 Microcontroller Family User Manual, INTEL, 1995.\n4. 8086 Microprocessor Trainer Kit User and Technical Manuals, VI Micro Systems, Chennai."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CST 19",
+            "title": "Software Project Management",
+            "credits": "3",
+            "unit1": "Project Management Concepts: The management spectrum – People, The product, The process, The project; The W5HH principle, Critical Practices.\n\nProcess and Project Metrics: Introduction, Software measurement, Software quality metrics, Integrating metrics within the software process, Metrics for small organizations.",
+            "unit2": "Estimation for Software Projects: Introduction, Project planning process, Software scope and feasibility, Resources, Software project estimation, Decomposition techniques, Empirical estimation models, Estimation for object-oriented projects, Specialized estimation techniques, The make/buy decision.",
+            "unit3": "Project Scheduling: Basic concepts, Principles, Defining a task set for software project, Defining a task network, Scheduling, Earned value analysis.\n\nRisk Management: Reactive versus proactive risk strategies, Software risks, Risk identification, Risk projection, Risk refinement, Risk mitigation, monitoring and management, RMMM plan.",
+            "unit4": "Maintenance and Reengineering: Software maintenance, Software supportability, Reengineering, Business process reengineering, Software reengineering, Reverse engineering, Restructuring, Forward engineering, Economics of reengineering.\n\nSoftware Process Improvement (SPI): Introduction, SPI process, CMMI, The people CMMI, Other SPI frameworks, SPI return on investment, SPI trends.",
+            "unit5": "Emerging Trends in Software Engineering: Technology evolution, Software engineering trends, Identifying soft trends, Technology directions, Tools-related trends.",
+            "textbooks": "1. Pressman R S, Software Engineering - A Practitioner’s approach, 7th Edition McGraw-Hill, 2010. (Quality Management – Chapters 24 to 32)",
+            "refbooks": "1. Jacobson I, Christerson M, Jonsson P, Object Oriented Software Engineering: A Use Case Driven Approach, Pearson, 1992.\n2. Hughes B, Cotterell M, Mall R, Software Project Management, 5th edition, Tata McGrwa Hill, 2011.\n3. Royce W, Software Project Management, Pearson, 1998."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSE 01",
+            "title": "Massive Online Open Course (MOOCS) (Elective-I)",
+            "credits": "4",
+            "todo": "Any one Swayam/NPTEL Course.",
+            "refbooks": ""
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSP 10",
+            "title": "Microprocessors and Interfacing Lab",
+            "credits": "2",
+            "todo": "At least 10 Practical assignments shall be given on Microprocessors Programming and Interfacing.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSP 11",
+            "title": "Algorithms and System Programming Lab",
+            "credits": "2",
+            "todo": "At least 10 Practical assignments shall be given  on Algorithms\n\n.At least 10 Practical assignments shall be given on System Programming.",
+            "refbooks": ""
+        }
+    ],
+    "lab4": [
+        {
+            "code": "CSP 12",
+            "title": "Soft Skills Lab",
+            "credits": "1",
+            "todo": "At least 10 Practical assignment shall be given on Soft skills.",
+            "refbooks": ""
+        }
+    ]
+}

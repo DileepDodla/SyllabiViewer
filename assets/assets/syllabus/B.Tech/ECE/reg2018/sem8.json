@@ -1,0 +1,40 @@
+{
+    "totalcredits": 15,
+    "subcount": 2,
+    "labcount": 1,
+    "sub1": [
+        {
+            "code": "ECPET 801",
+            "title": "Program Elective - VI",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "ECPET 802",
+            "title": "Program Elective - VII",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPXP 803",
+            "title": "Project - II",
+            "credits": "9"
+        }
+    ]
+}

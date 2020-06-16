@@ -1,0 +1,116 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 3,
+    "sub1": [
+        {
+            "code": "CST 06",
+            "title": "Computer Organization",
+            "credits": "4",
+            "unit1": "Structure of Computers: Introduction, Performance, Memory addressing and Operations, Instructions and Instruction sequencing, Addressing modes, Basic I/O operations, Pushdown stacks, Subroutines, Encoding of machine instructions, Brief description and functional classification of IA-32 Pentium instruction set.",
+            "unit2": "Basic Processing Unit: Fundamental concepts, Single and Multiple bus organization, Hardwired control, Multiprogrammed control – Microinstructions, Microprogram sequencing, Wide-branch addressing, Microinstructions with next-address field, Prefetching microinstructions.\n\nArithmetic: Multiplication – Booth algorithm; Integer division, Floating-Point Addition- Subtraction.",
+            "unit3": "The memory System: Basic concepts, RAM and ROM Memories and their internal organization, Cache Memories - Mapping functions, Replacement algorithms; Performance Considerations, Virtual Memories, Secondary Storage.",
+            "unit4": "Input/ Output Organization: Accessing I/O devices; Interrupts –Enabling and disabling, Handling multiple devices; Direct Memory Access - Bus Arbitration; Buses – Synchronous and Asynchronous; Interface circuits – Parallel port, Serial port.",
+            "unit5": "Pipelining: Basic concepts, Data hazards, Instruction hazards, Influence on instruction sets, Data path and control considerations, Superscalar operation.\n\nProcessor Families: The ARM family, The Motorola 680x0 and Coldfire families, The IA-32 family.",
+            "textbooks": "1. Hamacher C, Vranesic Z, and Zaky S, Computer Organization, 5th edition, McGraw-Hill.",
+            "refbooks": "1. Heuring V P, and Jordan H F, Computer systems Design and Architecture Addison-Wesley.\n2. Carpinelli J D, Computer System Organization and Architecture. Addison-Wesley 2001.\n3. Mano M M, Computer system Architecture, 4th edition, Pearson Education Asian 2002."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 07",
+            "title": "Database Management Systems",
+            "credits": "3",
+            "unit1": "The Worlds of Database Systems - The Evolution of Database Systems, Overview of a Database Management System.\n\nThe Relational Model of Data - An Overview of Data Models, Basics of the Relational Model, Defining a Relation Schema in SQL, An Algebraic Query Language, Constraints on Relations.\n\nDesign Theory for Relational Databases - Functional Dependencies, Rules About Functional Dependencies, Design of Relational Database Schemas,\nDecomposition: The Good, Bad, and Ugly, Third Normal Form, Multivalued Dependencies.",
+            "unit2": "High-Level Database Models - The Entity/Relationship Model, Design Principles, Constraints in the E/R Model, Weak Entity Sets, From E/R Diagrams to Relational Designs, Converting Subclass Structures to Relations, Unified Modeling Language, From UML Diagrams to Relations, Object Definition Language, From ODL Designs to Relational Designs.\n\nAlgebraic and Logical Query Languages - Relational Operations on Bags, Extended Operators of Relational Algebra, A Logic for Relations, Relational Algebra and Data log.",
+            "unit3": "The Database Language SQL - Simple Queries in SQL 6.2 Queries Involving More Than One Relation, Subqueries, Full-Relation Operations, Database Modifications, Transactions in SQL.\n\nConstraints and Triggers- Keys and Foreign Keys, Constraints on Attributes and Tuples, Modification of Constraints, Assertions, Triggers.\n\nViews and Indexes- Virtual Views, Modifying Views, Indexes in SQL, Selection of Indexes, Materialized Views.\n\nSQL in a Server Environment - The Three-Tier Architecture, The SQL Environment, The SQL/Host-Language Interface, Stored Procedures, Using a Call-Level Interface, JDBC.\n\nProgramming Languages for XM - XPath, XQuery, Extensible Stylesheet Language.",
+            "unit4": "Index Structures - Index-Structure Basics, B-Trees, Hash Tables, Multidimensional Indexes, Hash Structures for Multidimensional Data, Tree Structures for Multidimensional Data, Bitmap Indexes.\n\nMore About Transaction Management- Serializability and Recoverability, Deadlocks, LongDuration Transactions.",
+            "unit5": "Parallel and Distributed Databases- Parallel Algorithms on Relations, The Map-Reduce Parallelism Framework, Distributed Databases, Distributed Query Processing, Distributed Commit, Distributed Locking, Peer-to-Peer Distributed Search.",
+            "textbooks": "1. J D Ullman, H. Garcia-Molina and J. Widom,,Database Systems: The Complete Book Prentice-Hall, Englewood Cliffs, NJ, 2002.\n2. Jeffrey A. Hoffer, Ramesh Venkataraman, Heikki Topi: Modern Database Management, Pearson, 2015.\n3. Raghu Ramakrishnan and Johannes Gehrke, Database Management Systems,Third Edition, McGraw-Hill 2003.",
+            "refbooks": "1. Silberschatz A, Korth H F, and Sudarshan S, Database System Concepts, 5th edition, McGrawHill, 2006.Ramakrishnan R, and Gehrke J, Database Management Systems, 3rd edition, McGraw-Hill, 2003.\n2. Jeffrey A. Hoffer, Ramesh Venkataraman, Modern Database Management, 2015."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CST 08",
+            "title": "Python Programming Language",
+            "credits": "3",
+            "unit1": "Simple program using Python, Expressions and Values, Variables and Computer Memory, error detection, multiple line statements, Designing and using functions, functions provided by Python, Tracing function calls in memory model, omitting return statement.\n\nWorking with Text: Creating Strings of Characters, Using Special Characters in Strings, Creating a Multiline String, Printing Information, Getting Information from the Keyboard. A Boolean Type, Choosing Statements to Execute.",
+            "unit2": "A Modular Approach to Program Organization, Importing Modules, Defining Your Own Modules, Testing Code Semi automatically.\n\nGrouping Functions Using Methods: Modules, Classes, and Methods, Calling Methods the Object-Oriented Way, Exploring String Methods, Underscores.\n\nStoring Collections of Data Using Lists: Storing and Accessing Data in Lists, modifying Lists, Operations on Lists, Slicing Lists, Aliasing, List Methods.",
+            "unit3": "Repeating Code Using Loops: Processing Items in a List, Processing Characters in Strings, Looping Over a Range of Numbers, Processing Lists Using Indices, Nesting Loops in Loops, Looping Until a Condition Is Reached, Repetition Based on User Input, Controlling Loops Using Break and Continue.\n\nReading and Writing Files: Kinds of files, Opening a File, Techniques for Reading Files, Files over the Internet, Writing Files, and Writing Algorithms That Use the FileReading Techniques, Multiline Records.",
+            "unit4": "Storing Data Using Other Collection Types: Storing Data Using Sets, Storing Data Using Tuples, Storing Data Using Dictionaries, Inverting a Dictionary, Using the “in” Operator on Tuples, Sets, and Dictionaries, Comparing Collections, Collection of New Information.\n\nObject-Oriented Programming: Understanding a Problem Domain, Function “isinstance”, Class Object, and Class, Writing a Method in Class Book.\n\nPlugging into Python Syntax: More Special Methods.",
+            "unit5": "Creating Graphical User interface: Building a Basic GUI, Models, Views, and Controllers, Customizing the Visual Style Introducing few more Widgets, Object-Oriented GUIs, Keeping the Concepts from Being a GUI Mess.\n\nData Structures, GUI Programming, XML with Python.",
+            "textbooks": "1. Practical Programming: An introduction to Computer Science Using Python, second edition, Paul Gries, Jennifer Campbell, Jason Montojo, The Pragmatic Bookshelf.\n2.Exploring Python, Timothy A. Budd, Mc Graw Hill Education.",
+            "refbooks": "1. Introduction to Python for Computational Science and Engineering (A beginner's guide), Hans Fangohr.\n2. Learning with Python: How to Think Like a Computer Scientist Paperback – Allen Downey, Jeffrey Elkner, 2015.\n3. Learning Python, Fourth Edition, Mark Lutz, O’Re illy publication."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MAT 05",
+            "title": "Computer Oriented Numerical Methods",
+            "credits": "3",
+            "unit1": "Errors in Numerical Calculations: Truncation and Round-off errors, Effect of errors in data; Closed form solution versus Iterative methods.\n\nRoots of Nonlinear Equations: Bisection, False position and, Newton-Raphson methods.",
+            "unit2": "Iterative Solution of Liner Equations: Jacobi iteration, Gauss-Seidel and Relaxation methods; Convergence of iteration methods.",
+            "unit3": "Interpolation: Lagrange polynomials, Newton's difference formula, Cubic splines, and Two dimensional interpolation.",
+            "unit4": "Numerical Differentiation: Differentiating continuous and tabulated functions, Difference tables and Richardson extrapolation.\n\nNumerical integration - Trapezoidal, Simpson's 1/3 and Simpson's 3/8 Rules.",
+            "unit5": "Numerical Solution of Ordinary Differential Equations: Taylor's Series, Euler's, Runge-Kutta methods.",
+            "textbooks": "Schilling R J, and Harries S L, Applied Numerical Methods for Engineers Using MATLAB and C, Thomson Brooks/Cole, 2006.",
+            "refbooks": "1. Chapra S C, Applied Numerical Methods with MATLAB for Engineers and Scientists, 2nd edition, Tata McGraw-Hill, 2007.\n2.Gerald C F, and Wheatley P O, Applied Numerical Analysis, 6th edition, Pearson Education Asia, 2002.\n3.Niyogi P, Numerical Analysis and Algorithms, Tata McGraw Hill, 2003.\n4.Heath M T, Scientific Computing: An Introductory Survey, McGraw-Hill, 1997."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MAT 06",
+            "title": "Computer Oriented Optimization Techniques",
+            "credits": "3",
+            "unit1": "Overview of Operations Research, Modeling approach, Decision analysis and Games-Decision environments, Decision making under certainty, Decision making under risk, Decision making under uncertainty, Game theory.",
+            "unit2": "Liner Programming – Formulation, Graphical method, Simplex method, Duality. Formulation of transportation, Assignment and Transshipment models.\n\nGoal programming – Formulation, Weighting and Preemptive methods.",
+            "unit3": "Integer Linear Programming – Applications, Branch and bound, and Cutting plane algorithms.",
+            "unit4": "Nonlinear Programming - Sample applications, Graphical illustration of nonlinear programming problems, Types of nonlinear programming problems, One-variable unconstrained optimization, Multivariable unconstrained optimization.",
+            "unit5": "Karush-Kuhn-Tucker conditions for constrained optimization, Quadratic programming, Separable programming, Convex programming and Non-convex programming.",
+            "textbooks": "1. Hillier F S, and Lieberman G J, Introduction to Operations Research, 7th edition, Tata McGraw-Hill, 2003.",
+            "refbooks": "1. Taha H A, Operations Research – An Introduction, 8th edition, Prentice Hall of India, 2006.\n2. Wagner H M, Principles of Operations Research with Applications to Managerial Decisions, 2nd edition, Prentice Hall of India, 2004.\n3. Tulsian P C, and Pandey V, Quantitative Techniques – Theory and Problems, Pearson Education Asia, 2002."
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MET 41",
+            "title": "Simulation and Modeling",
+            "credits": "3",
+            "unit1": "Introduction to Simulation: Definition, Types of Simulation Models, Applications, System and Environment, Components of System, Advantages and Limitations of Simulation.",
+            "unit2": "Statistical Distributions: Introduction to Sampling, Discrete and Continuous Distributions, Generation of Random Numbers and Random Variates.",
+            "unit3": "Mathematical Modelling: Introduction and types of Models, Applications, Simulation of Queueing, Inventory and Manufacturing Systems.",
+            "unit4": "Validation of Models: Model Building, Verification, Input and Output Analysis, Comparison of Results of Alternative Systems, Statistical Validation of Models.",
+            "unit5": "Computer Simulation: Introduction, Simulation Tools and Software, Hardware, Computer Peripherals, Process and Event Orientation, CPU and Memory, Simulation of Systems.",
+            "textbooks": "1. Jerry Banks, John S. Carson and Berry L. Nelson and David M Nicol, Discrete Event Simulation; Discrete – Event Simulation, Publisher: Pearson Education, 2007.",
+            "refbooks": "1. Geoffrey Gordon, System Simulation, Publisher: Prentice Hall of India."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "EEP 04",
+            "title": "Electrical Engineering Lab",
+            "credits": "2",
+            "todo": "At least 10 assignments.\nElectrical Engineering Lab Experiments.",
+            "refbooks": ""     
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSP 05",
+            "title": "Database Management Systems Lab",
+            "credits": "2",
+            "todo": "At least 20 assignments.\n\n• SQL queried for tuple calculus\n• SQL queries for domain calculus\n• SQL queries for relational algebraic operators\n• Nested SQL queries\n• Statistical SQL queries MIN, MAX, AVG etc\n• SQL data ming queries\n• Xqueries\n• PL/SQL\n• Java+SQL",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSP 06",
+            "title": "Simulation Modeling and Python Programming Lab",
+            "credits": "2",
+            "todo": "At least 20 assignments may be given.\n\n• Inventory Systems\n• Queuing Systems\n• Random number generation\n• Random variable generator\n• Job group scheduling\n• CPU Scheduling\n• Problems from numerical methods\n• Problems from optimization techniques\n• XML with Python\n• OOP with Python\n",
+            "refbooks": ""
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MAT 03",
+            "title": "Engineering Mathematics - III",
+            "credits": "4",
+            "unit1": "Complex analysis - I: Analytical functions - Cauchy-Reimann equations – Construction of Analytic functions - Complex integration - Cauchy's theorem - Integral formula - Evaluation of integrals.",
+            "unit2": "Complex analysis - II: Taylor’s and Laurents’ series - Transformations - Conformal mapping - Bilinear transformations - Transformation of 1/z, z², sin z and cos z.",
+            "unit3": "Complex anaylasis –III: Singularities - Poles - Residues - Residue theorem – Contour integration - Evaluation of real integrals.",
+            "unit4": "Partial differential equations - I: Formation of differential equations - Classification - First order linear partial differential equations – Lagranges’ linear equation - Method of multipliers - first order non-linear partial differential equations - Charpit's method.",
+            "unit5": "Partial differential equations - II: Method of separation of variables - One dimensional wave equation - Heat equation – Laplace’s equation.",
+            "textbooks": "1. Grewal B S, Higher Engineering Mathematics, 40th Edition, Khanna Publications, 2007.\n2. Venkataraman M K, Engineering Mathematics, Vol. I & II, National Publishing Company, 1993.\n3. Venkataraman M K, Engineering Mathematics, National Publishing Company, 1995.\n4. Grewal B S, Engineering Mathematics, 13th Edition, Khanna Publications.\n5. Kreyszig E, Advanced Engineering Mathematics, 8th edition, Wiley, 1998.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 03",
+            "title": "Digital Logic Design",
+            "credits": "3",
+            "unit1": "Number Representation: Positional number representation, Representation of integers, real numbers, and characters, BCD representation.\n\nBoolean Algebra and Logic Gates: Basic definitions, Axiomatic definition of Boolean algebra, Basic theorems and properties of Boolean algebra, Boolean functions, Canonical and Standard forms, Introduction to CAD tools.\n\nImplementation Technology: Transistor switches, NMOS and CMOS logic gates, Standard chips, Practical aspects - Noise margin, Dynamic operation of logic gates, Fan-in and Fan-out in logic gates.",
+            "unit2": "Combinational Circuit Building Blocks: Multiplexers, De-multiplexers, Encoders, Decoders, Code converters, Comparators, Parity generators, and checkers.\n\nOptimized Implementation of Logic Function: Karnaugh map, Strategy for minimization, Minimization of product of sums, and sum of product forms, Incompletely specified functions, Multiple output circuits.",
+            "unit3": "Algorithmic approach for logic minimization - Quine-McCluskey method.\n\nArithmetic Circuits: Addition of unsigned and signed numbers, Fast adders, Multiplication of signed integer and floating point numbers. Synthesis of logic functions using multiplexers, Programmable logic devices such as PLA, PAL, CPLDs, FPGAs, ASICs.",
+            "unit4": "Sequential Circuits: The concept of a sequential circuit, SR flip-flops, D, JK, and T flip-flops, Various clock triggering mechanisms, Master-Slave flip flops; The concept of asynchronous and synchronous sequential circuits, Shift registers, Counters.",
+            "unit5": "Sequential Circuits: Basic design steps - State diagram, State table, State assignment, Choice of flipflops and derivation of next state and output, timing diagram; State assignment problem, Mealy state model, State minimization, Analysis of synchronous sequential circuits, ASM charts, Formal model for sequential circuits.\n\nAsynchronous Sequential Circuits: Asynchronous behavior, Analysis of asynchronous circuits, synthesis of asynchronous circuits, Hazards - static, dynamic; Significance of hazards.",
+            "textbooks": "1. Brown S, and Vranesic Z, Fundamentals of Digital Logic with VHDL Design, 3rd edition, McGraw Hill, 2012.\n2. Kinney L L, and Roth Jr. C H, Fundamentals of Logic Design, 7th edition, Cengage Learning, 2015.",
+            "refbooks": "1. Mano M M, and Kime C, Logic and Computer Design Fundamentals, 4th edition, Pearson Education, 2013.\n2. Hamacher C, Vranesic Z, & Zaky S, Computer Organization, 5th edition, McGraw-Hill, 2011.\n3. Wakerly J F, Digital Design: Principles and Practices, 4th edition, Pearson Education, 2008.\n4. Kohavi Z and Jha N K, Switching and Finite Automata Theory, 3rd edition, Cambridge University Press, 2010.\n5. Peterson G R, Hill F J, Introduction to Switching Theory & Logical Design, 3rd edition, Wiley, 2009."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CST 04",
+            "title": "Discrete Mathematical Structures",
+            "credits": "4",
+            "unit1": "Logic, Prepositional Equivalences, Predicates and Quantifiers, Nested Quantifiers, Rules of Inference, Introduction to Proofs, Proof Methods and Strategy.",
+            "unit2": "Sets, Set Operations, Functions, Sequences and Summations.\n\nRelations and their properties, n-ary relations and their applications, Representing Relations, Closures of Relations, Equivalence Relations, Partial Orderings, Lattices.",
+            "unit3": "Counting – Basics of Counting, Pigeonhole Principle, Permutations and Combinations, Binomial Coefficients, Generalized Permutations and Combinations, Generating Permutations and Combinations.\n\nAdvanced Counting Techniques – Recurrence Relations, Solving Recurrence Relations, Divide-and-Conquer Algorithms and Recurrence Relations, Generating Functions, Inclusion-and-Exclusion and its Applications.",
+            "unit4": "Introduction to graphs, Graph terminology, Applications of some special graphs, Representation of graphs, Graph isomorphism.\n\nConnectivity: Connectedness in undirected and directed graphs, Paths and Isomorphism, Construction of reliable communication networks, Euler path, Hamilton path, Chinese postman problem, Shortest path problems, Traveling salesman problem.",
+            "unit5": "Planar graphs - Kuratowski’s theorem – Graph coloring – Timetabling problem.\n\nIntroduction to trees, Application of trees, Tree traversal, Spanning trees, Applications of backtracking, Minimum spanning trees, Flows, Cuts, Max-flow Min-cut problem.",
+            "textbooks": "1.Kenneth H Rosen, Discrete Mathematics and its Applications, 7th edition, McGraw-Hill Companies.\n\n2. Mott J L, Kandel A, and Baker T P, Discrete Mathematics for Computer Scientists and Mathematicians, 2nd edition, PHI, 2004.",
+            "refbooks": "1. Malik D S, Sen M K, Discrete Mathematical Structures: Theory and Applications, Thomson Course Technology, 2004.\n2.Mott J L, Kandel A, and Baker T P, Discrete Mathematics for Computer Scientists and Mathematicians, 2nd edition, PHI, 2004.\n3.Kolman B, Busby R C, Ross S C, and Rehman N, Discrete Mathematical Structures, 5th edition, Pearson Education, 2006.\n4.Lipschutz S, Lipson M, Discrete Mathematics, 2nd edition, TMH, 2006."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECT 41",
+            "title": "Elements of Electronics and Communication Engineering",
+            "credits": "3",
+            "unit1": "Basic Electronic Devices: Semiconductor fundamentals, Principle of operation and V-I Characteristics of Diodes (PN, Zener, Photo, LED, Laser Diode), Transistors (BJT, JFET, MOSFET).\n\nMicroelectronics: Concept of miniaturization of electronic systems, Basic principles of monolithic integrated circuit technology, IC fabrication of simple circuit elements.",
+            "unit2": "Transistor Amplifiers: Concept of an amplifier - Gain, Input and Output impedance, Frequency response, Biasing of a transistor, CB, CE and CC Configurations and their characteristics, Multi stage Amplifiers.\n\nConcept of feedback: Negative and Positive feedback, Advantages and limitations, Oscillator Operation, RC phase shift oscillator and Crystal oscillator.",
+            "unit3": "Analog ICs: Concept of differential amplifier, Operational Amplifier (OPAMP), Characteristics of an OP AMP and its applications - Inverting and non-inverting amplifiers, Summer, Integrator, Differentiator, 555 timer, and its application as multi-vibrator, Phase Locked Loop (PLL), and its application as frequency multiplier.",
+            "unit4": "Basics of Communication Engineering: Introduction, Signal Spectrum, Bandwidth, Noise; Concept of Communication - Source, Channel, Sink; Types of channels; Concept of information and entropy, Shannon's law, Bit rate; Analog Modulation Schemes - AM, FM; Pulse Modulation Schemes – sampling, PAM, PWM, PPM, PCM, DM; Multiplexing – FDM, TDM.",
+            "unit5": "A/D and D/A Converters: D to A converters - Basic principle, Weighted resistor and ladder types; A to D Converters - Basic principle, Ramp, Successive approximation types.\n\nBasic Electronics Instruments: Block diagram and principle of operation of - Digital Multi-meter, Function generator, Cathode Ray Oscilloscope (CRO).",
+            "textbooks": "1. Bogart Jr. T F, Beasley J S, and Rico G, Electronic Devices and Circuits, 6th edition, Pearson Education, 2006.\n2. Malvino A, and Bates D J, Electronic Principles, 7th edition, Tata McGraw-Hill, 2007.",
+            "refbooks": "1. Deshpande N P, Electronic Devices and Circuits - Principles and Applications, Tata McGraw-Hill, 2007.\n2. Muthusubramanian R, Salivahanan S, and Muraleedharan K A, Basic Electrical, Electronics, and Computer Engineering, 2nd edition, Tata McGraw-Hill, 2001. (Part II-Electronics Engineering only).\n3. Stanley W D, Hackworth J R, and Jones R L, Fundamentals of Electrical Engineering and Technology, Thomson Delmar Learning, 2007. (Part III - Electronic Devices and Linear Electronics only).\n4. Gates E D, Introduction to Electronics, 5th edition, Thomson Delmar Learning, 2007. (Sections 3 and 4 only).\n5. Storey N, Electronics - A Systems Approach, 2nd edition, Pearson Education Asia, 2001."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CST 05",
+            "title": "Java and Advanced Data Structures",
+            "credits": "3",
+            "unit1": "Core Java Programming: Introduction to Java programming; Object-oriented programming with Java Classes and Objects; Inheritance; Exception handling with try-throw-catch-finally constructs; The Object class; Working with types: Wrapper classes; Packages; Applets; Event Handling; Basics of AWT and Swing; Threads; The I/O Package; Basic concepts of networking; Database connectivity with JDBC.",
+            "unit2": "Structure of an HTML document; Static, Interactive, Dynamic, and Active Web Pages, DHTML, CSS, JavaScript - The Interpreted Programming Language; Apache, Apache Tomcat, IIS Web Servers; Microsoft SQL, MySQL, and Oracle Database Servers.",
+            "unit3": "Advanced Java Programming (J2EE): Java Database Connectivity; Java Servlets; Java Server Pages; Remote Method Invocation (RMI); Enterprise Java beans (EJB); Session Bean; XML; Hibernate; AJAX; STRUTS.",
+            "unit4": "Reclaiming Space in Files, Internal Sorting Methods, Keysorting. External Searching Mechanisms - Indexing and Hashing, Multilevel Indexing.\n\nRevision of AVL Trees, Paged Binary and B Trees; Use of B Trees in Multilevel Indexing; Indexed Sequential File Access and B+-Trees. Variants of B trees and B+ Trees.",
+            "unit5": "Concepts of Static and Extendable Hashing, Hashing Methods; Collision Resolution Techniques; Effects of Hashing Methods, Collision Resolution Techniques, Packing Density, Bucket Size, Hash Table Representations and Deletion Methods on the Performance of External Searching. Role of Radix 2 Tries in Extendible Hashing; Transforming a Trie into Directory and Performing Insertion, Deletion and Searching Operations; Extendible Hashing Performance.",
+            "textbooks": "1. Herbert Schildt, Java - The Complete Reference, 8th Edition, Mcgraw Hill Education, 2011.\n2. Jon Duckett, Beginning HTML, XHTML, CSS, and JavaScript, Wiley India, 2009.\n3. Jim Keogh, J2EE - The complete Reference, 1st Edition, McGraw Hill Education, 2017.\n4. Hans Bergsten, Java Server Pages, 3rd Edition, O’Reilly, 2003.\n5. Folk M J, Zoellick B, and Riccardi G, File Structures - An Object-Oriented Approach with C++, Pearson Education, 1998.",
+            "refbooks": "1. Tremblay J P, Sorenson P G, An Introduction to Data Structures with Applications, TataMcGraw Hill, 1991.\n2. Sahni S, Data Structures, Algorithms and Applications in C++, 2nd edition, Universities Press, 2005.\n3. James Holmes, Struts: The Complete Reference, 2nd Edition, McGraw Hill Education, 2007.\n4. David C. Kreines, Oracle SQL: The Essential Reference, 1st Edition, O’Reilly, 2000.\n5. Steve Suehring, MySQL Bible, Wiley, 2002."
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MAT 04",
+            "title": "Probability and Statistics",
+            "credits": "4",
+            "unit1": "Probability: Introduction, Axiomatic approach, Conditional probability, Baye's theorem, Stochastic process, Random variables, Discrete and Continuous distributions, Expectation, Variance, moments, Moments generating functions.",
+            "unit2": "Distributions - Binomial, Poisson, Normal, Uniform, Exponential and Gamma. Properties and applications.",
+            "unit3": "Estimator - Estimation of parameters by Method of moments and maximum likelihood - Testing of hypothesis - small sample tests - t-test, F-test and Chi-Square test.",
+            "unit4": "Correlation: Curve fitting by method of least squares - Linear, Quadratic and Exponential fitting - Correlation - rank correlation - Regression analysis - Multiple correlation.",
+            "unit5": "Quality Control: Concept of quality of a manufactured product - Causes of variation - Principle of Shewart Control charts - X-Chart, R-Chart, p-Chart, np-chart and c-Chart.",
+            "textbooks": "1. S P Gupta, Statistical Methods, 38th Edition, Sultan Chand & Sons Educational Publishers,2009.\n2. Y K V Iyengar, et al, Probability and Statistics 2nd Edition S. Chand & Company Ltd,2010.\n3. S C Gupta and V K Kapur, Fundamentals of Applied Statistics, 3rd Edition, Sultan Chand & Sons Educational Publishers.",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECP 01",
+            "title": "Elements of Electronics and Communications Engineering Lab",
+            "credits": "2",
+            "todo": "1. Study of CRO and measurements using it.\n2. PN Diode & Zener diode characteristics.\n3. BJT input & Output Characteristics.\n4. MOSFET input &Transfer Characteristics.\n5. Common Emitter Amplifier.\n6. Applications of OP AMP – 1.\n7. Applications of OP AMP – 11.\n8. 555 Timer Based Multi-vibrators.\n9. PLL based Frequency Multiplier.\n10. Divide by N counter using Flip-flops.\n11. 4-bit shift register using Flip-flops.\n12. Study of Analog and Pulse Modulation Schemes – Observation of the waveforms of carrier , modulating, and the modulated signals.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSP 03",
+            "title": "Java and Advanced Data Structures Lab",
+            "credits": "2",
+            "todo": "• Objects and Methods\n• Multi/Multiple Inheritance\n• Polymorphism / Data binding\n• Parallel Interfaces\n• Threading\n• Fork and wait\n• Static binding\n• Dynamic binding\n• Exception handling\n• Interfaces\n• Packages\n• Applets\n• Networking\n• Swings\n• Java Script",
+            "refbooks": ""
+        }
+    ]
+}

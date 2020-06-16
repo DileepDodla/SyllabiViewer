@@ -1,0 +1,114 @@
+{
+    "sub1":[
+        {
+            "code": "ECPCT 401",
+            "title": "Digital Electronics",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2":[
+        {
+            "code": "ECEST 402",
+            "title": "Signals & Systems",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSPCT 403",
+            "title": "Design & Analysis of Algorithms",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CSPCT 404",
+            "title": "Database Management Systems",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSPCT 405",
+            "title": "Computer Organization and Architecture",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "HSMCT 410",
+            "title": "Constitution of India",
+            "credits": "-",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSPCP 406",
+            "title": "Computer Organization and Architecture Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECESTP 407",
+            "title": "Digital Electronics Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSPCP 408",
+            "title": "Database Management Systems Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab4": [
+        {
+            "code": "CSPCP 409",
+            "title": "Design & Analysis of Algorithms Lab",
+            "credits": "1.5"
+        }
+    ]
+}

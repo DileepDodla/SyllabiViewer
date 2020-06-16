@@ -1,0 +1,114 @@
+{
+    "sub1": [
+        {
+            "code": "CSPCT 501",
+            "title": "Operating Systems",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CSPCT 502",
+            "title": "Formal Language & Automata Theory",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSPCT 503",
+            "title": "Computer Graphics",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "GEMCT 504",
+            "title": "Industrial Management",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSPET 515",
+            "title": "Software Engineering",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "CSPET 525",
+            "title": "Software Architecture",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub7": [
+        {
+            "code": "HSMCT  506",
+            "title": "Managerial Economics",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSPCP 507",
+            "title": "Operating Systems Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSPCP 508",
+            "title": "Computer Graphics Lab",
+            "credits": "1.5"
+        }
+    ]
+}

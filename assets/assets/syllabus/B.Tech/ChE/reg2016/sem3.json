@@ -1,0 +1,108 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MAT 03",
+            "title": "Engineering Mathematics - III",
+            "credits": "3",
+            "unit1": "Simple correlation and regression – Curve fitting – Fitting Linear, second degree and exponential curve by the method of least squares – Normal distribution.",
+            "unit2": "Determination of roots of non–linear equations: Bisection method – Falsi position method – Newton Raphson method – Iterative method. Solutions of system of linear equations: Gauss elimination with pivotal condensation – Gauss Jacobian, Gauss Seidel iteration methods.",
+            "unit3": "Numerical interpolation: Newtons’s forward and backward interpolation formulae – Lagrange’s interpolation formulae, Finding first and second order differential coefficients using Newton’s formulae. Numerical integration – Trapezoidal, Simpson’s 1/3 and Simpson’s 3/8 rules.",
+            "unit4": "Solutions of ordinary differential equations: Taylor’s series – Euler method – Modified Euler’s method – Runge Kutta methods (second and fourth order only) – Minlne’s predictor corrector method.",
+            "unit5": "Solutions of partial differential equations: Solutions of Laplace equation by Liebmann’s iteration process – solution of Poisson’s equations by using Gauss Seidel iteration method.",
+            "textbooks": "1. M. Ray & H.S. Sharma, Mathematical Statistics, Ram Prasad & Sons.\n2. S. Armugam, Numerical Methods, Second Edition, Scitech Publications, Chennai.",
+            "refbooks": "1. B.S. Grewel, Higher Engineering Mathematics, Thirty First Edition, Khanna Publications, 1995."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CET 42",
+            "title": "Mechanics of Solids",
+            "credits": "4",
+            "unit1": "Complex Stresses: Stresses on an inclined plane under different uni axial and biaxial stress conditions, Principal planes and principal stresses, Mohr’s circle, Lateral Contraction.\n\nStresses due to rotation: Wheel rim, disc of uniform thickness, disc of uniform strength.",
+            "unit2": "Bending Moments and Shear Forces: Beam – Types of loads, Types of supports, S.F. and B.M. diagrams for cantilever, simply supported and over hanging beams.\n\nUnsymmetrical bending and shear center: Principle axes of sections, circle of inertia, shear center to rectangular sections, I-sections and L-sections.",
+            "unit3": "Bending Stress in beams: Theory of simple bending – Assumptions – Derivation of bending equation. Position of N.A. – Moment of Resistance of rectangular section, I-Section and triangular section.\n\nShear stress: Equation for shear stress distribution across any cross section of beam – shear stress distribution across rectangular, circular, triangular, I-Sections.",
+            "unit4": "Deflections of Beams: Relation between curvature, slope and defection, double integration method, Macaulay’s method, Moment area method.\n\nTorsional Stresses in shafts and springs: Analysis of torsional stresses, Power transmitted, combined bending and torsion, Closed and open coiled helical springs. Laminated springs.",
+            "unit5": "Cylinders and Spherical Shells: Stresses and strains in thin cylinders, Thin Spherical shell. Thick cylinders subjected to internal and external pressure. Compound Thick cylinders, Shrink fit.",
+            "textbooks": "1. Vaizirani and Ratwani, Analysis of Structure, Vol. 1, 17th Edition, Khanna Publishers, 1997.\n2. R.K.Bansal, Sterngth of Materials, Laxmi Publishers.5th Edition,2012.",
+            "refbooks": "1. Timoshenko, Strength of Materials 3rd Edition, Krieger Publications, 1983."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "FEC 01",
+            "title": "Professional Ethics",
+            "credits": "2",
+            "unit1": "Introduction: Background ideas – why study engineering ethics? Engineering is managing the unknown – Personal vs. Business ethics – The Origins of Ethical thought – Ethics and the Law – Ethics Problems are like design problems.",
+            "unit2": "Professionalism and codes of ethics – Introduction – Is engineering a Profession? Codes of Ethics – Understanding ethical problems. A brief history of ethical thought – Ethical theories.",
+            "unit3": "Ethical problem solving techniques – Analysis of issues in ethical problems – Line drawing – Flow charting – Conflict Problems – An application of Problem solving methods – Bribery/Acceptance of gifts.",
+            "unit4": "Safety and Risk – Engineers and Safety – Designing for safety – The rights and responsibilities of engineers – Professional responsibilities – Computer ethics – Professional rights – Whistleblowing – Types of whistleblowing.",
+            "unit5": "Ethics in research and experimentation – Ethics and Research – Pathological science – Doing the right thing.",
+            "textbooks": "1. Charles B. Fleddermann, Engineering Ethics, Pearson Education, 2004.",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MET 02",
+            "title": "Thermodynamics",
+            "credits": "4",
+            "unit1": "Basic Concepts Scope of Thermodynamics – Macroscopic and Microscopic properties Thermodynamic system – Control Volume – Thermodynamic Properties – Processes and cycles – Thermodynamic Equilibrium – Quasi static process – Zeroth Law Of Thermodynamics – Measurement of temperature – Thermocouple – Work transfer – pdv work – Network done by a system – Specific heats and latent heat.\n\nFirst Law of Thermodynamics: Energy – Different forms of stored energy – closed systems and steady flow systems – First law applied to flow process – Mass balance and energy balance in steady flow process – Perpetual motion machine of first kind.",
+            "unit2": "Boyle’s Law – Charles Law – Characteristic equation of gas – Avagadro’s Law – Joule’s Law – First Law and non-flow Processes Constant volume – Constant Pressure – Isothermal – Hyperbolic – Adiabatic – free expansion and polytropic processes – Real gases Dalton’s Law of pressures – Avogadro’s Law – Gibb’s – Dalton’s Law of mixture of gases.\n\nSecond Law of Thermodynamics: Limitations of first law – Heat engines and Heat reservoirs – Kelvin Planks statement of second law – Clausius inequality – refrigeration and heat pump reversibility and irreversibility – Carnot cycle – Reversible heat engine – Carnot Theorem – Corollaries – Efficiency of reversed heat engine.",
+            "unit3": "Entropy and availability: Claussiu’s theorem – The property of entropy – temperature entropy plot – Principle of increase of entropy – Entropy changes in various thermodynamic processes.\n\nAvailability: Availability energy referred to a cycle – The Helmholtz function and Gibb’s functions – Availability in steady flow combined first law and second laws – Tds equations – energy equation – Joules Kelvin effect – Claussius – Clapeyrm equation – Gibbs phase rule.",
+            "unit4": "Gas Power cycles: Carnot cycle – Stirling cycle – Eriksson cycle – Air standard cycles – Otto cycle – Diesel cycle – limited pressure cycle Mixed cycle or duel cycle – Comparison of cycles – Brayton cycle.",
+            "unit5": "Fuels and Combustion: Conventional fuels – Calorific value of fuels (solid – liquid and gaseous) Experimental determination and calculation from chemical analysis – Combustion equations – Air required for complete combustion – Excess air – Determination of air fuel ratio and weight of flue gases.",
+            "textbooks": "1. Engineering Thermodynamics : Nag. P.K.\n2. Heat Engineering : Vasandani V.P. and Kumar D.S.\n3. Heat Engines : Ballaney P.L.\n4. Engineering Thermodynamics - Fundamentals and Applications: Natarajan. E, Anuragam Publications.\n5. Engineering Thermodynamics : Chattopadhyay. P.\n6. Thermodynamics : C.P. Arora.\n7. Basic Engineering Thermodynamics : A. Venkatesh.\n8. Engineering Thermodynamics : Gordon Rogers and Yon Mayhew.\n9. Engineering Thermodynamics : Jones and Dugan.",
+            "refbooks": "1. Applied Thermodynamics : Eastop and Mckankey.\n2. Thermodynamics : J.P. Holman – McGraw-Hill.\n3. Fundamentals of Engineering Thermodynamics : E. Rathkrishnan.\n4. Thermodynamics for Engineers : Kau – Fui Vincent Wong."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MET 03",
+            "title": "Advanced Engg. Graphics",
+            "credits": "4",
+            "unit1": "Sections of solids of tetrahedron, cube, prism, pyramids and cone, section planes perpendicular to HP and inclined to VP, Section planes perpendicular to VP and inclined to HP sections plane Perpendicular to both HP and VP.",
+            "unit2": "Development of surfaces: Development of lateral surfaces of right regular solids as prisms, pyramids, cylinders and cones which are cut by plane inclined to HP only.",
+            "unit3": "Introduction to interpenetration of solids of intersection of two prisms, cylinders, cone and cylinder.",
+            "unit4": "Isometric Projections: Isometric Projections and views such as prisms, Pyramids, cylinders and cones. Solids placed one over the other.",
+            "unit5": "Introduction to AUTOCAD - Co-ordinate system, Object snap, Draw Tools - Line, Polyline, Rectangle, circle, spline, Ellipse, Point, Hatch, Text, Modify Tools - Erase, copy, Mirror, Offset, Array, Move Rotate, Trim, Fillet, Dimensions - Dimension Variables, Linear, Aligned, Radius and diameter, Angular Dimensions.",
+            "textbooks": "1. Bhatt N.D. and V.M. Panchal, Engineering Drawing Revised Edition, Charotar Publications, 2010.\n2. Dhananjaya A Jolhe, Engineering Drawing with an introduction to Auto CAD, Tata MeGrawhill - 2009.\n3. Gautam Pohit, Gautam Gosh: Machine Drawing with auto cad-Pearson Publications.\n4. K.L.Narayana and P. Kannaih, A text Book of Engineering Drawing, SCITECH Publications – (1999).\n5. K. Venugopal: Engineering Drawing & Graphics, New age International Publishers.",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MET 04",
+            "title": "Manufacturing Processes",
+            "credits": "4",
+            "unit1": "Introduction: Definition and Classification of Manufacturing Processes, Various kinds of Productions, Selection of Materials, Types of Materials, Properties of Materials, Selection of Manufacturing Processes, Modern concepts of Manufacturing.",
+            "unit2": "Foundry Processes: Introduction to foundry shop, molding-molding materials, sand mold casting, Patterns, Cores, Gates and Risers, Different types of casting processes, Foundry furnaces and melting furnaces, Casting Defects.",
+            "unit3": "Metal Forming processes: Nature of plastic deformation, hot working and cold working.\n\nRolling: Principle, Rolling stand arrangement, Roll passes, Breakdown passes, Roll pass sequences.\n\nForging: Introduction, various forging operations, Forgeability of metals, Forging Defects, Die Design, Die Manufacturing Methods, Forging machines.",
+            "unit4": "Extrusion and Drawing: Introduction, Different types of Extrusion processes, equipments, defects in extrusion. Drawing processes, Drawing practice and Drawing Defects, Drawing equipments.\n\nSheet Metal Forming Processes: Press tool operations, shearing action, Sheet metal characteristics and Formability, Bending, Deep Drawing, Spinning, Stretch Forming, Embossing and Coining.",
+            "unit5": "Fabrication Processes: Classification, General consideration, Joining processes, Fusion welding processes, Solid state welding processes, LBW, EBW, Soldering and Brazing.",
+            "textbooks": "1. Serope Kalpakjian: Manufacturing Engineering and Technology, 5th Edition, Pearson Prentice Hall.\n2. P.N. Rao: Manufacturing Technology, 2nd Edition, Tata McGraw – Hill, 2007.\n3. P.C. Sharma: A Textbook of Production Technology: Manufacturing Process, 7th Edition, S. Chand & Company Limited, 2007.",
+            "refbooks": "1. J.P. Kaushish: Manufacturing Processes, 2nd Edition.\n2. R.S. Khurmi and J.K. Gupta: A Textbook of Workshop Technology: Manufacturing Processes, 7th Edition, S. Chand & Company Limited, 2008.\n3. Hahra Choudhury SK: Elements of Workshop Technology, Volume-1, Indian Book Distribution Co. Calcutta."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CEP 41",
+            "title": "Mechanics of Solids Lab",
+            "credits": "2",
+            "todo": "LIST OF EXPERIMENTS:\n\n1. Tension test on mild steel bar.\n2. Tension test on HYSD steel bar.\n3. Compression test on wood.\n4. Shear test on wood.\n5. Torsion test on steel.\n6. Test on close coiled helical spring.\n7. Bending test on rolled steel joist.\n8. Bending test carriage spring.\n9. Charpy impact test.\n10. Deflection test on a beam under Uniform Bending.\n11. Deflection test on simple supported beam.\n12. Deflection test on fixed beam.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "MEP 02",
+            "title": "Manufacturing Processes Lab",
+            "credits": "2",
+            "todo": "(Any Eight of the following experiments will be given)\n\nLIST OF EXPERIMENTS:\n\nLATHE\nModel 1: Step Turning.\nModel 2: Taper Turning with Knurling.\nModel 3: V Threading.\n\nSHAPER\nModel 4: Making Square prism on Shaper.\nModel 5: Slot Cutting with Shaping Machine.\n\nMILLING MACHINE\nModel 6: Rectangular Slot Cutting on Vertical Milling Machine.\nModel 7: Hexagonal Cutting on Horizontal Milling Machine.\nModel 8: Spur Gear cutting on Milling.\n\nTHREADING\nModel 9: Square Threading.\nModel 10: Double Start V Threading.\nModel 11: Drilling and Tapping.\nModel 12: Joining of Two Metal Work Pieces with Arc Welding or Gas Welding.\nModel 13: Pattern Making Related Moulding.",
+            "refbooks": ""
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "totalcredits": 22,
+    "subcount": 7,
+    "labcount": 2, 
+    "sub1": [
+        {
+            "code": "ECPCT 401",
+            "title": "Analog Circuits",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2":[
+        {
+            "code": "ECPCT 402",
+            "title": "Signals & Systems",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ECPCT 403",
+            "title": "Probability Theory and Stochastic Processes",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECPCT 404",
+            "title": "Analog and Digital Communication",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSPCT 405",
+            "title": "Computer Organization and Architecture",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "HSMCT 406",
+            "title": "Management Science",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub7": [
+        {
+            "code": "HSMCT 407",
+            "title": "Psychology",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCP 408",
+            "title": "Analog Circuits Lab",
+            "credits": "1"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECPCP 409",
+            "title": "Analog and Digital Communication Lab",
+            "credits": "1"
+        }
+    ]
+}

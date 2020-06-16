@@ -1,0 +1,107 @@
+{
+    "totalcredits": 25,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "COT 02",
+            "title": "Managerial Accountancy",
+            "credits": "2",
+            "unit1": "Management Accounting – Definition, Objectives, Scope and Functions. Financial Accounting – Introduction, Process, Principles and Concepts. Brief introduction to Trading Account, Balancing Process, Profit & Loss Account and Balance Sheet.",
+            "unit2": "Financial Statement Analyses – Ratio Analysis.\n\nMethods of Depreciation – Straight line, Depletion, Machine Hour Rate, Diminishing Balance, Sum of Digits and Sinking Fund.",
+            "unit3": "Capital Budgeting – Concept of Pay Back Period, NPV, and IRR Methods.\n\nUnit costing – Introduction, Direct Cost Classification and Indirect Cost Classification.\n\nIntroduction to Process Costing, Job Costing and Activity Based Costing.",
+            "unit4": "Marginal Costing – Introduction, Definition, Meaning and BEP Analysis and BEP in units.\n\nStandard Costing – Introduction, Variance Analysis Material Cost Variance, Material Price Variance, Labor Variance, and sales Variance.",
+            "unit5": "Budgetary Control – Introduction and Classification of Budgets, Production, Material/Purchase, Sales, Sales Overhead, Cash and Factory Overheads Budgets. Flexible Budget.",
+            "textbooks": "1. Pandikumar MP: Management Accounting, Theory and Practice, 1st Edition, Excel Books, 2007.",
+            "refbooks": "1. Khan M Y & Jain P K: Management Accounting 4th Edition, Tata McGraw-Hill, 2007."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "MET 09",
+            "title": "Mechanical Measurements and Metrology",
+            "credits": "3",
+            "unit1": "Basic concepts: Introduction, Definition of terms – Span and Range, Readability, Sensitivity, accuracy, Precision, Threshold, Resolution and Hysterisis – Calibration standards. The generalized measurement system. Basic concepts in dynamic measurement – amplitude response, frequency response, phase response, delay time and time constant.\n\nAnalysis of experimental data and types of experimental errors. Combination of component errors in overall system accuracy. Method of least squares, Graphical analysis and curve fitting.",
+            "unit2": "Transducers – Introduction, Loading of the Signal Source, Impedance matching, Electric transducer elements – advantages Variable resistance, Differential transformer, Capacitance, Piezoelectric and Ionization transducer.\n\nMeasurement of Pressure and Vacuum: Pressure measurement – liquid column elements, elastic elements, very high pressure measurement. High vacuum measurement – Mcleod gauge, Pirani gauge and Thermocouple vacuum gauge.",
+            "unit3": "ISO system of limits, Fits and Tolerances, Interchangeability, Plain limit gauges, Measurement of screw threads, major diameters, Minor diameters and effective diameter, Pitch, Limit gauges for internal and external threads, Measurement of spur gears, pitch, profile, lead, backlash, tooth thickness.",
+            "unit4": "Tool maker’s microscope, Straightness measurement, Slip gauges, Twisted strip mechanical comparator, Optical lever comparator, Optical projector, Sine bar, Angle gauges, Precision level, Autocollimeter, Angle dekkor, Optical dividing heads and rotary tables, Flatness measurement, Roundness measurement. Co-ordinate measuring machines.",
+            "unit5": "Surface Measurement: Parameters, sampling length, Specification, Stylus instruments. Acceptance tests for machine tools: Lathe, Milling machine, Radial drill, Laser equipment. Interferometry – Types of interferometers – Laser Interferometer – Optimal Interferometer.",
+            "textbooks": "1. Gupta I.C: A Text Book of Engineering Metrology, 7th Reprint, Dhanpat Rai Publications Ltd, 2000.\n2. Kumar D.S.: Mechanical measurements and Control Engg., Metropolitan Book Co., 1979.",
+            "refbooks": "1. Sirohi R.S. and Radha Krishna H.C: Mechanical measurements, 3rd Edition, New Age International, 2004.\n2. Beckwith T.G: Mechanical measurements, 6th Edition, Pearson Education, India.\n3. A.S.T.M.E.: Hand book of Industrial Metrology, Prentice-Hall, 1967."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "MET 10",
+            "title": "Dynamics of Machinery (DOM)",
+            "credits": "4",
+            "unit1": "FRICTION: Inclined plane ,pivot and collar, uniform pressure, uniform wear. Friction circle and friction axis, lubricated surfaces, boundary friction, film lubrication.\n\nCLUTCHES: Friction clutches - Single Disc or plate clutch, Multiple Disc Clutch, Cone Clutch.\n\nBRAKES AND DYNAMOMETERS: Simple block brakes, Band brake, internal expanding brake, braking of vehicle. Dynamometers – absorption and transmission types. General description and methods of operation.",
+            "unit2": "GYROSCOPIC COUPLE AND PRECESSIONAL MOTION: Gyroscopic Couple – effect of precession on stability of moving vehicles such as motor cars, motor cycles, aero-planes and ships - Gyroscopic stabilization.\n\nTURNING MOMENT DIAGRAMS AND FLYWHEEL: Construction of crank effort and diagramsFluctuation of energy and speed in flywheels-flywheel of an I.C. engine. Flywheel of a punching press determination of moment of inertia - design considerations.",
+            "unit3": "CENTRIFUGAL GOVERNORS: Sleeve loaded and spring loaded governors. Hartnell, Hartung governors and governors with auxiliary springs - sensitiveness, Isochronism and hunting in governors. Governors effort and power - controlling force diagrams - stability, Friction and insensitiveness.",
+            "unit4": "BALANCING: Static and dynamic balance, balancing of rotating masses - analytical and graphical methods. Balancing of reciprocating masses – Partial balancing – locomotive balancing – variation of tractive effort. Swaying couple and Hammer blow. single and multi cylinder in line engines – firing order. Balancing of radial and V engines. Practical Methods of balancing of rotors.",
+            "unit5": "VIBRATION: Free and forced vibration of single degree of freedom system, Role of damping, whirling of shafts and critical speeds. Simple problems on free, forced and damped vibrations. Vibration Isolation & Transmissibility. Transverse vibrations of beams with concentrated and distributed loads. Dunkerly’s method, Raleigh’s method. Torsional vibrations - two and three rotor systems.",
+            "textbooks": "1. Theory of Machines : R.K.Bansal.\n2. Theory of Machines : S.S. Rattan.\n3. Mechanisms and Machine Theory : J.S. Rao and R.V. Dukkipati.\n4. Theory of Vibrations : Thomson",
+            "refbooks": "1. Theory of Machines and Mechanisms : Joseph Edward Shigely.\n2. Theory of Machines : Thomas Bevan.\n3. Mechanical Vibrations : Dehhartog."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MET 11",
+            "title": "IC Engines and Gas Turbines",
+            "credits": "4",
+            "unit1": "Internal Combustion Engines : classifications, principles of operation, SI and CI engines,Basic fuel supply system, ignition, cooling, lubrication and method of governing, multi cylinder engines.",
+            "unit2": "Testing of IC Engines: Valve and port time diagrams, indicator diagrams, testing of engines, indicated power, Brake power, efficiencies, air fuel ratio, volumetric efficiency and heat balance.\n\nCombustion: Combustion phenomenon in diesel and petrol engines, Types of combustion chamber, Knocking & Detonation and control techniques.",
+            "unit3": "Reciprocating Compressors: Mechanical details, Methods of compression, shaft work and isothermal efficiency of a single stage compressor indicator diagram, effect of clearance, volumetric efficiency, losses during compression, multistage compression optimum pressure condition in two stage compression inter coolers and after coolers.",
+            "unit4": "Rotary Compressors: Classification, positive displacement and rotary dynamic (non-positive displacement) compressors, fans, blowers and compressors, static and total head, centrifugal compressors velocity diagrams, type of impeller vanes, slip factor, diffuser isentropic efficiency, axial flow compressors, velocity diagrams, degree of reaction, isentropic efficiency.",
+            "unit5": "Gas Turbines & Jet propulsions: Simple gas turbine cycle constant volume cycles, open and closed cycle, constant pressure cycle, efficiency and work output, cycle with inter coolers, reheat and regeneration practical cycles losses in a turbine.\n\nJet Propulsion: Specific thrust, thermal efficiency and propulsion efficiency turbo prop, turbo jet, rocket propulsion, performance evaluation.",
+            "textbooks": "1. Heat Engineering : Vasandani V P and Kumar D S.\n2. Engineering Thermodynamics : Nag P K.\n3. Cryogenic Engineering : Russel B Scott.\n4. Heat Engines : Ballaney P L.\n5. Internal Combustion Engines : V. Ganesan.\n6. Internal Combustion Engine Fundamentals : John B Heywood.\n7. Fundamentals of Internal Combustion Engines : Gupta H.N.\n8. Emissions from combustion engines and their control: Patterson D.J. and Henein N.A.",
+            "refbooks": "1. Applied Thermodynamics : Eastop and Mckankey."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MET 12",
+            "title": "Materials Science and Metallurgy",
+            "credits": "4",
+            "unit1": "Space lattice and unit cells, Crystal structures of common metallic materials – bcc – fcc - hcp – Atomic packing factor – Miller indices – spacing of lattice planes – Relation between density and lattice constant. Crystal imperfections – point, line and surface defects. Edge and screw dislocations – Burger’s vector. Plastic deformation by slip and twinning. Critical resolved shear stress for slip. Work hardening – mechanism and sages of work hardening. Cold working and ho working. Recovery, Recrystallization and Grain growth.",
+            "unit2": "Testing of Engineering materials – tensile, compressive, hardness and impact tests. Creep – creep testcreep curve - Mechanism of creep. Fatigue – fatigue stress cycles – fatigue test – S-N-curve – Mechanism of fatigue. Fracture – Ductile and brittle fracture – Griffith’s criterion.",
+            "unit3": "Construction of cooling curves for a pure metal and a solid solution / alloy – Gibb’s phase rule for a metal system – Construction and interpretation of binary phase diagrams - Types of phase diagrams – Eutectic, Eutectoid, Peritectic, Peritectoid - Iron - Carbon system – cooling curve of pure iron. Iron – carbide equilibrium diagram – Effect of alloying elements on Iron - Iron carbide diagram.",
+            "unit4": "Production of Pig – Iron in the Blast furnace. Production of steel in Bessemer, Open Hearth and Basic Oxygen steel making. Plain carbon steels – Uses and limitations of plain carbon steels. Alloy steels. Effect of alloying elements in steels. High speed tool steel, stainless steels, High nickel and High chromium steels. Codification of steels. IS. AISI – SAE classifications. Cast irons - grey, white, malleable and SG irons. Non-Ferrous metals and alloys – Copper, Aluminum, Magnesium, Nickel and Zinc - Properties and applications.",
+            "unit5": "Transformation points – Construction of TTT diagram – TTT diagram and cooling curves. Heat treatment of steels – Annealing, Normalizing, Hardening, Tempering, Austempering, Martempering. Surface hardening of steels – Carburizing, Nitriding, Cyaniding, Flame Hardening and induction hardening. Heat treatment of non-ferrous alloys - Age hardening.\n\nPowder Metallurgy – production of metal powders - Basic steps in powder metallurgy - advantages limitations and applications of powder metallurgy. Introduction to Composite materials.",
+            "textbooks": "1. Avner: Introduction to Physical Metallurgy, Second Edition, Tata McGraw-Hill, 2009.\n2. William D. Callister, Jr.: Materials Science and Engineering,John Wiley & Sons Limited, 2008.\n3. Daniel Yesudian C.D. & Harris Samuel D.G: Materials Science and Metallurgy.\n4. Kodgire V.D.: Materials Science and Metallurgy, Second Edition, Tata McGraw-Hill, 2010.",
+            "refbooks": " 1. Raghavan V: Physical Metallurgy, Second Edition, PHI Learning Pvt. Ltd., 2006.\n2. William F. Hosford: Physical Metallurgy, Second Edition, Taylor and Francis, 2009.\n3. Reza Abbaschian, Lara Abbaschian, Robert E. Reed-Hill: Physical Metallurgy, Fourth Edition, Cengage Learning, 2010.\n4 Krishan K Chawla Composite materials 2nd Edition, Springer, 2006."
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MET 13",
+            "title": "Design of Machine Members - I",
+            "credits": "4",
+            "unit1": "Engineering Design: What is designing?; The process of Design; design by evolution; The Morphology of design; Identification and analysis of need; True need; Specifications; Standards of performance; use of checklists; Morphological Analysis; Brainstorming; measure of physical realizibility; Economic and financial feasibility; Designing for shipping, handling and installation; Design for maintenance; Detailed design.",
+            "unit2": "Mechanical Engineering design: Traditional Design methods; Design Synthesis; design considerations and standards; Engineering classification and selection; BIS designation of steels; Mechanical properties.\n\nDesign against static load: Modes of failure; factor of safety; Stress-strain relationships; shear stress and shear strain relationships; Axial, Bending, Torsional stresses; principles stresses; Theories of failure. Design of shafts.",
+            "unit3": "Design against Fluctuating loads: Stress Concentration factors; Reduction of stress concentration effects; Fluctuating stresses; fatigue Failure; Endurance limit; Notch sensitivity; Endurance limit; Soderberg and Goodman Diagrams; Modified Goodman’s diagrams; Fatigue design under combined stresses. Design for finite and infinite life.",
+            "unit4": "Design of fasters: Threaded joints - Thread joints; ISO metric screw threads, Bolted joint in tension; Torque requirement for bolt tightening; bolted joint under fluctuating load; eccentricity loaded bolted joints in shear; bolted joints with combined stresses; Bolt of uniform strength.\n\nWelded joints - types of welded joints; stresses in butt and fillet welds; strength of welded joints; eccentricity welded joint; weld joint subject to bending moment and fluctuating forces; welding symbols; weld inspection.",
+            "unit5": "Mechanical springs: Helical springs - stress equation and deflection equation; spring materials; spring end formation; design against - static and fluctuating loads; Design of helical and Torsional springs; Compound springs; equalized stress in spring leaves; multi leaf springs; nipping and shot peening.",
+            "textbooks": "1. Lal G. K., Vijay Guptha, Venkata Reddy N.: Fundamental of Design and Manufacturing, Alpha Science International, 2005.\n2. Bhandari V. B.: Design of Machine Element, Third Edition, Tata McGraw Hill, 2010.\n3. Shigley J. E: Mechanical Engineering Design, Third Edition, Tata McGraw Hill, 2010.",
+            "refbooks": "1. Allen Strickland Hall, Alfred R. Holowenko, Herman G. Laughlin: Machine Design, Schaum Series, Tata McGraw Hill, 2010.\n2. Faires V.M: Design of Machine Elements, Fourth Edition, Macmillan, 1965.\n3. Sharma P.C. & Aggarwal D.K.: Machine Design, S. K. Kataria & Sons, 1997.\n4. Jain R.K.: Machine Design, Fifth Edition, Khanna, 1988."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "MEP 03",
+            "title": "Machine Tools Lab",
+            "credits": "2",
+            "todo": "(Any Eight of the following experiments will be given)\n\nList of Experiments:\n\n1. Force Measurement on Lathe.\n2. Power Measurement on Lathe.\n3. Production of Single point cutting tool using and cutter grinder.\n4. Differential Indexing.\n5. Fit Exercise on Capstan Lathe.\n6. Alignment Test on Lathe.\n7. Alignment Test on Radial Drilling Machine.\n8. Thrust and Torque Measurement in Drilling Operation.\n9. Study of tool wear (flank wear).\n10. Study of Weld Bead generator in Arc.\n11. Measurement of Forces in Milling.\n12. Study of Impact strength tests on Welding joints.",
+            "refbooks": ""
+        }
+    ],
+    "lab2": [
+        {
+            "code": "MEP 04",
+            "title": "Fuels Lab",
+            "credits": "2",
+            "todo": "LIST OF EXPERIMENTS:\n\n1. Measurements of Viscosity of Various Lubricating oils.\n2. Test on Flash and Fire Point Apparatus.\n3. Test on Carbon – Residue Apparatus.\n4. Test on Distillation Apparatus.\n5. Calibration of Pressure Gauge.\n6. Test on Aniline Point Apparatus.\n7. Test on Bomb Calorimeter.\n8. Performance Test On A Centrifugal Blower.\n9. Study of Boilers.",
+            "refbooks": ""
+        }
+    ]
+}

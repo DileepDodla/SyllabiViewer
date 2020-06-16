@@ -1,0 +1,86 @@
+{
+    "sub1": [
+        {
+            "code": "MABST 101",
+            "title": "Mathematics - I",
+            "credits": "4",
+            "unit1": "Differential Equations: Linear differential equations of second and higher order with constant coefficients - particular integrals - homogeneous differential equations with variable coefficients - method of parameters - simulation equations.",
+            "unit2": "Laplace Transforms I: Laplace transforms of standard functions - inverse transforms - transforms of derivatives and integrals - derivatives of transforms - integrals of transforms.",
+            "unit3": "Laplace Transforms II: Transforms of periodic functions - convolution theorem - applications to solution of ordinary differential equations.",
+            "unit4": "Calculus: Roll’s and Mean value theorems - Taylor’s and Maclaurins’s series - maxima and minima for functions of two variables - Infinite series - Convergence Tests series of positive terms - comparison, Ratio tests - Alternating series - Leibnitz’s rule - Absolute and conditional convergence.",
+            "unit5": "Multiple Integrals: Curve tracing (both Cartesian and polar coordinate) - Evaluations of double and Triple integrals - change of order of integrations - change of variables of integrations - simple applications to areas and volumes.",
+            "textbooks": "1. B S Grewal, Higher Engineering Mathematics, 40th Edition, Khanna Publications, 2007.\n2. M K Venkataraman, Engineering Mathematics, National Publishing Company, Chennai.\n3. B V Ramana, Higher Engineering Mathematics, 6th Reprint, Tata McGraw-Hill, 2008.\n4. Bali and Iyengar, Engineering Mathematics, 6th Edition, Laxmi Publications, 2006.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "PYBST 102",
+            "title": "Modern Physics",
+            "credits": "4",
+            "unit1": "Quantum Mechanics: Wave – Particle duality – de Broglie Concept of Matter Waves – Properties of Matter Waves – Davison and Germer Experiment – G.P. Thomson Experiment – Heisenberg’s Uncertainty Principle – Schrödinger’s Time Independent and Time Dependent Wave equation – Significance of Wave Function – Electron in an Infinite Square Potential Well – Probability Densities and Energy Levels.",
+            "unit2": "Band Theory of Solids: Classical Free Electron Theory of Metals – Success and Failures – Quantum Free Electron Theory – Fermi Factor – Electron in Periodic Potential – Bloch Theorem – Kronig – Penney Model – Distinction between Metals, Insulators and semiconductors - Energy Band Structures.",
+            "unit3": "Semiconductors: Introduction - Intrinsic and Extrinsic Semiconductors – Density of states – Carrier Concentrations at Equilibrium - Hall Effect. PN Junction Diode – Energy Band Diagram - Forward and Reverse Bias- Current – Voltage characteristics – Applications: Zener Diode - Light Emitting Diode - Photo diode - Solar Cell – Semiconductor Laser.",
+            "unit4": "Electromagnetism and magnetic properties of Materials: Laws of Electrostatistics - Electric Current - Laws of Magnetism - Ampere`s, Faraday`s laws - Maxwells Equations – Polarization - Permeability and dielectric constant - Polar and non-polar Dielectrics, Clausius-Mossotti equation, Applications of Dielectrics.\n\nMagnetization - Permeability and Susceptibility - Classification of Magnetic Materials, Ferromagnetism - Magnetic Domains and Hesteresis, Applications of ferromagnetic materials.",
+            "unit5": "NanoPhysics and Nanotechnology: Introduction to Nanomaterials – Properties: Optical Properties – Quantum Confinement – Electrical properties.\n\nSynthesis of Nanomaterials: Ball milling, Arc deposition method – Chemical Vapour Deposition - Pulsed laser deposition.\n\nCharacteristics of C60 (Zero dimensional), Carbon Nanotubes (One Dimensional) and Graphene ( Two Dimensional).\n\nApplications of Nanomaterials.",
+            "textbooks": "1. R.K.Gaur and S.L.Gupta, Engineering Physics, Sultan and Chand Pub., New Delhi.\n2. S.P.Basava Raju, A Detailed Text Book of Engineering Physics, Sole Distributors, Subhash Stores Book Corner, Bangalore.\n3. Hitendra K.Malik and A.K.Singh, Engineering Physics, Tata MC Graw Hill Education Pvt.Ltd., New Delhi.\n4. M.N.Avadhanulu and P.G.Kshirsagar, A Text Book of Engineering Physics, S.Chand and Company Pvt.Ltd., New Delhi.",
+            "refbooks": "5. John Allison, Electronic Engineering Materials and Devices, Tata Mc Graw Hill Publications.\n6. B.L Theraja, Modern physics, S.Chand & Company.\n7. V. Raghavan, Material Science, Tata Mc Graw Hill Publications.\n8. M.S.Ramachandra Rao and Shubra Singh, Nanoscience and Nanotechnology, Wiley India Pvt.Ltd, New Delhi."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSEST 103",
+            "title": "Programming for Problem Solving",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "1. Byron Gottfried, Schaum's Outline of Programming with C, McGraw-Hill.\n2. E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill.",
+            "refbooks": "1. Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice Hall of India."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CSEST 104",
+            "title": "Python Programming",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "1. Practical Programming: An introduction to Computer Science Using Python, second edition, Paul Gries, Jennifer Campbell, Jason Montojo, The Pragmatic Bookshelf.\n2.Exploring Python, Timothy A. Budd, Mc Graw Hill Education.",
+            "refbooks": "1.Introduction to Python for Computational Science and Engineering (A beginner's guide), Hans Fangohr.\n2.Learning with Python: How to Think Like a Computer Scientist Paperback – Allen Downey , Jeffrey Elkner, 2015.3.Learning Python, Fourth Edition, Mark Lutz, O’Re illy publication."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CEMCT 107",
+            "title": "Environmental Science",
+            "credits": "-",
+            "unit1": "Environmental Studies and Natural Resources: Definition, Scope and importance of Environment, Environmental studies, Need for public awareness.\nComponents of Environment - Atmosphere, Hydrosphere, Lithosphere.\nRenewable and Non Renewable Resources and associated problems:\n• Water resources: Use and over utilization of surface and ground water, floods, drought, conflicts over water, dams benefits and problems.\n• Forest resources: Use and over exploitation, deforestation, case studies. Timber extraction, mining, dams and their effects on forests and tribal people.\n• Land resources: Land as a resource, land degradation, Man induced landslides, soil erosion and desertification.\n• Mineral resources: Use and overexploitation, Environmental effects of extracting and using mineral resources, case studies.\n• Food resources: World food problems, changes caused agriculture and overgrazing, effects of modern agriculture, fertilizer – pesticide problems, water logging, salinity, Case studies.\n• Energy resources: Growing energy needs, renewable and non renewable energy sources, use of alternate energy sources. Case studies.\n• Role of an individual in conservation of natural resources.",
+            "unit2": "Ecosystem and Biodiversity:\nEcosystem - Concept of an ecosystem.\n• Structure and functions of an ecosystem.\n• Producers, consumers and decomposers.\n• Energy flow in the ecosystem.\n• Ecological succession.\n• Food chains, food webs and ecological pyramids.\n• Introduction, types, characteristic features, structure and function of the following ecosystem.\n(a) Forest ecosystem\n(b) Grassland ecosystem\n(c) Desert ecosystem\n(d) Aquatic ecosystem (ponds, streams, lakes, rivers, oceans, estuaries).\nBiodiversity and its conservation:\n• Definition, genetic species and ecosystem diversity.\n• Biogeographically classification of India.\n• Value of biodiversity: consumptive use, productive use, social, ethical, aesthetic and option values.\n• Biodiversity at global, National and local levels.\n• India as a mega-diversity nation.\n• Hot-spots of biodiversity.\n• Threats to biodiversity: habitat loss, poaching of wildlife, man – wildlife conflicts.\n• Conservation of biodiversity: in-situ and ex-situ conservation of biodiversity.",
+            "unit3": "Environmental pollution and Global Effects:\n• Definition, Causes, Effects, and control measures of (a) Air pollution (b) Water pollution (c) Soil pollution (d) Marine pollution (e) Noise pollution (f) Thermal pollution (g) Nuclear hazards.\n• Solid waste Management: Causes, effects and control measures of urban and industrial wastes.\n• Role of an individual in prevention of pollution.\n• Pollution case studies.\n.• Disaster management: Floods, earthquakes, cyclone, landslides, Tsunami.\n• Climate change-Global warming, Acid rain, Ozone depletion.",
+            "unit4": "Environment Issues and Management:\n• Environment and Human health – Epidemic diseases, HIV/AIDS, Aviation Flue, Water Borne Diseases.\n• Environmental Impact Assessment, Sustainable Development, Clean Production and Clean Development Mechanisms.\n• Environment Legislation: Environmental Protection Act, Water Act, Air Act, Wild Life Protection Act, Forest Conservation Act, Public Liability & Insurance Act, Issues involved in Enforcement of Environmental legislation.",
+            "unit5": "Social Issues and the Environment:\n• Population growth, Population Explosion, Population Control, Women and Child welfare.\n• Urbanization, Industrialization, Development projects, Resettlement and Rehabilitation of people – Problems concerned, Case studies.\n• Consumerism and Waste Products Conservation, Public Awareness, Water Conservation, Rain water harvesting, watershed management, Wasteland reclamation, Human Rights, Value education, Environmental ethics - Issues and possible solution.\n• Role of information Technology in Environment and Human Health.",
+            "textbooks": "1. Anubha Kaushik & C P Kaushik, Environmental studies, New age International Publishers, 2008.\n2. Benny Joseph, Environmental studies, Tata McGraw-Hill Publishers, 2005.\n3. M Chandra Sekhar, Environmental Science, Hi-Tech Publishers, 2004.\n4. Keerthinarayana and Daniel Yesudian, Principles of Environmental Sciences and Engineering , Hi-Tech Publishers, 2005.\n5. AmalK.Datta, Introduction to Environmental Science and Engineering, Oxford & IBH Publishing Co.Pvt.Ltd, 2000.\n6. SanthoshkumarGarg,RajeshawriGarg and RajniGarg, Ecological and Environmental studies, Khanna publishers, 2006.",
+            "refbooks": "1. Gilbert M, Introduction to Environmental Engineering and Science, Masters Publication by Prentice –Hall of India Private Ltd., 1991.\n2. William P Cunningham and Mary Ann Cunningham, Principles of Environmental Science, Tata McGraw Hill Publishing Co.Ltd, 2002."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "MEEST 105",
+            "title": "Workshop / Manufacturing Practices",
+            "credits": "1.5"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSESP 106",
+            "title": "Programming for Prolem Solving",
+            "credits": "1.5"
+        }
+    ]
+}

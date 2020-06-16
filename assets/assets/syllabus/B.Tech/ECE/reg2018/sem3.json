@@ -1,0 +1,124 @@
+{
+    "totalcredits": 20,
+    "subcount": 7,
+    "labcount": 3, 
+    "sub1": [
+        {
+            "code": "MABST 301",
+            "title": "Mathematics - III",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "EEPCT 302",
+            "title": "Network Theory",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ECPCT 303",
+            "title": "Electromagnetic Waves",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "ECPCT 304",
+            "title": "Digital System Design",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "HSMCT 305",
+            "title": "Economics",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "HSMCT 306",
+            "title": "Accountancy",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCP 307",
+            "title": "Electronic Devices Lab",
+            "credits": "1"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECPCP 308",
+            "title": "Digital System Design Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab3": [
+        {
+            "code": "EEESP 308",
+            "title": "Basic Electrical Engineering Lab",
+            "credits": "3"
+        }
+    ],
+    "sub7": [
+        {
+            "code": "HSACT 310",
+            "title": "Constitution of India",
+            "credits": "0",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ]
+}

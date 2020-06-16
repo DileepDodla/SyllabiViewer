@@ -1,0 +1,93 @@
+{
+    "sub1": [
+        {
+            "code": "CSPCT 301",
+            "title": "Data structure and Algorithms",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "ECPCT 302",
+            "title": "Analog Electronics",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CSPCT 303",
+            "title": "Discrete Mathematics",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MABST 304",
+            "title": "Probability and Statistics",
+            "credits": "2",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "HSMCT 305",
+            "title": "Managerial Accountancy",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCP 306",
+            "title": "Analog Electronics Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSPCP 307",
+            "title": "Data structure and Algorithms Lab",
+            "credits": "1.5"
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSPCW 308",
+            "title": "IT Workshop (Sci Lab / MAT Lab)",
+            "credits": "3"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "totalcredits": 16,
+    "subcount": 2,
+    "labcount": 3,
+    "sub1": [
+        {
+            "code": "MET 23",
+            "title": "CAD / CAM",
+            "credits": "3",
+            "unit1": "Fundamentals of CAD – The design process – Application of Computer for design benefits of CAD – Computer configuration of CAD applications – Computer peripherals for CAD – Work station design – Graphic terminal, CAD input – output storage devices, DDA line algorithm, Bresnhams line and circle algorithms.",
+            "unit2": "Transformations – Points and lines location, Transformations – translation, rotation, scaling. Mirror reflection, and zooming, 2D and 3D transformations with routines – Mathematical formulations – Windowing and Clipping, perspective projections, Homogeneous Transformations, Clipping and Shielding, surface removal, hidden line algorithm and pointers algorithms.",
+            "unit3": "Curve generation – Plane curves – space curves – Surface description and generation; modeling concepts; 2D and 3D modeling – Wire frame, Surface and Solid modeling.\n\n3 – D object representation, Polygon surfaces, Quadric surfaces, Spline representation, Hermite curve, Bezier curve, and B – Spline curves, Cubic polynomials, Bezier and B – Spline surfaces. Basic illustration models, Polygon – rendering methods.",
+            "unit4": "Numerical Control – NC, NC Modes, NC Elements, NC machine tools and their structure, Machining centre, automatic tool changers, Turning and Milling machine centres, Controls in NC, CNC, and DNC systems. Adaptive control machining systems, Types of Adaptive Control.\n\nCNC Part Programming – Fundamentals, Open loop and closed loop, tape formats, NC word, NC Codes, Canned Cycles, cutter radius compensation, length compensation, manual part programming, Creating manufacturing database, Computer Assisted Part Programming using APT; Geometry statements, motion statements, PTP – Contour /Continuous interpolation methods, Post process statements, auxiliary statements, macro statement program for simple components on CNC Turning and Milling machines.",
+            "unit5": "Group Technology and FMS: CAPP, Retrieval type and Generative type, benefits. Machinability data systems, Computer generated time standards, Capacity planning, Shop Floor Control, Computer – Aided Quality Control, MRP – I , MRP – II, ERP, CIM concepts, topology concepts. Automated Material Handling Systems: Robot configurations and robots in material handling, Part Family. Classification and Coding, advantages and limitations. Group technology machine cells – FMC, FMG, FMS, and Agile manufacturing.",
+            "textbooks": "1. Roy A. Plastock and Gordon Kalley Schaum’s Outline of Theory and problems of Computer Graphics, McGraw – Hill Companies Inc, 2004.\n2. Steven Harrington, Computer Graphics – A programming approach, McGraw – Hill International Edition, 1987.\n3. David F. Rogers and J. Alan Adams, Mathematical Elements for Computer Graphics, Tata McGraw – Hill.\n4. Anirbhan Mukopadhya and Anup Chattopadhya, Introduction to Computer Graphics and Multimedia, 2nd Edition.\n5. Ibrahim Zeid, CAD/CAM Theory and Practice.\n6. P.N. Rao, CAD/CAM Principles and Applications, Tata McGraw Hill Publishing Company Ltd.\n7. Mikell P. Groover and Emory W. Zimmers, Jr, CAD/CAM Computer – Aided Design and Manufacturing, PHI.\n8. Mikell P. Groover, Automation, Production Systems and CIM.\n9. David D. Bedworth, Mark R. Henderson and Philip M. Wolfe, Computer Integrated Design and Manufacturing.\n10. T.K. Kundra, P.N. Rao and N.K. Tewari, Numerical Control and Computer Aided Manufacturing, Tata McGraw Hill Publishing Company Ltd.\n11. Paul G. Ranky, Computer Aided Manufacturing.\n12. William M. Newmann and Robert F. Sproull, Principle of Interactive Computer Graphics.\n13. C.B. Besant and C.W.K. Lui, CAD and Manufacture.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "",
+            "title": "MOOCs (Elective)",
+            "credits": "3",
+            "todo": "Any one online NPTEL course.",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "MEP 08",
+            "title": "CAD / CAM Lab",
+            "credits": "2",
+            "todo": "CAD Laboratory\n\nThe following drafting tools should learn by the student using any Drafting software and using these tools the student should be able to plot orthographic projections and 3D assembly drawing.\n\nIntroduction to AUTOCAD-Co-ordinate system, Object snap, Draw Tools -Line, Polyline, Rectangle, circle, spline, Ellipse, Point, Hatch, Text, Modify Tools - Erase, copy, Mirror, Offset, Array, Move Rotate, Trim, Fillet, Dimensions - Dimension Variables, Linear, Aligned, Radius and diameter, Angular Dimensions.\n\nExercise on the above commands limited to 2D plotting.\n\nUsing above drawing tools, drawing of machine components and Production drawing of mating components with limits and fits are given as exercises. Minimum of 5 components of detailed drawings should be drawn.\n\nCAM Laboratory\n\nMinimum of three exercises to be performed.\n\nPart programming on turning and milling machines and execution on simulator.\n\nExercises on coordinate measuring machine CMM; Determination of dimensions of the given object; determination of angle between two surfaces;",
+            "refbooks": "1. Bhatt N D and VM Panchal, Engineering Drawing Revised Edition, Charotar Publications, 2010.\n2. Dhananjaya A Jolhe, Engineering Drawing with an introduction to AutoCAD, Tata Mc- Graw Hill – 2009.\n3. Gautam Pohit, Gautam Gosh – Machine Drawing with Auto Cad- Pearson Publishers.\n4. Production drawing , K.L. Narayana, P. Kannaiah and K. Venkata Reddy, New age International Publishers."
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "",
+            "title": "Minor Project",
+            "credits": "2",
+            "todo": "Any Mini Project",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "",
+            "title": "Major Project",
+            "credits": "6",
+            "todo": "Final Year Main Project",
+            "refbooks": ""
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "totalcredits": 20,
+    "subcount": 3,
+    "labcount": 5,
+    "sub1": [
+        {
+            "code": "CSE 24-2",
+            "title": "Computer Graphics",
+            "credits": "4",
+            "unit1": "Introduction- Image processing as picture analysis, Advantages of Interactive Graphics, Representative uses of computer graphics, Classification of applications, Development of hardware and software for computer graphics, Conceptual framework for Interactive Graphics.\n\nScan Converting Lines – Basic Incremental algorithm, Midpoint Line algorithm and additional issues; Scan Converting Circles, Scan Converting Ellipses, Solid Filling– Rectangles, Polygons and Ellipse arcs; Pattern filling, Thick primitives, Cohen-Sutherland line clipping algorithm, Parametric line clipping algorithms, Sutherland-Hodgeman polygon clipping algorithm, Generating characters and Antialiasing.",
+            "unit2": "Display Systems - Raster-scan and Random scan.\n\nGeometrical transformations – 2D transformations, Homogeneous coordinates, Matrix representation of 2D transformations, Composition of 2D transformations, Window to view-port transformation, Matrix representation of 3D transformations, Composition of 3D transformations and Transformation as a change in coordinate system.\n\nRepresenting Curves and surfaces – Polygon meshes, Parametric cubic curves, Parametric bicubic surfaces andQuadric surfaces.\n\nFractals – Lines and Surfaces.",
+            "unit3": "Viewing in 3D - Projections, Specifying an arbitrary 3D view, Examples of 3D viewing, Mathematics of planar geometric projections, Implementing planar geometric projections, Coordinate systems.\n\nSolid Modeling – Representing solids, Regularized Boolean set operations, Primitive instancing, Sweep representations, Boundary representations, Spatial-Partitioning Representations, Constructive solid geometry, Comparison of representations, User interfaces for solid modeling.",
+            "unit4": "Achromatic and Colored Light – Achromatic light, Chromatic color, Color models for raster graphics, Reproducing color, Using color in computer graphics.\n\nVisible Surface Determination – Functions of two variables, Techniques for efficient visible surface algorithms, z-Buffer algorithm, Scan-line algorithms, Visible surface ray tracing.",
+            "unit5": "Illumination Models - Ambient light, Diffuse reflection, Atmospheric attenuation.\n\nShading Models – Constant shading, Interpolated shading, Polygon mesh shading, Gouraud shading, Phong shading, Problems with interpolated shading.\n\nSurface Detail – Surface-detail polygons, Texture mapping, Bump mapping.\n\nAnimation – Conventional and Computer-Assisted animation, Animation languages, Methods of controlling animation, Basic rules of animation, Problems peculiar to animation.",
+            "textbooks": "1. Hughes J F, Van Dam A, Foley J D, et al., Computer Graphics: Principles and Practice, 3rd edition, Addison-Wesley, 2013.",
+            "refbooks": "1. Foley J D, Van Dam A, Feiner S K, John F H, Computer Graphics: Principles & Practice in C, 2nd edition, Pearson Education, 1995."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "MET 42",
+            "title": "Industrial Management",
+            "credits": "3",
+            "unit1": "Definition of Management, Management Functions, Management and Administration, Nature of Management, Universality of Management Principles of Management, Organization Approaches, Organization Structures and Process of Organizing, Nature and Scope of Financial management, Capital Budgeting, Cost of Capital and Working Capital Management.",
+            "unit2": "Facilities Planning – Definition, Significance, Objectives and Process. Location models, Plant Location Problem and Basic Layout Types.\n\nMaterial Handling – Definition, Principles, System Design and, Equipment.\n\nProcess Design – Identifying, Selecting and Sequencing the Required Processes.",
+            "unit3": "Aggregate Production Planning, material Requirements Planning and Project Planning and Scheduling.",
+            "unit4": "Job Sequencing and Operations Scheduling, New Direction in Batch and Discrete-parts Production Systems and Plant Maintenance.\n\nPurchasing – Objectives, Responsibilities, Policies, Practices, Procedures, Organization for Purchasing and Relationship of Purchasing with Other Departments.",
+            "unit5": "Marketing Management – Nature and Functions of Marketing, Distribution Channels and Marketing Research.\n\nHuman Resources Development – Dynamic Personnel Management, Staffing Policies and Process, and Wage and Salary Policies and Administration.",
+            "textbooks": "1. R D Agarwal, Organization and Management, Tata McGraw – Hill, 2000 (Chapters 1, 7, 8, 24, 26, 31, 36, 37 and 41 to 46).\n2. James A Tompkins and John A White, Facilities Planning, John Wiley & Sons 1954 (Sections 1.1, 1.2, 1.3, 1.4, 3.3, 6.1, 6.2, 6.4, 6.6, 7.1, 7.2, 15.2, 15.4\n3. Elsaye A Elsayed and Thomas O Boucher, Analysis and Control of Production Systems, prentice-Hill, 1985 (Chapters 4 to 8).\n4. O.P Khanna, Industrial Engineering and Management, Dhanpat Rai Publication, Reprint 2003.",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "HUT 02",
+            "title": "Managerial Economics",
+            "credits": "2",
+            "unit1": "Introduction - Nature and Scope of Managerial Economics, Economic Theory and Managerial Economics, Managerial Economist: Role and Responsibilities.\n\nDemand Analysis and Forecasting – Demand Determinants, Demand Distinctions, Demand Forecasting: General Considerations, Methods of Demand Forecasting.",
+            "unit2": "Cost Analysis – Cost Concepts, Classifications and Determinants; Cost-Output Relationship, Economies and Diseconomies of Scale, Cost Control and Cost Reduction.\n\nProduction and Supply Analysis – Production Functions, Supply Analysis.",
+            "unit3": "Price and Output Decisions Under Different Market Structures – Perfect Competition, Monopoly and Monopsony; Price Discrimination, Monopolistic Competition, Oligopoly and Oligopsony.",
+            "unit4": "Pricing Policies and Practices – Pricing Policies, Pricing Methods, Specific Pricing Policies, Price Discounts and Differentials; Product-line Coverage and Pricing; Price Forecasting.",
+            "unit5": "Profit Management – Nature of Profit, Measuring Accounting Profit,Profit Policies, Profit Planning and Forecasting.\n\nCapital Management - Capital Budgeting, Cost of Capital, Appraising Project Profitability, Risk, Probability and Investment Decisions.",
+            "textbooks": "1. Varshney R L and Maheshwari K L, Managerial Economics, 19th Edition, Sultan Chand and Sons, 2009.\n2. Managerial Economics and Business Strategy (English, Paperback, Michael R. Baye), Tata McGraw-Hill, 2008.",
+            "refbooks": "1. Froeb L M, and McCann B T, Managerial Economics: A Problem Solving Approach, Cengage Learning, 2008.\n2. Dean J, Managerial Economics, PHI, 2010."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSP 17",
+            "title": "Computer Graphics Lab",
+            "credits": "2",
+            "todo": "Do the lab assignments given on Computer Graphics.",
+            "refbooks": ""
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSP 18",
+            "title": "Project Work - II",
+            "credits": "4",
+            "todo": "Complete the selected project to 100% and prepare for seminar.",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSP 19",
+            "title": "Seminar - I",
+            "credits": "1",
+            "todo": "Give seminar on any one technical topic.",
+            "refbooks": ""
+        }
+    ],
+    "lab4": [
+        {
+            "code": "CSP 20",
+            "title": "Comprehensive Viva-Voice - II",
+            "credits": "2",
+            "todo": "Prepare for VIVA on all the subjects from the 1st sem to till now.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab5": [
+        {
+            "code": "CSP 21",
+            "title": "Internship / Mini Project Viva-Voice Exam",
+            "credits": "2",
+            "todo": "Prepare for VIVA on any internship / mini-project done by you.",
+            "refbooks": ""
+        }
+    ]
+}

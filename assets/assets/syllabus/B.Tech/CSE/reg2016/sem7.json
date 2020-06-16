@@ -1,0 +1,126 @@
+{
+    "totalcredits": 26,
+    "subcount": 6,
+    "labcount": 4,
+    "sub1": [
+        {
+            "code": "CST 20",
+            "title": "Cyber Law and Ethics",
+            "credits": "2",
+            "unit1": "An Overview of Ethics: Introduction, Morals, Ethics, Laws, Ethics in the business world, Ethics in information technology.\n\nEthics for IT Workers and IT Users: Nature of IT profession, Professional relationships, Concept of professional code of ethics, Certification, IT professional malpractice, Common ethical issues for IT users, Supporting the ethical practices.",
+            "unit2": "Computer and Internet Crime: IT security incidents, Laws for prosecuting computer attacks, Implementing trustworthy computing,\n\nPrivacy: Information privacy, Privacy laws, Key privacy and anonymity issues – Identity theft, Consumer profiling, Workplace monitoring, Advanced surveillance technology.",
+            "unit3": "Freedom of Expression: Free speech issues and laws, Controlling access to information on the Internet, Anonymity on the internet, Defamation and hate speech, Corporate blogging, Pornography.\n\nIntellectual Property: Concept of intellectual property, Copyright, Software copyright protection, International and National agreements and laws, Patents, Trade secrets, Plagiarism, Reverse engineering, Open source code, Competitive intelligence, Trademark infringement, Cyber squatting.",
+            "unit4": "Software Development: The importance of software quality, Software product liability, Development of safety-critical systems, Quality management standards.\n\nThe Impact of IT on Productivity and Quality of Life: IT investment and productivity, The digital divide, The impact of IT on healthcare costs.",
+            "unit5": "Social Networking: Introduction, Business applications of online social networking, Ethical issues in social networking, Online virtual worlds.\n\nEthics of IT Organizations: Key ethical issues for organizations, Outsourcing, Whistle-blowing, Green computing.\n\nCodes of Ethics: ACM/IEEE Software engineering code of ethics, IE(India) code of ethics, CSI code of ethics.\n\nGovernment Regulation: Indian IT act 2000, IT(Amendment act) 2008.",
+            "textbooks": "1. Reynolds G, Ethics in Information Technology, 4th edition, Cengage Learning, 2012.",
+            "refbooks": "1. Johnson D G, Computer Ethics, 4th edition, Pearson, 2009.\n2. Martin M, Schinzinger R, Introduction to Engineering Ethics, 2nd edition, McGraw Hill, 2010.\n3. Harris Jr. C E, Pritchard M S, Rabins M J, Engineering Ethics: Concepts and Cases, 4th edition, Wadsworth, 2008.\n4. Govindarajan M, Natarajan S, Senthilkumar V S, Engineering Ethics, PHI, 2009.\n5. Reddy G B, Constitution of India & Professional Ethics, I K International, 2011.\n6. Floridi L, Information and Computer Ethics, Cambridge University Press, 2010.\n7. Balachandran S, Raja K C R, Nair B K, Ethics, Indian Ethos and Management, Shroff Publishers, 2008."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "CST 21",
+            "title": "Artificial Intelligence",
+            "credits": "3",
+            "unit1": "The History of AI: Concept of intelligence, Search for Mechanical Intelligence, Evolution of Artificial Intelligence (AI), Systems Approach, Overview of topics.\n\nUninformed Search: General state space search, Trees, Graphs and Representation, General Search Paradigms - Depth-First Search, Depth-Limited Search, Iterative Deepening Search, Breadth-First Search, Bi-directional Search, Uniform-Cost Search.\n\nInformed Search: Best-First Search, N-Queens problem, A* Search, Eight Puzzle problem, Hill Climbing Search, Simulated Annealing, Tabu Search, Constraint Satisfaction, Graph Coloring problem, Constraint Satisfaction algorithms - Generate and Test, Backtracking, Forward Checking and Look Ahead, Min-Conflicts Search.",
+            "unit2": "AI and Games: Two Player Games, The Minimax Algorithm, Tic-Tac-Toe problem, Minimax with Alpha-Beta Pruning, Classical Game AI, Checkers, Chess, Scrabble, Video Game AI, Movement and Path finding, Table Lookup with Offensive and Defensive Strategy, NPC Behavior, Team AI, Real-Time Strategy AI.\n\nKnowledge Representation (KR): Types and Role of Knowledge, Semantic Nets, Frames, Propositional Logic, First Order Logic (Predicate Logic), Semantic Web, Computational Knowledge Discovery, Ontology, Common Sense.",
+            "unit3": "Machine Learning: Machine Learning Algorithms, Supervised Learning, Decision Trees, Unsupervised Learning, Markov Models and implementation, Nearest Neighbor Classification, 1NN and k-NN Examples.\n\nEvolutionary Computation: Introduction to Evolutionary Computation, Biological Motivation, Genetic Algorithms, Genetic Programming, Evolutionary Strategies, Differential Evolution",
+            "unit4": "Neural Networks I: Concept of Neural Networks, Biological Motivation, Fundamentals of Neural Networks, The Perceptron, Least-Mean-Square (LMS) Learning, Learning with Backpropagation, Probabilistic Neural Networks, Tips for Building Neural Networks.\n\nNeural Networks II: Unsupervised Learning, Hebbian Learning, Simple Competitive Learning, k-Means Clustering, Adaptive Resonance Theory, Hopfield Auto-Associative Model.",
+            "unit5": "Robotics and AI: Introduction, Taxonomy of Robotics, Hard vs. Soft Robotics, Braitenburg Vehicles, Natural Sensing and Control, Perception with Sensors, Actuation with Effectors, Robotic Control Systems, Simple Control Architectures, Movement Planning, Distributed Robotics.\n\nIntelligent Agents: Anatomy of an Agent, Agent Properties and AI, Hybrid Agent, Agent Architectures, Types of Architectures, Agent Languages, Agent Communication.\n\nBiologically Inspired and Hybrid Models: Cellular Automata, Artificial Immune Systems, Artificial Life, Fuzzy Logic, Evolutionary Neural Networks, Ant Colony Optimization, Affective Computing.",
+            "textbooks": "1. Jones M T, Artificial Intelligence – A Systems Approach, Infinity Science Press, 2008.",
+            "refbooks": "1. Russel S, Norvig P, Artificial Intelligence: A Modern Approach, 3rd edition, Pearson Education, 2010.\n2. Rich E, Knight K, Nair S B, Artificial Intelligence, 3rd edition, Tata McGraw-Hill, 2009.\n3. Luger G F, Artificial Intelligence, 6th edition, Pearson Education, 2009.\n4. Carter M, Minds and Computers: An Introduction to the Philosophy of Artificial Intelligence, Edinburgh University Press, 2007.\n5. Coppin B, Artificial Intelligence Illuminated, Jones & Bartlett, 2004.\n6. Ertel W, Introduction to Artificial Intelligence, Springer, 2011."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "CST 22",
+            "title": "Compiler Construction",
+            "credits": "4",
+            "unit1": "Introduction: Language Processors, The Structure of a Compiler, The Evolution of Programming Languages, The Science of Building a Compiler, Applications of Compiler Technology, Programming Language Basics.\n\nA Simple Syntax-Directed Translator: Introduction, Syntax Definition, Syntax-Directed Translation, Parsing, A Translator for Simple Expressions, Lexical Analysis, Symbol Tables, Intermediate Code Generation.\n\nLexical Analysis: The Role of the Lexical Analyzer, Input Buffering, Specification of Tokens, Recognition of Tokens, The Lexical-Analyzer Generator Lex, Finite Automata, From Regular Expressions to Automata, Design of a Lexical-Analyzer Generator, Optimization of DFA-Based Pattern Matchers.",
+            "unit2": "Syntax Analysis: Introduction, Context-Free Grammars, Writing a Grammar, Top-Down Parsing, Bottom-Up Parsing, Introduction to LR Parsing: Simple LR, More Powerful LR Parsers, Using Ambiguous Grammars, Parser Generators.",
+            "unit3": "Syntax-Directed Translation: Syntax-Directed Definitions, Evaluation Orders for SDD's, Applications of Syntax-Directed Translation, Syntax-Directed Translation Schemes, Implementing L-Attributed SDD's.\n\nIntermediate-Code Generation: Variants of Syntax Trees, Three-Address Code, Types and Declarations, Translation of Expressions, Type Checking, Control Flow, Backpatching, Switch-Statements, Intermediate Code for Procedures.",
+            "unit4": "Run-Time Environments: Storage Organization, Stack Allocation of Space, Access to Nonlocal Data on the Stack, Heap Management, Introduction to Garbage Collection, Introduction to Trace-Based Collection, Short-Pause Garbage Collection, Advanced Topics in Garbage Collection.\n\nCode Generation: Issues in the Design of a Code Generator, The Target Language, Addresses in the Target Code, Basic Blocks and Flow Graphs, Optimization of Basic Blocks, A Simple Code Generator, Peephole Optimization, Register Allocation and Assignment, Instruction Selection by Tree Rewriting, Optimal Code Generation for Expressions, Dynamic Programming Code-Generation.",
+            "unit5": "Machine-Independent Optimizations: The Principal Sources of Optimization, Introduction to Data-Flow Analysis, Foundations of Data-Flow Analysis, Constant Propagation, Partial-Redundancy Elimination, Loops in Flow Graphs, Region-Based Analysis, Symbolic Analysis.\n\nInstruction-Level Parallelism: Processor Architectures, Code-Scheduling Constraints, Basic-Block Scheduling, Global Code Scheduling, Software Pipelining.\n\nOptimizing for Parallelism and Locality: Basic Concepts, Matrix Multiply: An In-Depth Example, Iteration Spaces, Affine Array Indexes, Data Reuse, Array Data-Dependence Analysis, Finding Synchronization-Free Parallelism, Synchronization Between Parallel Loops, Pipelining, Locality Optimizations, Other Uses of Affine Transforms.\n\nInter-procedural Analysis: Basic Concepts, Why Interprocedural Analysis, A Logical Representation of Data Flow, A Simple Pointer-Analysis Algorithm, Context-Insensitive Interprocedural Analysis, Context-Sensitive Pointer Analysis, Datalog Implementation by BDD's.",
+            "textbooks": "1. Aho A V, Sethi R, and Ullman J D, Compilers-Principles, Techniques and Tools, 2nd edition, Pearson Education, 2006.",
+            "refbooks": "1. Raghavan V, Principles of Compiler Design, Tata McGraw Hill, 2010.\n2. Grune D, Bal H E, Jacobs C J H, and Langendoen K G, Modern Compiler Design, Wiley, 2000.\n3. Appel A W, Modern Compiler Implementation in C, Cambridge University Press, 2000."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "CSE 02",
+            "title": "Cyber Security",
+            "credits": "4",
+            "unit1": "Introduction: OSI Security Architecture - Classical Encryption techniques – Cipher Principles – Data Encryption Standard – Block Cipher Design Principles and Modes of Operation - Evaluation criteria for AES – AES Cipher – Triple DES – Placement of Encryption Function – Traffic Confidentiality.",
+            "unit2": "Public Key Cryptography Key Management - Diffie-Hellman key Exchange – Elliptic Curve Architecture and Cryptography - Introduction to Number Theory – Confidentiality using Symmetric Encryption – Public Key Cryptography and RSA.",
+            "unit3": "Authentication And Hash Function: Authentication requirements – Authentication functions – Message Authentication Codes – Hash Functions – Security of Hash Functions and MACs – MD5 message Digest algorithm - Secure Hash Algorithm – RIPEMD – HMAC Digital.",
+            "unit4": "Network Security Authentication Applications: Kerberos – X.509 Authentication Service – Electronic Mail Security – PGP – S/MIME - IP Security – Web Security.",
+            "unit5": "System Level Security Intrusion detection – password management – Viruses and related Threats – Virus Counter measures – Firewall Design Principles – Trusted Systems.",
+            "textbooks": "1. William Stallings, “Cryptography And Network Security – Principles and Practices”, Prentice Hall of India, Third Edition, 2003.",
+            "refbooks": "1. Atul Kahate, “Cryptography and Network Security”, Tata McGraw-Hill, 2003.\n2. Bruce Schneier, “Applied Cryptography”, John Wiley & Sons Inc, 2001.\n3. Charles B. Pfleeger, Shari Lawrence Pfleeger, “Security in Computing”, Third Edition, Pearson Education."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "CSE 03",
+            "title": "Data Analytics",
+            "credits": "4",
+            "unit1": "Descriptive Statistics - Introduction to the course, Descriptive Statistics, Probability Distributions.\n\nInferential Statistics - Inferential Statistics through hypothesis tests, Permutation & Randomization Test.",
+            "unit2": "Regression & ANOVA - Regression, ANOVA(Analysis of Variance).\n\nMachine Learning: Introduction and Concepts - Differentiating algorithmic and model basedframeworks, Regression: Ordinary Least Squares, Ridge Regression, Lasso Regression,K-Nearest Neighbours Regression & Classification.",
+            "unit3": "Supervised Learning with Regression and Classification techniques - Bias-Variance Dichotomy, Model Validation Approaches, Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Regression and Classification Trees, Support Vector Machines, Ensemble Methods: Random Forest, Neural Networks, Deep learning.",
+            "unit4": "Unsupervised Learning and Challenges for Big Data Analytics – Clustering, Associative Rule Mining, Challenges for big data analytics.",
+            "unit5": "Prescriptive analytics - Creating data for analytics through designed experiments, Creating data for analytics through Active learning, Creating data for analytics through Reinforcement learning.",
+            "textbooks": "1. Hastie, Trevor, et al \"The elements of statistical learning\", Volume 2, No. 1, New York: springer, 2009.\n2. Montgomery, Douglas C., and George C. Runger,\"Applied statistics and probability for engineers\", John Wiley & Sons, 2010.",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "HUT 10",
+            "title": "Managerial Accountancy",
+            "credits": "2",
+            "unit1": "Management Accounting – Definition, Objectives, Scope and Functions.\n\nFinancial Accounting – Introduction, Process, Principles and Concepts.\n\nFinancial Statements – Trading Account, Balancing Process, Profit & Loss Account and Balance Sheet.",
+            "unit2": "Financial Statement Analyses – Trend Percentage Analysis, Ratio Analysis, Fund Flow Statement Analysis, Cash Flow Statement Analysis.",
+            "unit3": "Methods of Depreciation – Straight line, Depletion, Machine Hour Rate, Diminishing Balance, Sum of Digits, Sinking Fund and Insurance Policy Methods.\n\nInventory Valuation Methods – FIFO, LIFO, Average Weighted Average, Base Stock and HIFO Methods.",
+            "unit4": "Capital Budgeting – Pay Back Period, ARR, NPV, PI and IRR Methods.\n\nUnit Costing – Introduction, Direct Cost Classification and Indirect Cost Classification.\n\nIntroduction to Process Costing, Job Costing and Activity Based Costing.",
+            "unit5": "Marginal Costing – Introduction, Definition, Meaning and BEP Analysis and BEP in units.\n\nStandard Costing – Introduction, Variance Analysis Material Cost Variance, Material Price Variance, Labor Variance, and Sales Variance.\n\nBudgetary Control – Introduction and Classification of Budgets, Production, Material / Purchase, Sales, Sales Overhead, Cash and Factory Overheads Budgets. Flexible Budget.",
+            "textbooks": "1. Pandikumar M P, Management Accounting: Theory and Practice, 1st Edition, Excel Books, 2007.\nUNIT-I: Chapters 1, 2 & 3\nUNIT-II: Chapters 5, 6, 7 & 8\nUNIT-III: Chapters 4 & 11\nUNIT-IV: Chapters 9, 10, 13 , 14 & 18\nUNIT-V: Chapters 15, 16 & 17",
+            "refbooks": "1. Khan M Y, Jain P K, Management Accounting, 4th Edition, Tata McGraw-Hill, 2007.\n2. Balakrishnan R, Sivaramakrishnan K, Sprinkle G B, Managerial Accounting, Wiley, 2010."
+        }
+    ],
+    "lab1": [
+        {
+            "code": "CSP 13",
+            "title": "AI and CC Lab",
+            "credits": "2",
+            "todo": "Do the lab assignments given on AI and CC.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "CSP 14",
+            "title": "CS and DA Lab",
+            "credits": "2",
+            "todo": "Do the lab assignments given on CS and DA.",
+            "refbooks": ""
+        }
+    ],
+    "lab3": [
+        {
+            "code": "CSP 15",
+            "title": "Project Work - I",
+            "credits": "2",
+            "todo": "Choose a project and develop it 50%.",
+            "refbooks": ""
+        }
+    ],
+    "lab4": [
+        {
+            "code": "CSP 16",
+            "title": "Comprehensive Viva-Voice - I",
+            "credits": "1",
+            "todo": "Prepare for VIVA on all the subjects from the 1st sem to till now.",
+            "refbooks": ""
+        }
+    ]
+}

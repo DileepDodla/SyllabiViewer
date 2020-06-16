@@ -1,0 +1,75 @@
+{
+    "totalcredits": 21,
+    "subcount": 4,
+    "labcount": 2, 
+    "sub1": [
+        {
+            "code": "ECPET 701",
+            "title": "Program Elective - III",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "ECPET 702",
+            "title": "Program Elective - IV",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "ECPET 703",
+            "title": "Program Elective - V",
+            "credits": "3",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "HSMCT 704",
+            "title": "Total Quality Management",
+            "credits": "4",
+            "unit1": "",
+            "unit2": "",
+            "unit3": "",
+            "unit4": "",
+            "unit5": "",
+            "textbooks": "",
+            "refbooks": ""
+        }
+    ],
+    "lab1": [
+        {
+            "code": "ECPCI 705",
+            "title": "Summer Industry Internship / Mini Project",
+            "credits": "3"
+        }
+    ],
+    "lab2": [
+        {
+            "code": "ECPXP 706",
+            "title": "Project - I",
+            "credits": "5"
+        }
+    ]
+}

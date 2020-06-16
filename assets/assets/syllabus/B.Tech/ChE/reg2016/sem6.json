@@ -1,0 +1,108 @@
+{
+    "totalcredits": 24,
+    "subcount": 6,
+    "labcount": 2,
+    "sub1": [
+        {
+            "code": "MET 14",
+            "title": "Refrigeration and Air-Conditioning",
+            "credits": "3",
+            "unit1": "Refrigeration: Cycles: Thermodynamic analysis of vapour compression, absorption, air cycle, steam jet and thermoelectric refrigeration systems. Comparison of COP and cost – Properties and selection of refrigerants – alternative refrigerants.",
+            "unit2": "Component parts: Reciprocating compressors – Condensers – Air cooled and Water cooled – Economical water rate – Evaporators – Defrosting – Design of towers and evaporative condensers.",
+            "unit3": "Refrigeration Control: Automatic and thermostatic expansion valve – Capillary tube – Compressor controls – miscellaneous controls. Testing and charging refrigeration units.\n\nCryogenics – liquification and purification of gases. Applications of refrigeration – dry ice, walk-in-Cooler, Water Coolers, Transportation, Food processing & Preservation, refrigerators, recent developments in refrigeration.",
+            "unit4": "Air Conditioning: Basic Concepts: Fundamental functions of air conditioning – psychrometrics – air and humidity calculations – sensible heat factor – analysis of air conditioning process and cycles with psychrometric chart – Cooling load calculations.",
+            "unit5": "Comfort Air Conditioning: Physiological reactions to cooling – The effective temperature and its use in the determination of standards of comforts – comfort chart – comparison of domestic, industrial and commercial applications of air conditioning.\n\nVentilation system: Summer and winter ventilation – Ventilation of hot working spaces – industrial ventilation – air cleaning.\n\nControls: Automatic control of air conditioning systems – Duct work selection of fans.",
+            "textbooks": "1. C. P. Arora: Refrigeration and Air Conditioning, 3rd Edition, McGraw-Hill, 2009.\n2. R. S. Agrarwal: Refrigeration and Air Conditioning, Allied Publishers, 2001.\n3. Roy J. Dossat, “Principles of Refrigeration”, 4th edition, Pearson Education Asia, 2009.\n4. Stoecker, W.F. and Jones J. W., “Refrigeration and Air Conditioning”, McGraw Hill, New Delhi, 1986.\n5. Jones W.P., “Air conditioning engineering”, 5th edition,Elsevier Butterworth-Heinemann, 2001.",
+            "refbooks": "1. Hal Williams: Mechanical Refrigeration, 1st Edition, Whittaker & co., 1903.\n2. Jordan & Priester: Refrigeration and Air Conditioning, 2nd Edition, Prentice-Hall, 1956.\n3. Dossat: Principles of Refrigeration, 4th Edition, Pearson Education India, 2009."
+        }
+    ],
+    "sub2": [
+        {
+            "code": "MET 15",
+            "title": "Operations Research",
+            "credits": "4",
+            "unit1": "Introduction to general nature of operations research Models and their types Introduction to LP Problems, examples, Graphical method of solution. Simplex Algorithm. Duality.",
+            "unit2": "Transportation and Assignment problems, Transhipment models and Traveling Salesman Problems.",
+            "unit3": "Replacement models – replacement of items that deteriorate with time and group replacement of items that fail suddenly.\n\nGame theory models – two persons zero sum games.",
+            "unit4": "Inventory models, costs used in inventory models, Basic inventory models – deterministic and static demand. Models with price breaks - Models with restrictions. Single period models with probabilistic demand and without set up cost.\n\nInventory control: ABC Analysis. Fixed order quantity, Fixed order interval systems and S-s policy.",
+            "unit5": "Waiting line models – Basic structure of queuing models, single server and multi server modelsStress is only on applications.\n\nSimulation – simple models in inventory and queuing systems.",
+            "textbooks": "1. Vohra N. D.: Quantitative Techniques in Management, 3rd Edition, Tata Mc Graw Hill, 2007.\n2. Pannerselvam R.: Operations Research, 2nd Edition, PHI, 2006.",
+            "refbooks": "1. Hamdy A Taha: Introduction to Operations Research, 6th Edition, PHI, 1999.\n2. Hiller and Lieberman: Introduction to Operations Research, 7th Edition, McGraw Hill, 2001.\n3. Hira and Gupta: Introduction to Operations Research, 3rd Edition, S. Chand & Company Limited, 2008."
+        }
+    ],
+    "sub3": [
+        {
+            "code": "MET 16",
+            "title": "Design of Machine Members - II",
+            "credits": "4",
+            "unit1": "Keys and Couplings:\n\nKeys: Types of Keys; Design of shunk key. Effect of key way. Design of Splines.\n\nIntroduction, Types of Shaft Couplings: Design of Sleeve or muff couplings, Clamp or Compression coupling, Flange Couplings. Design of Bushed pin type flexible coupling.",
+            "unit2": "Sliding Contact Bearings: Classification of Bearings, Hydrodynamic lubricated bearings; Materials for sliding contact bearings; Lubricants – Properties and their selection Terminology used in Hydrodynamic journal bearings. Design procedure for journal bearings – Design of bearing caps and bolts. Heat in bearings.\n\nThrust Bearings: Design of footstep bearing and collar bearings.",
+            "unit3": "Rolling Contact Bearings: Merits and demerits of rolling contact bearings over sliding contact bearings. Types of rolling contact bearings. Static and dynamic load capacities. Equivalent bearing load. Design for cyclic loads. Reliability of a bearing. Selection of radial ball bearings. Stribeck’s equation.",
+            "unit4": "Gears:\n\nGears: Types of gears and their applications, gear materials allowable stresses. Law of gearing.\n\nSpur gears: Terminology, force analysis, Design of spur gears – Lewis equation. Check for dynamic load and wear load. Gear wheel proportion.\n\nHelical Gears: Terminology, design of helical gears. Check for wear load. Force analysis.",
+            "unit5": "Engine parts: Pistons, forces acting on pistons – Construction Design and proportions of Pistons.\n\nConnecting rod: Thrust in Connecting rod – Stress due to whipping action on connecting rod ends – Cranks and Crank Shafts, Strength and proportions of overhang and centre cranks – Crank pins, Crank shafts.",
+            "textbooks": "1. Khurmi R.S. & Gupta: Machine Design, 14th Edition, S. Chand, 2006.\n2. Bandari V.B.: Design of Machine Members, 3rd Edition, Tata Mc Graw Hill, 2010.\n3. Mahadevan & Balaveera Reddy: Mechanical Engineering. Design Data Hand Book, 3rd Edition, CBS Publishers and Distributors, 1995.",
+            "refbooks": "1. Sundararaja Murthy T.V. & Shanmugan N.: Machine Design, Anuradha Publications, 2007.\n2. Sarma and Agarwal: Machine Design, 4th Edition, Katson Publications, 1984.\n3. Jain R.K.: Machine Design, 5th Edition, Khanna Publications, 1988.\n4. P.S.G.College of Technology: Design Data Book, PSG College of Technology, 1966.\n5. Shigley J.E: Mech Engg. Design, 8th Edition, Tata McGraw Hill, 2008.\n6. Pandya and Shah: Machine Design, 15th Edition, Charotar Publishing House, 2004."
+        }
+    ],
+    "sub4": [
+        {
+            "code": "MET 17",
+            "title": "Industrial Engineering and Management",
+            "credits": "3",
+            "unit1": "Administration, Management and Organization. Scientific Management. Functions of Management. Principles of Management. Types of Organization. Principles of Organization. Fayol’s and Taylor’s contributions to Management.\n\nPersonnel Management – A brief review of functions of personnel management. Concepts of job evaluation and merit rating.",
+            "unit2": "Plant Location – Location factors, concept of Weber theory. Choice of city, Suburban and country locations.\n\nPlant Layout – Definition, Objectives, Salient features of product, process and fixed position layouts.\n\nMaterial Handling – Definition, Objectives, Classification of material handling equipment and factors influencing their selections.",
+            "unit3": "Sales forecasting – need, Classification moving average exponential smoothing and linear regression technique.\n\nProduction Planning and Control – Objectives, Salient features of functions of PPC.",
+            "unit4": "Work study – Definition, objectives and uses. Method study – definition. Objectives procedure and uses.\n\nTime study – Definition, needs, functions, and basic concepts of break down, preventive, predictive and total productive maintenance.",
+            "unit5": "Safety in industry – need safety programs, accident prevention, economic aspects, causes of accidents, accident prevention.\n\nIndustrial disputes – Causes and methods of settling Labour participation in management concept. Types and advantages A brief outline of Factories Act, Industrial disputes Act and Workmen’s Compensation Act.",
+            "textbooks": "1. Khanna O P: Industrial Engineering And Management , 7th Edition, Dhanpat Rai & Sons, 2002.\n2. Panner Selvam R , Production and Operation Management.\n3. Ralph Barnes: Principles Of Motion And Time Study, Tata McGraw Hill, 1956.\n4. Joseph G Monks: Operation Management, 3rd Edition, McGraw-Hill, 1987.",
+            "refbooks": "1. Adam & Edbert: Production/Operation Management, 5th Edition, Prentice Hall, 1992.\n2. Chary S.N.: Production and Operation Management,14th Reprint, Tata McGraw Hill, 2007.\n3. Buffa E S: Modern Production/Operation Management, 8th Edition, Wiley India, 2007.\n4. Clade S. George Jr : Management For Business Industry,1972."
+        }
+    ],
+    "sub5": [
+        {
+            "code": "MEOE 01",
+            "title": "Project Management",
+            "credits": "3",
+            "unit1": "Introduction to Project Management, Characteristics of projects. Definition and objectives of project management, Stages of project management, Project planning process, Establishing project organization.",
+            "unit2": "Work definition: Defining work content, Time estimation method, project cost estimation and budgeting, Project risk management, project scheduling and planning tools. Work breakdown structure, LRC, Gantt charts, CPM/PERT Networks.",
+            "unit3": "Developing project plan (Base line), project cash flow analysis, project scheduling with resource constraints, resource leveling and resource allocation, Time cost Trade off: Crashing Heuristic.",
+            "unit4": "Project implementation – project monitoring and control with PERT/Cost, Computers applications in project management, project procurement management.",
+            "unit5": "Post – project analysis.",
+            "textbooks": "1. Shtub, Bard and Globerson, Project Management Engineering, technology and Implementation, PHI.\n2. Lock, Gower, Project Management Handbook.\n3. Wiest and Levy, Management guide to PERT/CPM, PHI.",
+            "refbooks": "1. Horald Kerzner, Project Management: A systematic approach to planning, scheduling and controlling, CBS Publications.\n2. S. Choudary, Project Scheduling and Monitoring in Practice.\n3. P.K. Joy, Total Project Management, The Indian Context, Macmillan India Ltd.,"        
+        }
+    ],
+    "sub6": [
+        {
+            "code": "MEDE 03",
+            "title": "Non-Conventional Energy Sources",
+            "credits": "3",
+            "unit1": "Introduction: Role and potential of new and renewable sources, The solar energy option, Environmental impact of solar power.\n\nPrinciples of Solar Radiation: Physics of the sun, The solar constant, Extraterrestrial and Terrestrial solar radiation, Solar radiation on tilted surface, Instruments for measuring solar radiation and sun shine, Solar radiation data.",
+            "unit2": "Solar Energy Collection: Flat plate and concentrating collectors, Classification of concentrating collectors, Orientation and Thermal analysis,Advanced collectors.\n\nSolar Energy Storage: Different methods, Sensible, Latent heat and Stratified storage, Solar Ponds.\n\nSolar Applications: Solar heating/cooling techniques,Solar distillation and drying - Photovoltaic energy conversion.",
+            "unit3": "Wind Energy: Sources and potentials, Horizontal and Vertical axis windmills, Performance characteristics.\n\nGeothermal Energy: Resources, Types of wells, Methods of harnessing the energy, Potential in India.",
+            "unit4": "Energy from Oceans: Tidal energy. Tides. Diurnal and semi-diurnal nature, Power from tides, Wave Energy, Waves, Theoretical energy available. Calculation of period and phase velocity of waves, Wave power systems, Submerged devices. Ocean thermal Energy, Principles, Heat exchangers, Pumping requirements, Practical considerations.",
+            "unit5": "BIO-ENERGY: Biomass energy sources. Plant productivity, Biomass wastes, Aerobic and Anaerobic bioconversion processed, Raw metrical and properties of bio-gas, Bio-gas plant technology and status, the energetics and economics of biomass systems, Biomass gasification.",
+            "textbooks": "1. RaiG.D. : Non-conventional Energy Sources, Standard PublishersDistributors.\n2. Ashok V Desai : Non-conventional Energy, New Age International.\n3. K. Udayakumar, M. Anandakrishnan: Renewable Energy Technologies, Narosa, 1997.\n4. Renewable Energy Resources- Basic Principles and Applications- G.N.Tiwari and M.K.Ghosal, Narosa Pub.\n5. Renewable Energy Resources/ John Twidell& Tony Weir.\n6. Biological Energy Resources/ Malcolm Fleischer & Chris Lawis.\n7. Kothari D.P., \"Renewable energy resources and emerging technologies\", Prentice Hall of India Pvt. Ltd.",
+            "refbooks": "1. Twidell and Weir: Renewable Energy Sources, 2nd Edition, Taylor & Francis, 2006.\n2. Sukhatme: Solar Energy, 1st Edition,Tata McGraw-Hill Education, 2008.\n3. D. Yogi Goswami, Jan F. Kreider.:Solar Power Engineering, 2nd Edition, Taylor & Francis, 2006."        
+        }
+    ],
+    "lab1": [
+        {
+            "code": "MEP 05",
+            "title": "IC Engines Lab",
+            "credits": "2",
+            "todo": "List of Experiments:\n\n1. Load Test and Smoke Test on I.C. Engines.\n2. Morse Test on Multi-Cylinder Engine.\n3. Heat balance sheet on I.C. Engines.\n4. Study of Multi-Cylinder and determination of its firing order.\n5. Performance Test on Air Compressor.\n6. Determination of pressure distribution around the given\n (1) cylinder\n (2) airfoil specimens kept in a uniform flow wind-tunnel.\n7. Study of Automobile Mechanisms.\n8. Verification of laws of balancing.\n9. Determination of ratios of angular speeds of shafts connected by Hooke’s joint.\n10. Determination of the ratio of times and ram velocities of Witworth quick return motion mechanism.\n a. To draw curves of slider displacement and crank angle and linear velocities w.r.t. times for a slider crank mechanism and compare with theoretical values.\n b. To draw the crank angle vs. pressure diagram for an I.C. engine using pressure transducer and cathode ray oscilloscope.\n11. Load Test and Emission Test with 5-Gas Analysis 2 smoke meter on four stroke diesel engine with Bio-diesel fuel.\n12. Performance Test on centrifugal blower.\n13. Economical Speed Test on volumetric efficiency test on I.C engine.\n14. Retardation Test on an I.C. Engine.\n15. Air fuel ratio & volumetric efficiency test on I. C. Engine.\n16. Test for optimum flow rate of cooling water for an I. C. Engine.\n17. Valve Timing diagrams for Petrol & Diesel Engine cut models.\n18. Port Timing diagrams for Petrol & Diesel Engine cut models.",
+            "refbooks": ""
+            
+        }
+    ],
+    "lab2": [
+        {
+            "code": "MEP 06",
+            "title": "Metrology Lab",
+            "credits": "2",
+            "todo": "1. Calibration of any two of the following instruments: (using slip gauges)\n i. Calibration of Micrometer.\n ii. Calibration of Mechanical Comparator.\n iii. Calibration of Vernier Caliper.\n iv. Calibration of Dial Gauge.\n\n2. Measurement of taper angle using:\n i. Bevel Protractor.\n ii. Dial Gauge.\n iii. Sine-Bar.\n iv. Auto-Collimator.\n\n3. Alignment tests:\n i. Parallelism of the spindle.\n ii. Circularity & Concentricity of the spindle.\n iii. Trueness of running of the spindle.\n\n4. Gear testing:\nTo find;\n i. diameter, pitch/module.\n ii. pitch circle diameter.\n iii. pressure angle.\n iv. tooth thickness.\n\n5. Check the straightness of a surface plate:\n i. Using spirit level. (or)\n ii. Using Auto-collimator.\n\n6. Check the flatness of a surface plate using one of the above methods.\n\n7. Using light wave interference:\n i. Study of flatness of slip gauges.\n ii. To find the height of a slip gauge.\n\n8. Tool Maker's Microscope:\n i. Establish the thread details.\n ii. To find the cutting tool angles.\n\n9. Miscellaneous:\n i. To find the diameter of a cylindrical piece.\n ii. Taper angle of a V-block.\n iii. Central distance of two holes of a specimen.",
+            "refbooks": ""
+        }
+    ]
+}

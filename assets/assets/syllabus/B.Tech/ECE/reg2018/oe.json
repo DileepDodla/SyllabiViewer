@@ -1,0 +1,101 @@
+{
+    "subcount": 7,
+    "sub1": [
+        {
+            "code": "OEC-EC 01",
+            "title": "Sensors and Transducers",
+            "credits": "3",
+            "unit1": "Introduction – Principles – Classification – Parameters – Environmental Parameters – Characterization – Inductive Sensors – Capacitive Sensors.",
+            "unit2": "Magnetic Sensors – Hall effect Sensors – Synchros and Synchro – Resolvers.\n\nRadiation Sensors – Photosensistors and Photodetectors – X-ray and Nuclear radiation sensors – Fiber Optic Sensors.",
+            "unit3": "Electro Analytical Sensors – Electrochemical Cell – Cell Potential – Reference Electrodes – Sensor Electrodes – Electroceromics in gas media.",
+            "unit4": "Smart Sensors – Excitation – Amplification – Filters – Converters – Compensation – Information Coding & Processing – Data Communication.",
+            "unit5": "Film Sensors – Thick and Thin – MEMS – Flow-rate, Pressure, Temperature – Sensor – Torque and Position Sensors.",
+            "textbooks": "1. D. Patranabis, Sensors and Transducers, Second Edition, PHI Learning Private Limited, 2003, Delhi. SBN-978-81-203-2198-4.",
+            "refbooks": ""
+        }
+    ],
+    "sub2": [
+        {
+            "code": "OEC-EC 02",
+            "title": "Microprocessors and Interfacing",
+            "credits": "3",
+            "unit1": "Overview of microcomputer systems and their building blocks, Introduction to 8-bit microprocessor (8085) Architecture, Addressing modes, Instruction set, Machine cycles, instruction cycle and timing states, instruction timing diagrams, simple programs in 8085.",
+            "unit2": "Semiconductor memories: RAM, ROM, SRAM, and DRAM. Memory interfacing, concepts of interrupts and Direct Memory Access.\n\nI/O Interfacing with peripherals: Timer, serial I/O, parallel I/O, A/D and D/A converters, Arithmetic Coprocessors, System level interfacing design.",
+            "unit3": "The 8051 8-bit microcontroller Architecture, ALU, address, data and control bus, working registers, SFRs, Clock and RESET circuits, Stack and Stack Pointer, Program Counter, I/O ports, Memory Structures, Data and Program Memory, Addressing Modes, Data types, 8051 Instruction set, Instruction timings. Subroutines, Timing diagrams and Execution Cycles.",
+            "unit4": "8051 Programming: Assembly language programs, C language programs, Assemblers and compilers, Programming and debugging tools.\n\nMemory and I/O Interfacing: Memory and I/O expansion buses, Control signals, memory wait states. Interfacing of peripheral devices such as General Purpose I/O, Analog to Digital Converter (ADC), Digital to Analog converter (DAC), timers, counters, and memory devices.",
+            "unit5": "External Communication Interface: Synchronous and Asynchronous Communication, RS232, SPI, I2C. Introduction and interfacing to protocols like Blue-tooth and Zig-bee. Applications of LED, LCD and keyboard interfacing, interfacing of Stepper motor, DC Motor, and sensors.",
+            "textbooks": "1. Ramesh S. Gaonkar, “Microprocessor Architecture: Programming and Applications with the 8085”, Penram International Publishers, 1996.\n2. Muhammad Ali Mazidi, Janice Gillispie Mazidi, Rolin D. McKinley, “The 8051 Microcontroller and Embedded Systems: Using Assembly and C”, 2nd Edition, Pearson Education, 2007.\n3. Kenneth J. Ayala, “The 8051 Microcontroller Architecture, Programming and Applications”, Penram International Publishing/ Thomson Publishers, 2nd Edition, 2005.\n4. D. A. Patterson and J. H. Hennessy, “Computer Organization and Design: The Hardware/Software interface”, Morgan Kaufman Publishers, 2013.\n5. D. V. Hall, “Microprocessors and Interfacing”, McGraw Hill Higher Education, 1991.",
+            "refbooks": ""
+        }
+    ],
+    "sub3": [
+        {
+            "code": "OEC-EC 03",
+            "title": "Data and Computer Communication",
+            "credits": "3",
+            "unit1": "Data communications: Introduction – History of data communications – Data communications circuits – Data communications codes – Error control – Synchronization – Data communications hardware – serial interfaces – Transmission media and data modems.",
+            "unit2": "Data communications protocols: Introduction - public data network – ISO protocol hierarchy – CCITT X.25 user to network interface protocol – Local area networks – Metropolitan area networks – Wide area networks.",
+            "unit3": "Digital multiplexing: Time-division multiplexing – TI digital carrier system – CCITT time –division – Multiplexed carrier system – codecs – T-carriers-frame synchronization – Bit interleaving versus word interleaving. Frequency division multiplexing: AT & T’s FDM hierarchy – composite baseband signal – L carriers – Hybrid data.",
+            "unit4": "Multiple access: TDMA – FDMA – CDMA – CSMA/CD – multiple access information flow – Demand – assignment multiple access – access algorithms – ALOHA, slotted ALOHA, polling techniques.",
+            "unit5": "Spread-spectrum techniques: The beneficial attributes of spread-spectrum systems model for spreadspectrum interference rejection – Pseudonoise sequences.\n\nDirect-sequence spread-spectrum systems – examples of direct sequencing – processing gain and performance.",
+            "textbooks": "1. Wayne Tomasi, ‘Advanced Electronic Communications Systems’, Pearson Education [ I, II and III ].\n2. Bernard Sklar, Digital Communications – Fundamentals and Aapplications, 2nd Eedition, Pearson Education [ IV and V].\n3. Stallings – Data and Computer Commnication, 6th Edition, Pearson Education.\n4. Taub & Schlling, Principles of Communication System, Mc Graw Hill.",
+            "refbooks": ""
+        }
+    ],
+    "sub4": [
+        {
+            "code": "OEC-EC 04",
+            "title": "Neural Networks and Fuzzy Logic",
+            "credits": "3",
+            "unit1": "Artificial Neural Networks: Introduction to neural networks, biological neurons, artificial neurons, McCulloch-Pitt’s neuron model, neuron modeling for artificial neural systems, feed forward network, perceptron network, Supervised and un-supervised learning.\n\nLearning Rules: Hebbian learning Rule, Perceptron learning Rule, Delta learning Rule, Winner-take-all learning rule, Out-star learning rule.",
+            "unit2": "Supervised Learning: Perceptrons, exclusive OR problem, single layer perceptron network, multi-layer feed forward networks: linearly non separable patter classification, delta learning rule for multi perceptron layer, error back propagation algorithm, training errors, ADALINE, introduction to Radial Basis Function Networks(RBFN).",
+            "unit3": "Un-Supervised Learning: Hamming net, Max net. Winner–take–all learning, counter propagation network, feature mapping, self-organizing feature maps\n\nApplications of neural Algorithms: elementary aspects of applications of character recognition. Neural Network control applications: Process identification, Basic dynamic learning control architecture.",
+            "unit4": "Fundamentals of fuzzy logic and fuzzy sets: Definition of fuzzy set , a-level fuzzy set , cardinality, operations on fuzzy sets: union, intersection, complement, Cartesian product, algebraic sum, definition of fuzzy relation, properties of fuzzy relations, fuzzy composition.",
+            "unit5": "Design of Fuzzy Systems: Components of fuzzy systems, functions of fuzzification, Rule base patterns, Inference mechanisms.\n\nMethods of de-fuzzification: COG, COA, MOM, Weighted average, height methods, Design of Fuzzy Systems for temperature setting of water heater, fuzzy system for control of air conditioner.",
+            "textbooks": "1. S.Rajasekaran & G.A. Vijayalakshmi Pai, “Neural Networks, Fuzzy logic, and Genetic Algorithms”, PHI, EEE, 2003.\n2. Fakhreddine O.Karray & Clarance De Silva, “Soft Computing and Intelligent Systems, Design Theory, Tools and Applications”, Pearson, 2009.\n3. Jacek M Zurada, “Introduction to artificial Neural Systems”, Jaico Publications.\n4. Zimmerman, “Fuzzy Set Theory and its Applications” , Kluwer Academic Publishers.\n5. Timothy J. Ross, “ Fuzzy Logic with Engineering Applications”, (McGrawHill).",
+            "refbooks": ""
+        }
+    ],
+    "sub5": [
+        {
+            "code": "OEC-EC 05",
+            "title": "Internet of Things and Applications",
+            "credits": "3",
+            "unit1": "IoT & Web Technology The Internet of Things Today, Time for Convergence, Towards the IoT Universe, Internet of Things Vision, IoT Strategic Research and Innovation Directions, IoT Applications, Future Internet Technologies, Infrastructure, Networks and Communication, Processes, Data Management, Security, Privacy & Trust, Device Level Energy Issues, IoT Related Standardization, Recommendations on Research Topics.",
+            "unit2": "M2M to IoT – A Basic Perspective– Introduction, Some Definitions, M2M Value Chains, IoT Value Chains, An emerging industrial structure for IoT, The international driven global value chain and global information monopolies. M2M to IoT-An Architectural Overview– Building an architecture, Main design principles and needed capabilities, An IoT architecture outline, standards considerations.",
+            "unit3": "IoT Architecture -State of the Art – Introduction, State of the art, Architecture Reference Model-Introduction, Reference Model and architecture, IoT reference Model, IoT Reference Architecture- Introduction, Functional View, Information View, Deployment and Operational View, Other Relevant architectural views.",
+            "unit4": "IoT Applications for Value Creations Introduction, IoT applications for industry: Future Factory Concepts, Brownfield IoT, Smart Objects, Smart Applications, Four Aspects in your Business to Master IoT, Value Creation from Big Data and Serialization, IoT for Retailing Industry, IoT For Oil and Gas Industry, Opinions on IoT Application and Value for Industry, Home Management, eHealth.",
+            "unit5": "Internet of Things Privacy, Security and Governance Introduction, Overview of Governance, Privacy and Security Issues, Contribution from FP7 Projects, Security, Privacy and Trust in IoT-Data-Platforms for Smart Cities, First Steps Towards a Secure Platform, Smartie Approach. Data Aggregation for the IoT in Smart Cities, Security.",
+            "textbooks": "1. Vijay Madisetti and ArshdeepBahga, “Internet of Things (A Hands-on-Approach)”, 1st Edition, VPT, 2014.\n2. Francis daCosta, “Rethinking the Internet of Things: A Scalable Approach to Connecting Everything”, 1stEdition, Apress Publications, 2013.\n3. CunoPfister, “Getting Started with the Internet of Things”, O Reilly Media, 2011.",
+            "refbooks": ""
+        }
+    ],
+    "sub6": [
+        {
+            "code": "OEC-EC 06",
+            "title": "Remote Sensing",
+            "credits": "3",
+            "unit1": "Physics Of Remote Sensing: Electro Magnetic Spectrum, Physics of Remote Sensing-Effects of Atmosphere-Scattering–Different types–Absorption-Atmospheric window-Energy interaction with surface features –Spectral reflectance of vegetation, soil and water atmospheric influence on spectral response patterns-multi concept in Remote sensing.\n\nData Acquisition: Types of Platforms–different types of aircrafts-Manned and Unmanned space crafts–sun synchronous and geo synchronous satellites –Types and characteristics of different platforms – LANDSAT, SPOT, IRS, INSAT, IKONOS, QUICKBIRD etc.",
+            "unit2": "Photographic products, B/W,color, color IR film and their characteristics –resolving power of lens and film - Optomechanical electro optical sensors –across track and along track scanners - multispectral scanners and thermal scanners–geometric characteristics of scanner imagery - calibration of thermal scanners.",
+            "unit3": "Scattering System: Microwave scatterometry, types of RADAR –SLAR –resolution –range and azimuth –real aperture and synthetic aperture RADAR. Characteristics of Microwave images topographic effect-different types of Remote Sensing platforms –airborne and space borne sensors -ERS, JERS, RADARSAT, RISAT -Scatterometer, Altimeter-LiDAR remote sensing, principles, applications.",
+            "unit4": "Thermal And Hyper Spectral Remote Sensing: Sensors characteristics-principle of spectroscopy - imaging spectroscopy–field conditions, compound spectral curve, Spectral library, radiative models, processing procedures, derivative spectrometry, thermal remote sensing –thermal sensors, principles, thermal data processing, applications.",
+            "unit5": "Data Analysis: Resolution–Spatial, Spectral, Radiometric and temporal resolution-signal to noise ratio-data products and their characteristics-visual and digital interpretation–Basic principles of data processing –Radiometric correction–Image enhancement–Image classification–Principles of LiDAR, Aerial Laser Terrain Mapping.",
+            "textbooks": "1. Lillesand.T.M. and Kiefer.R.W,“Remote Sensing and Image interpretation”, 6th Edition, John Wiley & Sons, 2000.\n2. John R. Jensen, “Introductory Digital Image Processing: A Remote Sensing Perspective”, 2nd Edition, Prentice Hall,1995.\n3. Richards, John A., Jia, Xiuping, “Remote Sensing Digital Image Analysis”,5th Edition, Springer-Verlag Berlin Heidelberg, 2013.\n4. Paul Curran P.J. Principles of Remote Sensing, 1st Edition, Longman Publishing Group, 1984.\n5. Charles Elachi, Jakob J. van Zyl, “Introduction to The Physicsand Techniques of Remote Sensing”, 2nd Edition, Wiley Serie, 2006.\n6. Sabins, F.F.Jr, “Remote Sensing Principles and Image Interpretation”, 3rd Edition, W.H.Freeman& Co, 1978.",
+            "refbooks": ""
+        }
+    ],
+    "sub7": [
+        {
+            "code": "OEC-EC 07",
+            "title": "Big Data Analytics",
+            "credits": "3",
+            "unit1": "What is big data, why big data, convergence of key trends, unstructured data, industry examples of big data, web analytics, big data and marketing, fraud and big data, risk and big data, credit risk management, big data and algorithmic trading, big data and healthcare, big data in medicine, advertising and big data, big data technologies, introduction to Hadoop, open source technologies, cloud and big data, mobile business intelligence, Crowd sourcing analytics, inter and trans firewall analytics.",
+            "unit2": "Introduction to NoSQL, aggregate data models, aggregates, key-value and document data models, relationships, graph databases, schemaless databases, materialized views, distribution models, sharding, master-slave replication, peerpeer replication, sharding and replication, consistency, relaxing consistency, version stamps, map-reduce, partitioning and combining, composing map-reduce calculations.",
+            "unit3": "Data format, analyzing data with Hadoop, scaling out, Hadoop streaming, Hadoop pipes, design of Hadoop distributed file system (HDFS), HDFS concepts, Java interface, data flow, Hadoop I/O, data integrity, compression, serialization, Avro, file-based data structures.",
+            "unit4": "MapReduce workflows, unit tests with MRUnit, test data and local tests, anatomy of MapReduce job run, classic Map-reduce, YARN, failures in classic Map-reduce and YARN, job scheduling, shuffle and sort, task execution, MapReduce types, input formats, output formats.",
+            "unit5": "Hbase, data model and implementations, Hbase clients, Hbase examples, praxis.Cassandra, Cassandra data model, Cassandra examples, Cassandra clients, Hadoop integration. Pig, Grunt, pig data model, Pig Latin, developing and testing Pig Latin scripts. Hive, data types and file formats, HiveQL data definition, HiveQL data manipulation, HiveQL queries.",
+            "textbooks": "1. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, “Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses”, Wiley, 2013.\n2. P. J. Sadalage and M. Fowler, “NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence”, Addison-Wesley Professional, 2012.\n3. Tom White, “Hadoop: The Definitive Guide”, Third Edition, O'Reilley, 2012.\n4. Eric Sammer, “Hadoop Operations”, O'Reilley, 2012.\n5. E. Capriolo, D. Wampler, and J. Rutherglen, “Programming Hive”, O'Reilley, 2012.\n6. Lars George, “HBase: The Definitive Guide”, O'Reilley, 2011.\n7. Eben Hewitt, “Cassandra: The Definitive Guide”, O'Reilley.",
+            "refbooks": ""
+        }
+    ]
+}
