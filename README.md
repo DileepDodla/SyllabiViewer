@@ -1,4 +1,6 @@
 # Syllabi Viewer [SVUCE]
+[App made with Flutter & Dart]  
+[Webapp made using dart2js compiler from the built app] 
 
 Viewing syllabus made easy. 
 
